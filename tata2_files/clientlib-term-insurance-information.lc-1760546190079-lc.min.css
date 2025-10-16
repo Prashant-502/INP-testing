@@ -1,0 +1,58 @@
+.desktopleft{position:absolute;left:0;top:30%;width:160px;height:0}
+.desktopleft .cmp-image__image{width:160px}
+.desktopright{position:absolute;right:0;top:30%;width:160px;height:0}
+.desktopright .cmp-image__image{width:160px}
+.mobileleft{display:none}
+.mobileright{display:none}
+.term-insurance-information{padding:unset !important;margin:unset !important;position:relative;width:fit-content;border-right:1px solid #e6e7e8}
+.term-insurance-information:last-child{border-right:unset}
+.term-insurance-information-container>.cmp-container{display:flex;justify-content:center;position:relative}
+.term-insurance-info-card{width:fit-content}
+.term-insurance-info-card .cmp-teaser{display:flex;gap:20px;align-items:center;width:fit-content;margin:0 40px;cursor:pointer}
+.term-insurance-info-card .cmp-teaser .cmp-teaser__image{width:64px;height:64px}
+.term-insurance-info-card .cmp-teaser .cmp-teaser__image img{height:100%;width:100%}
+.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .gray-text{display:flex;align-items:center;margin-bottom:3px;color:#333;font-family:'Inter';font-size:1.125rem;font-weight:400;line-height:27px;letter-spacing:-0.18px}
+.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .gray-text img{width:24px;height:24px;margin-right:10px}
+.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description>p,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description>h1,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description>h2,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description>h3,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description>h4,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description>h5,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description>h6{font-size:smaller;line-height:normal}
+.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .lead,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description h1 .lead,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description h2 .lead,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description h3 .lead,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description h4 .lead,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description h5 .lead,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description h6 .lead{font-family:'Inter';font-size:1.25rem;font-weight:700;letter-spacing:-0.2px;color:#333}
+.term-insurance-customer-info{width:526px;border-radius:20px;border:1px solid #0073bb;background:#FFF;padding:11px 20px 20px 20px;position:relative;position:absolute;left:-28%;display:none;top:83px;z-index:10}
+.term-insurance-customer-info::after{content:'';position:absolute;top:-16px;left:47%;width:30px;height:30px;border-right:1px solid #0073bb;border-top:1px solid #0073bb;transform:rotate(-45deg);background:white}
+.term-insurance-customer-info .cmp-teaser{position:relative}
+.term-insurance-customer-info .cmp-teaser .cmp-teaser__image{width:64px;height:64px}
+.term-insurance-customer-info .cmp-teaser .cmp-teaser__content .cmp-teaser__title{position:absolute;top:8px;color:#0073bb;font-family:'Inter';font-size:1.5rem;font-weight:700;letter-spacing:-0.24px;left:17%;line-height:normal}
+.term-insurance-customer-info .cmp-teaser .cmp-teaser__content .cmp-teaser__pretitle{position:absolute;top:35px;left:17%;color:#333;font-family:'Inter';font-size:1.125rem;font-weight:400;line-height:27px;letter-spacing:-0.18px}
+.term-insurance-customer-info .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .lead{color:#58595b;font-family:'Inter';font-size:1rem;font-weight:400;line-height:24px;letter-spacing:-0.16px;padding-top:10px;display:block}
+.term-insurance-information .term-insurance-customer-info .new-hp-tickerinfo-sec .new-hp-tickerpopup-desc a img{width:32px;height:27px}
+.term-insurance-information .term-insurance-customer-info .new-hp-tickerinfo-sec{position:absolute;right:0;width:32px;height:27px;top:-29%}
+.term-insurance-customer-info .cmp-teaser .cmp-teaser__content .cmp-teaser__description p img{width:32px;height:27px;position:absolute;top:10px;right:0}
+@media screen and (max-width:768px){.desktopleft{display:none}
+.desktopright{display:none}
+.term-insurance-information-container>.cmp-container{align-items:center}
+.term-insurance-information{border-right:unset}
+.term-insurance-information:last-child{border-bottom:unset}
+.term-insurance-info-card .cmp-teaser .cmp-teaser__image{width:32px;height:32px}
+.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .gray-text img{width:16px;height:16px;margin-right:5px}
+.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .gray-text{font-size:.625rem;font-weight:400;line-height:normal;letter-spacing:-0.1px;margin-bottom:unset}
+.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .lead,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description h1 .lead,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description h2 .lead,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description h3 .lead,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description h4 .lead,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description h5 .lead,.term-insurance-info-card .cmp-teaser .cmp-teaser__content .cmp-teaser__description h6 .lead{color:#333;font-size:.75rem;letter-spacing:-0.12px}
+.term-insurance-info-card .cmp-teaser{margin:11px 0;gap:5px}
+.term-insurance-customer-info .cmp-teaser .cmp-teaser__image{width:48px;height:48px}
+.term-insurance-customer-info{width:320px;left:50%;top:70px;transform:translate(-50%,0);padding:12px 20px 20px 20px}
+.term-insurance-customer-info .cmp-teaser .cmp-teaser__content .cmp-teaser__title{font-size:1.125rem;line-height:normal;letter-spacing:-0.18px;left:25%;top:5px}
+.term-insurance-customer-info .cmp-teaser .cmp-teaser__content .cmp-teaser__pretitle{font-size:.875rem;font-weight:400;line-height:22.4px;letter-spacing:-0.16px;left:25%;top:28px}
+.term-insurance-customer-info .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .lead{font-size:.875rem;font-weight:400;line-height:19.6px;letter-spacing:-0.14px;padding-top:10px}
+.mobileright{display:block;position:absolute;right:0;top:15%;width:9px;height:42px}
+.mobileright .cmp-image__image{width:9px;height:42px;display:block}
+.mobileleft{display:block;position:absolute;left:0;top:15%;width:9px;height:42px}
+.mobileleft .cmp-image__image{width:9px;height:42px;display:block}
+.term-insurance-information .cmp-teaser__content{margin-right:10px}
+.term-insurance-info-card{margin-left:5px;border-right:1px solid #e6e7e8}
+.term-insurance-information-container{position:relative}
+.term-insurance-information{position:unset}
+.term-insurance-customer-info::after{top:-10.5px;width:20px;height:20px}
+.term-insurance-information .term-insurance-customer-info .new-hp-tickerinfo-sec{top:-17%}
+.term-insurance-customer-info::after{left:30px}
+.term-insurance-information:last-child .term-insurance-customer-info::after{left:unset;right:42%}
+.term-insurance-information:first-child .term-insurance-customer-info::after{left:25%}
+.term-insurance-information:last-child .term-insurance-info-card{border-right:unset}
+.term-insurance-customer-info .cmp-teaser .cmp-teaser__content .cmp-teaser__description p img{position:absolute;top:8px;right:0}
+}

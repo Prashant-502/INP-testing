@@ -1,0 +1,43 @@
+.fund-leftSection-main-wrp>.cmp-container{position:relative}
+.fundbanner-bgimage-cont>.cmp-container{width:90%;border-radius:18px;padding:10px 15px;position:relative}
+.fundbanner-mob-bgcolor-cont>.cmp-container{display:none}
+.fundbanner-mob-btmTxt{display:none}
+.fund-cards-btm-txt-wrp>.cmp-container{position:absolute;top:93%}
+.fund-cards-wrp>.cmp-container{gap:23px;justify-content:start;margin-left:12px}
+.fund-cards-wrp .teaser--plansbenefitcards{height:unset}
+.fund-cards-wrp .teaser--plansbenefitcards .cmp-teaser{max-width:185px;width:185px;padding:10px 20px;background-color:white;opacity:.9;height:100%}
+.fund-cards-wrp .teaser--plansbenefitcards .cmp-teaser .cmp-teaser__description{margin-top:0;font-size:.813rem;display:flex;flex-direction:column;align-items:center}
+@media screen and (max-width:768px){.fundbanner-bgimage-cont>.cmp-container{width:100%;background-image:none !important;display:flex;flex-direction:column;gap:15px;margin:20px 0}
+.fundbanner-mob-bgcolor-cont>.cmp-container{display:block;width:100%;border-radius:18px;padding:20px}
+.fundbanner-mob-btmTxt{display:block}
+.fundbanner-mob-btmTxt>.cmp-text{color:#FFF;text-align:center;font-family:'helveticaregular';font-size:.75rem;font-weight:700;letter-spacing:.7px}
+.fund-cards-wrp>.cmp-container{display:none}
+}
+.fund-perf--bannerheading .cmp-text{width:67%}
+.fund-leftSection-main-wrp .ilp-calc-banner-desk-title>.cmp-text{width:96%}
+.fund--viewmorefundsbtn .cmp-button{position:absolute;padding:10px;right:-10px;top:22px;padding:10px;border-radius:10px 0 10px 10px;background:#FFF}
+.fund--viewmorefundsbtn .cmp-button .cmp-button__text{color:var(--Primary-Blue,#0073bb);text-align:right;font-family:Helvetica;font-size:.875rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.14px}
+.fund--viewmorefundsbtn .cmp-button::after{content:"";width:10px;height:4px;background-color:#5b5b5b;position:absolute;right:0;top:-4px;border-radius:0 10px 0 0}
+.fund-mob-viewmorefundsbtn{display:none}
+.fundBannerHeading{font-family:'Inter',sans-serif;font-size:21.12px;font-weight:700;letter-spacing:.25px}
+@media screen and (max-width:768px){.fund-leftSection-main-wrp .ilp-calc-banner-desk-title{display:block;text-align:center}
+.fund-performance-title .cmp-text{text-align:center;margin-top:20px}
+.fund-perf--bannerheading .cmp-text{width:100%}
+.fund-perf--bannerheading .cmp-text{text-align:center;font-size:1rem}
+.fund-mob-graph-btn-wrp>.cmp-container{gap:15px;flex-direction:column}
+.fund--viewmorefundsbtn{display:none}
+.fund-mob-viewmorefundsbtn{display:flex;border-radius:10px;text-align:center;background:linear-gradient(89deg,#0073bb .58%,#d62049 99.42%);overflow:hidden;padding:1px;justify-content:center;margin:0 auto}
+.fund-mob-viewmorefundsbtn .cmp-button{padding:13px 28px;border-radius:10px;background-color:white}
+.fund-mob-viewmorefundsbtn .cmp-button .cmp-button__text{text-align:center;font-family:Helvetica;font-size:.813rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.123px;background:var(--Gradient-Heading,linear-gradient(89deg,var(--primary-blue) .58%,var(--primary-red) 99.42%));background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.fundBannerHeading{font-size:16px;text-align:center}
+}
+.fund-mob-graph-btn-wrp>.cmp-container{position:relative}
+.fund-value-rising-arrow .cmp-image__image{position:absolute;top:34%;right:17%}
+.fund-value-rising-arrow .extended__mobileimage{position:absolute;top:25%;left:51%}
+.graph-size--fundfirstfold .bar-chart-wrapper{position:relative}
+.res-fund-rising-arrow .cmp-image__image{position:absolute;top:35.5%;left:51%}
+.res-fund-graph-container>.cmp-container{position:relative}
+.graph-fundResultPage .bar-chart-wrapper{position:relative}
+@media screen and (max-width:768px){.fund-value-rising-arrow .cmp-image__image{top:18%;right:34%}
+.res-fund-rising-arrow .cmp-image__image{top:23%;left:51%}
+}

@@ -1,0 +1,30 @@
+.newcalctab-btn--Wrapper>.cmp-container{padding-top:24px;justify-content:center;gap:16px}
+.newcalctab-btn--Wrapper .newcalctab-btn.active{position:relative;overflow:visible;background:linear-gradient(89deg,#0073bb 1.58%,#d62049 79.42%);padding:1px;border-radius:18px;background-color:white}
+.newcalctab-btn--Wrapper .newcalctab-btn.active>.cmp-button{background-color:white;border:0}
+.newcalctab-btn--Wrapper .newcalctab-btn.active .cmp-button__text{margin-left:22px;color:black;margin-bottom:unset}
+.newcalctab-btn--Wrapper .newcalctab-btn.active .cmp-button__text::before{content:"";background-image:url(../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/newhpButton.svg);background-repeat:no-repeat;position:absolute;height:16px;width:16px;left:18px;bottom:11px}
+.newcalctab-btn>.cmp-button{cursor:pointer;max-width:100%;display:flex;padding:8px 16px;flex-direction:column;align-items:flex-start;gap:10px;border-radius:27px;border:1.5px solid var(--Secondary-Secondary-Grey,#a7a9ac);background-color:transparent}
+.newcalctab-btn>.cmp-button .cmp-button__text{color:#58595b;text-align:center;font-family:Inter;font-size:14px;font-style:normal;font-weight:700;line-height:18px;letter-spacing:-0.14px;margin-bottom:unset}
+.new-hp-tickerpopup-wrapper{position:relative}
+.new-hp-tickerpopup-wrapper{display:none}
+.new-hp-tickerpopup-wrapper.active{display:block;max-width:591px;width:100%;padding:20px;background:#fff;border:1px solid #f2f7fb;box-shadow:3px 6px 14px rgba(0,115,187,0.1);border-radius:20px;position:fixed;z-index:100;transform:translate(-50%,-50%);top:50%;left:50%}
+.new-hp-tickerpopup-close{position:absolute;right:20px;top:20px;height:12px;width:12px;cursor:pointer}
+.new-hp-tickerpopup-heading h2{font-family:'Inter',sans-serif;font-weight:700;font-size:18px;line-height:22px;color:#0073bb;margin-bottom:15px}
+.new-hp-tickerpopup-desc,.new-hp-tickerpopup-desc p{font-family:'helveticaregular',sans-serif;font-style:normal;font-weight:400;font-size:12px;line-height:18px;letter-spacing:-0.007em;color:#333}
+.new-hp-ticker-overlay.active{visibility:visible;opacity:1}
+.new-hp-ticker-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.6);z-index:99;visibility:hidden;opacity:0;transition:opacity .1s linear}
+.new-calc-right-ticker .cmp-teaser .cmp-teaser__description p{color:var(--Secondary-Secondary-Grey-Dark,#58595b);font-family:Inter;font-size:16px;font-style:normal;font-weight:400;line-height:normal}
+.bg-scroll{overflow:hidden}
+@media screen and (max-width:768px){.newcalctab-btn--Wrapper{position:relative;padding:unset;margin:unset}
+.newcalctab-btn--Wrapper>.cmp-container{overflow:scroll;padding-top:12px;gap:8px;justify-content:start}
+.newcalctab-btn--Wrapper>.cmp-container::-webkit-scrollbar{height:1px;width:1px}
+.newcalctab-btn--Wrapper>.cmp-container::-webkit-scrollbar-track{background:transparent}
+.newcalctab-btn--Wrapper>.cmp-container::-webkit-scrollbar-thumb{background-color:transparent}
+.newcalctab-btn--Wrapper::after{content:"";top:6px;height:100%;width:31px;position:absolute;right:0;background:linear-gradient(270deg,#f2f7fb 0,rgba(242,247,251,0.00) 100%)}
+.newcalctab-btn>.cmp-button{width:max-content}
+.newcalctab-btn>.cmp-button .cmp-button__text{font-size:12px}
+.new-calc-right-ticker .cmp-teaser .cmp-teaser__description p{font-size:14px}
+.new-hp-tickerpopup-wrapper.active{max-width:280px;width:100%}
+.new-hp-tickerpopup-heading h2{font-size:14px;line-height:17px;margin-bottom:11px}
+.new-hp-tickerpopup-desc,.new-hp-tickerpopup-desc p{font-size:10px;line-height:15px}
+}

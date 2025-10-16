@@ -1,0 +1,100 @@
+.ta-tab-content.show{display:block}
+.ta-fq-ans-w,.ta-tab-content{display:none}
+.ta-tabs-content-w .ta-tab-content-m{padding:30px 0}
+.remove-padd{padding:0}
+.ta-tabs-top-sec{border-bottom:1px solid #a7a9ac}
+.ta-tabs-top-sec .tab-alignment{justify-content:space-between}
+.ta-tabs-list-w{display:block;padding:0}
+.faqSection .ta-tabs-list-w{display:flex;flex-wrap:wrap}
+.ta-km-cta,.ta-tabs-list{display:inline-block;font-size:24px;line-height:normal;text-align:center;cursor:pointer}
+.faqSection .ta-tabs-list{font-family:"HelveticaNeueLTStd-Md";letter-spacing:-0.5px;color:#a7a9ac;position:relative;padding:10px 0;width:20%;transition:.2s linear}
+.ta-km-cta,.ta-tabs-list.active{color:#0073bb}
+.ta-tabs-list::after{display:block;position:absolute;width:0;height:2px;background:#0073bb;content:"";transition:.2s linear;bottom:-1px;left:50%;box-sizing:border-box}
+.ta-tabs-list.active::after{width:100%;left:0}
+.blue-bar-wh .faqSection{margin-bottom:40px}
+.faqSection{margin-bottom:100px}
+.header-tag-fonts .faqSection h4{font-weight:700;font-size:28px;color:#333;line-height:normal}
+.remove-margin-bottom .faqSection{margin-bottom:0}
+.faqSection h4,.faqSection h2{font-family:Inter,sans-serif;font-size:42px;font-weight:700;font-stretch:normal;font-style:normal;line-height:1.31;letter-spacing:-0.47px;color:#333;margin-bottom:55px}
+.header-tag-fonts .faqSection h2{font-size:36px;font-family:'Inter',sans-serif;color:#333;line-height:normal;font-weight:700;font-stretch:normal;font-style:normal;letter-spacing:-0.47px;margin-bottom:55px}
+.ta-km-cta{text-decoration:underline;font-family:HelveticaNeueLTStd-Md,sans-serif;letter-spacing:-1px}
+.txt-center{text-align:center}
+.ta-fq-sec-w{padding:60px 0}
+.ta-fq-head{margin-bottom:30px}
+.ta-fq-content-ul{margin-bottom:60px}
+.ta-fq-content-li{border-radius:20px;box-shadow:3px 6px 14px 0 rgba(0,115,187,0.1);border:2px solid #ebf4fa;background-color:#fff;margin-bottom:16px}
+.ta-fq-content-li:last-child{margin-bottom:0}
+.ta-fq-content-li.active .ta-sp-down-arr{transform:rotate(-135deg);top:39px}
+.ta-fq-content-q{padding:30px 56px 30px 30px;position:relative;cursor:pointer;display:block}
+.ta-sp-down-arr{border:solid #58595b;border-width:0 2px 2px 0;display:inline-block;padding:5px;box-sizing:border-box;transform:rotate(45deg);position:absolute;top:32px;right:44px;transition:transform .3s linear}
+.ta-fq-content-qtext{display:block;font-family:HelveticaNeueLTStd-Md;font-size:20px;line-height:24px;color:#58595b}
+.ta-fq-ans-m{padding:0 56px 30px 30px}
+.faqsectiontabs .faqSection h4.faq-title{margin-top:45px;margin-bottom:40px}
+.blue-bar-wh .ta-tabs-list-w{padding:0}
+.blue-bar-wh .ta-tabs-list.active{color:#0073bb}
+.blue-bar-wh .ta-tabs-list.active::after{width:100%;left:0}
+.blue-bar-wh .ta-tabs-list::after{display:block;position:absolute;width:0;height:2px;background:#0073bb;content:"";transition:.2s linear;bottom:-1px;left:50%;box-sizing:border-box}
+.blue-bar-wh .ta-tabs-list{font-family:HelveticaNeueLTStd-Md;letter-spacing:-0.5px;color:#a7a9ac;position:relative;transition:.2s linear;padding:14px 70px}
+.faqsec-rm-mrg-bottom .faqSection{margin-bottom:0}
+.faqsectiontabs .faqSection h4,.faqsectiontabs .faqSection h2{font-size:36px;font-family:"Inter";font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.36px;color:#333;margin-bottom:40px}
+.press-release-tabs .ta-tabs-list-w{display:flex;justify-content:space-between}
+.press-release-tabs .faqSection{margin-bottom:0}
+.press-release-tabs.faqsectiontabs .ta-tab-content{margin-top:0}
+.press-release-tabs .ta-tab-content-m{padding-top:40px;padding-bottom:80px}
+.faq-remove-space .faqSection{margin-bottom:50px}
+.homepage-faq-sec-tab .ta-tabs-content-w .ta-tab-content-m{padding-bottom:0}
+.homepage-faq-sec-tab .faq-accordian .ta-fq-content-li:last-child{margin-bottom:0}
+.homepage-faq-sec-tab .faqSection{margin-bottom:0}
+.press-release-tabs .faqSection .ta-tabs-list{font-size:1.5rem}
+.tab-large-text .faqSection .tab-text-align{flex-wrap:nowrap !important}
+.tab-large-text .faqSection .tab-text-align .ta-tabs-list{width:unset;padding:15px 20px;font-size:18px !important}
+.customer-service-tabs-revamp .faqSection .ta-tabs-list{font-family:'Inter';font-size:1.5rem;font-weight:500;line-height:normal;letter-spacing:-0.24px;width:25%}
+.customer-service-tabs-revamp.faqsectiontabs .ta-tab-content{margin-top:10px}
+.faqsectiontabs .faqSection .customer-service-tab-heading .common-rte-text h1,.faqsectiontabs .faqSection .customer-service-tab-heading .common-rte-text h2,.faqsectiontabs .faqSection .customer-service-tab-heading .common-rte-text h3,.faqsectiontabs .faqSection .customer-service-tab-heading .common-rte-text h4,.faqsectiontabs .faqSection .customer-service-tab-heading .common-rte-text h5,.faqsectiontabs .faqSection .customer-service-tab-heading .common-rte-text h6,.customer-service-tab-heading .common-rte-text h1,.customer-service-tab-heading .common-rte-text h2,.customer-service-tab-heading .common-rte-text h3,.customer-service-tab-heading .common-rte-text h4,.customer-service-tab-heading .common-rte-text h5,.customer-service-tab-heading .common-rte-text h6,.faqsectiontabs .faqSection .policy-cards-heading .common-rte-text h1,.faqsectiontabs .faqSection .policy-cards-heading .common-rte-text h2,.faqsectiontabs .faqSection .policy-cards-heading .common-rte-text h3,.faqsectiontabs .faqSection .policy-cards-heading .common-rte-text h4,.faqsectiontabs .faqSection .policy-cards-heading .common-rte-text h5,.faqsectiontabs .faqSection .policy-cards-heading .common-rte-text h6,.policy-cards-heading .common-rte-text h1,.policy-cards-heading .common-rte-text h2,.policy-cards-heading .common-rte-text h3,.policy-cards-heading .common-rte-text h4,.policy-cards-heading .common-rte-text h5,.policy-cards-heading .common-rte-text h6{color:var(--neutral-black);font-family:'Inter';font-size:2.25rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.36px;margin-bottom:10px}
+.faqsectiontabs .faqSection .customer-service-tab-heading .common-rte-text p,.customer-service-tab-heading .common-rte-text p{color:var(--neutral-black);font-family:'Inter';font-size:1.125rem;font-weight:400;line-height:27px;letter-spacing:-0.18px;margin-bottom:20px;margin-right:unset}
+.faqsectiontabs .faqSection .policy-cards-heading .common-rte-text p b,.policy-cards-heading .common-rte-text p b{color:var(--neutral-black);font-family:'Inter';font-size:1.5rem;font-weight:700;line-height:24px}
+.faqsectiontabs .faqSection .policy-cards-heading .common-rte-text p:has(b),.policy-cards-heading .common-rte-text p:has(b){margin-top:12px;margin-bottom:unset}
+.customer-service-tabs-revamp .faqSection{margin-bottom:10px}
+@media screen and (max-width:991.99px){.ta-fq-sec-w{padding:30px 0}
+.ta-fq-head{margin-bottom:20px}
+.ta-fq-content-ul{margin-bottom:30px}
+.ta-fq-content-li{margin-bottom:8px}
+.ta-fq-content-li.active .ta-sp-down-arr{top:27px}
+.ta-fq-content-q{padding:16px 26px 16px 16px}
+.ta-sp-down-arr{padding:4px;right:19px;top:20px}
+.ta-fq-content-qtext{color:#333;letter-spacing:-0.39px;font-size:14px;line-height:24px}
+}
+@media screen and (max-width:767.99px){.blue-bar-wh .ta-tabs-list{padding:12px 10px}
+.blue-bar-wh .ta-tabs-list-w{margin-left:0;margin-right:0}
+.faqsectiontabs.faq-remove-space .ta-tab-content-m{padding-bottom:unset}
+.faqsectiontabs .ta-tab-content-m{padding:0}
+.faqSection .ta-tabs-list{width:50%;padding:12px 10px;font-size:16px;line-height:normal;letter-spacing:-0.33px;min-width:106px}
+.ta-tabs-list-w{margin-left:0;margin-right:0;display:flex;padding:0;width:100%;overflow-y:scroll}
+.ta-tabs-sec-w{padding:18px 0 0}
+.faqSection{margin-bottom:50px;padding-top:5px}
+.header-tag-fonts .faqSection h4{font-size:22px;line-height:normal}
+.faqSection h4{font-size:28px;font-weight:800;line-height:1.29;letter-spacing:-0.78px;color:#333;margin-bottom:35px}
+.ta-km-cta{font-size:18px}
+.ta-fq-ans-m{padding:0 20px}
+.faqsectiontabs .ta-tabs-list-w{overflow:scroll hidden}
+.faqsectiontabs .faqSection h4.faq-title{margin-top:35px;margin-bottom:10px}
+.header-tag-fonts .faqSection h2{font-size:26px;margin-bottom:0}
+.ta-tabs-content-w .ta-tab-content-m{padding:0}
+.faqsectiontabs .faqSection h4,.faqsectiontabs .faqSection h2{margin-bottom:2px;font-size:24px;letter-spacing:-0.24px}
+.press-release-tabs .ta-tabs-top-sec{border-bottom:1px solid #a7a9ac}
+.faqsectiontabs .ta-tab-content-m{padding-top:0;padding-bottom:60px}
+.faqSection .ta-tabs-list-w{flex-wrap:nowrap}
+.homepage-faq-sec-tab .faqSection{margin-bottom:0}
+.header-tag-fonts .faqSection .faq-mobheader-font h4,.header-tag-fonts .faqSection .faq-mobheader-font h2{font-size:26px}
+.header-tag-fonts .faqSection .faq-mobheader-font h2{font-size:26px}
+.press-release-tabs .faqSection .ta-tabs-list{font-size:1rem}
+.customer-service-tabs-revamp .faqSection .ta-tabs-list{font-size:1.125rem;letter-spacing:-0.18px;padding:5px 10px}
+.customer-service-tabs-revamp.faqsectiontabs .ta-tab-content{margin-top:20px}
+.faqsectiontabs .faqSection .customer-service-tab-heading .common-rte-text h1,.faqsectiontabs .faqSection .customer-service-tab-heading .common-rte-text h2,.faqsectiontabs .faqSection .customer-service-tab-heading .common-rte-text h3,.faqsectiontabs .faqSection .customer-service-tab-heading .common-rte-text h4,.faqsectiontabs .faqSection .customer-service-tab-heading .common-rte-text h5,.faqsectiontabs .faqSection .customer-service-tab-heading .common-rte-text h6,.customer-service-tab-heading .common-rte-text h1,.customer-service-tab-heading .common-rte-text h2,.customer-service-tab-heading .common-rte-text h3,.customer-service-tab-heading .common-rte-text h4,.customer-service-tab-heading .common-rte-text h5,.customer-service-tab-heading .common-rte-text h6{font-size:1.625rem;letter-spacing:-0.26px;margin-bottom:5px;text-align:center}
+.faqsectiontabs .faqSection .customer-service-tab-heading .common-rte-text p,.customer-service-tab-heading .common-rte-text p{font-size:.875rem;line-height:21px;letter-spacing:-0.14px}
+.faqsectiontabs .faqSection .policy-cards-heading .common-rte-text p:has(b),.policy-cards-heading .common-rte-text p:has(b){display:none}
+.faqsectiontabs .faqSection .policy-cards-heading .common-rte-text h1,.faqsectiontabs .faqSection .policy-cards-heading .common-rte-text h2,.faqsectiontabs .faqSection .policy-cards-heading .common-rte-text h3,.faqsectiontabs .faqSection .policy-cards-heading .common-rte-text h4,.faqsectiontabs .faqSection .policy-cards-heading .common-rte-text h5,.faqsectiontabs .faqSection .policy-cards-heading .common-rte-text h6,.policy-cards-heading .common-rte-text h1,.policy-cards-heading .common-rte-text h2,.policy-cards-heading .common-rte-text h3,.policy-cards-heading .common-rte-text h4,.policy-cards-heading .common-rte-text h5,.policy-cards-heading .common-rte-text h6{font-size:1.25rem;line-height:24px;letter-spacing:normal;margin-bottom:unset}
+.customer-service-tabs-revamp .faqSection{margin-bottom:unset}
+.customer-service-tabs-revamp .faqSection .ta-tabs-sec-w{padding:0}
+}
+.tab-space-alingment .faqSection .ta-tabs-list{padding:10px 10px;width:max-content}

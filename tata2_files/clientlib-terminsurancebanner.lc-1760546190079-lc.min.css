@@ -1,0 +1,166 @@
+.proxycontainer.termInsurance_banner>.cmp-container{padding:30px 20px}
+.proxycontainer.termInsurance_banner .leadproxytext.banner-content-desktop-text{padding:0;width:426px}
+.proxycontainer.termInsurance_banner .leadproxytext.banner-content-desktop-text .cmp-text ul sup{line-height:unset;vertical-align:super}
+.proxycontainer.termInsurance_banner .leadproxytext.banner-content-desktop-text .cmp-text .lead,.proxycontainer.termInsurance_banner .leadproxytext.banner-content-desktop-text .cmp-text .subtitle_styling{font-size:2.125rem}
+.proxycontainer.termInsurance_banner .terminsurance_star{top:36px;width:229px;height:60px}
+.proxycontainer.termInsurance_banner .terminsurance_logo,.termInsurance_banner .terminsurance_logo .cmp-image__image{width:228px;height:95px}
+.proxycontainer.termInsurance_banner .terminsurance_star .leadproxytext .cmp-text{padding-right:10px}
+.proxycontainer.termInsurance_banner .terminsurance_star .leadproxytext{width:200px;justify-content:unset;position:relative;right:-2px}
+.proxycontainer.termInsurance_banner .terminsurance_star .lead .whiteText{color:#f2f7fb;font-family:'Inter';font-size:1.5rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.24px}
+.proxycontainer.termInsurance_banner .terminsurance_star .banner-star-text .sub-Text{color:#f2f7fb;font-family:'Inter';font-size:.875rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.12px;text-align:center}
+.proxycontainer.termInsurance_banner .terminsurance_star .leadproxytext .cmp-text p{color:unset;font-family:unset;font-size:unset;font-style:unset;font-weight:unset;line-height:unset;letter-spacing:unset;margin:unset}
+.proxycontainer.termInsurance_banner .terminsurance_star .leadproxytext img{position:unset;top:unset;width:19px;height:19px}
+.proxycontainer.termInsurance_banner .terminsurance_star .leadproxytext .undefined{position:relative;right:-5px}
+.proxycontainer.termInsurance_banner .leadproxytext.banner-content-desktop-text .cmp-text ul li{margin-bottom:10px}
+.proxycontainer.termInsurance_banner .leadproxytext.banner-content-desktop-text .cmp-text ul li .eclipse-dots,.proxycontainer.termInsurance_banner .leadproxytext.banner-content-desktop-text .cmp-text ul li .eclipse-dots b{font-size:1.063rem}
+.proxycontainer.termInsurance_banner .extendedimage.termInsurance_bannerImg{width:290px;height:312px;position:absolute;bottom:0;right:0}
+.proxycontainer.termInsurance_banner .extendedimage.terminsurance_shadow{position:absolute;right:0;bottom:0}
+.proxycontainer.termInsurance_banner .termInsurance_bannerImg .cmp-image,.proxycontainer.termInsurance_banner .termInsurance_bannerImg .cmp-image .cmp-image__image{width:unset;height:unset}
+.proxycontainer.terminsurance_star>.cmp-container{background:linear-gradient(90deg,#0073bb 0,#d62049 100%) !important}
+@media screen and (max-width:768px){.proxycontainer.termInsurance_banner .cmp-container{margin:unset}
+.proxycontainer.termInsurance_banner>.cmp-container{padding:8px 5px 19px 11px}
+.proxycontainer.termInsurance_banner .terminsurance_star{top:15px;width:124px;height:30px;right:0}
+.proxycontainer.termInsurance_banner .terminsurance_star .cmp-container{min-height:unset;border-radius:unset;padding:unset;padding-right:8px}
+.proxycontainer.termInsurance_banner .terminsurance_mb-none,.proxycontainer.investmentplan_banner .terminsurance_mb-none{display:none}
+.proxycontainer.termInsurance_banner .terminsurance_logo,.termInsurance_banner .terminsurance_logo .cmp-image__image{display:block;width:144px;height:60px}
+.proxycontainer.termInsurance_banner .banner-content-desktop-text p{padding:0 20px}
+.proxycontainer.termInsurance_banner .banner-content-desktop-text p .lead{width:unset}
+.proxycontainer.termInsurance_banner .banner-content-desktop-text .cmp-text ul li:has(.eclipse-dots){padding-left:50px;text-align:left}
+.proxycontainer.termInsurance_banner .terminsurance_star .leadproxytext .cmp-text{padding-right:0}
+.proxycontainer.termInsurance_banner .terminsurance_star .leadproxytext{width:unset;justify-content:end;position:unset}
+.proxycontainer.termInsurance_banner .terminsurance_star .leadproxytext img{width:10px;height:10px}
+.proxycontainer.termInsurance_banner .terminsurance_star .banner-star-text .sub-Text{font-size:.5rem;display:block;position:relative;bottom:2px}
+.proxycontainer.termInsurance_banner .terminsurance_star .lead .whiteText{font-size:.75rem;position:relative;bottom:1px}
+.proxycontainer.termInsurance_banner .terminsurance_star .leadproxytext .undefined{position:unset}
+.proxycontainer.termInsurance_banner .leadproxytext.banner-content-desktop-text{padding:unset;width:unset}
+.proxycontainer.termInsurance_banner .leadproxytext.banner-content-desktop-text .cmp-text .lead,.proxycontainer.termInsurance_banner .leadproxytext.banner-content-desktop-text .cmp-text .subtitle_styling{font-size:1rem}
+.proxycontainer.termInsurance_banner .leadproxytext.banner-content-desktop-text .cmp-text ul li .eclipse-dots,.proxycontainer.termInsurance_banner .leadproxytext.banner-content-desktop-text .cmp-text ul li .eclipse-dots b{font-size:.688rem}
+.proxycontainer.termInsurance_banner .terminsurance_star .leadproxytext .cmp-text p{text-align:unset}
+}
+.terminsurance-banner{width:723px;position:relative;padding:unset !important;margin:unset !important}
+.terminsurance-banner .cmp-container{width:100%;background-size:100% 100%;padding:30px;position:relative}
+.terminsurance-banner .image-tag{width:192px;height:80px;margin-bottom:24px}
+.terminsurance-banner .image-tag .cmp-image__image{width:192px;height:80px}
+.terminsurance-banner .leadproxytext{width:380px}
+.terminsurance-banner .leadproxytext .cmp-text p{color:#333;font-family:Inter;font-size:2.125rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.34px}
+.terminsurance-banner .leadproxytext .cmp-text p .blueText{color:#0073bb;font-family:Inter;font-size:2.125rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.34px}
+.terminsurance-banner .leadproxytext .cmp-text p .gradient-text{background:linear-gradient(90deg,#0073bb 0,#d62049 100%);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;font-family:Inter;font-size:1rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.16px;position:absolute;top:44px;right:15px;z-index:1}
+.terminsurance-banner .leadproxytext .cmp-text p .gradient-text sup{background:linear-gradient(90deg,#0073bb 0,#d62049 100%);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;font-family:Inter;font-size:1rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.16px;vertical-align:super;font-size:xx-small;margin-bottom:5px}
+.terminsurance-banner .tableResp{border-radius:10px;border:1px solid #0073bb;width:298px;margin-top:20px}
+.terminsurance-banner .tableResp table{border-collapse:separate;width:100%;border-radius:10px;border:unset}
+.terminsurance-banner .tableResp table tr th{border-radius:8px 8px 0 0;background:#0073bb;box-shadow:0 1.585px 6px 0 rgba(0,0,0,0.30);padding:5px;color:#FFF;font-family:Inter;font-size:1.375rem;font-style:normal;font-weight:400;line-height:26.4px;letter-spacing:-0.22px;border-left:unset;border-right:unset;text-align:start}
+.terminsurance-banner .tableResp table tr th b{color:#FFF;font-family:Inter;font-size:1.375rem;font-style:normal;font-weight:700;line-height:26.4px;letter-spacing:-0.22px}
+.terminsurance-banner .tableResp table tr td{padding:5px 0 5px 10px;border-left:unset;border-right:unset;border-bottom:unset}
+.terminsurance-banner .tableResp table tr td .backgrey{color:#a7a9ac;font-weight:700;padding:0 10px 0 0}
+.terminsurance-banner .tableResp table tr td .lead{color:#58595b;font-family:Inter;font-size:1rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.16px}
+.terminsurance-banner .tableResp table tr td .sub-Text{color:#58595b;font-family:Inter;font-size:.75rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.12px}
+.terminsurance-banner .tableResp table tr td .sub-Text sup{color:#58595b;font-family:Inter;font-size:.75rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.12px;top:-2px}
+.terminsurance-banner .leadproxytext img{position:absolute;top:41px;width:296px;height:38px;right:0}
+.terminsurance-banner .leadproxytext p:nth-child(2){border-top:21px solid #fff;border-left:20px solid transparent;border-right:unset;border-bottom:20px solid #fff;background:#fff;height:38px;position:absolute;width:282px;top:53px;right:0;background:transparent}
+.terminsurance-banner .leadproxytext .cmp-text p .gradient-text{display:flex;justify-content:center;align-items:center;position:absolute;top:-10px;left:0;right:0}
+.logo-img .cmp-image .cmp-image__image{width:166px;height:25px}
+.logo-img .cmp-image{width:166px;height:25px}
+.logo-img{width:166px;height:25px;position:absolute;bottom:30px}
+.personimg{width:233px;height:355px;position:absolute;bottom:0;right:36px}
+.personimg .cmp-image{width:233px;height:355px}
+.personimg .cmp-image .cmp-image__image{width:233px;height:355px}
+.personimg-mobile{display:none}
+.terminsurance-newbanner .image-tag .cmp-image__image{height:75px}
+.terminsurance-newbanner .tableResp table tr th{padding:10px}
+.terminsurance-newbanner .leadproxytext p:nth-child(2){border-top:20px solid #fff;border-bottom:19px solid #fff}
+.terminsurance-newbanner .tableResp table tr td{text-align:left}
+@media screen and (max-width:768px){.terminsurance-banner{width:100%}
+.terminsurance-banner .cmp-container{padding:15px;min-height:500px}
+.terminsurance-banner .image-tag{width:180px;height:74px;margin:0 auto 15px auto}
+.terminsurance-banner .image-tag .cmp-image .cmp-image__image{width:180px;height:74px;display:block}
+.terminsurance-banner .image-tag .cmp-image{width:180px;height:74px}
+.terminsurance-banner .leadproxytext .cmp-text p{font-size:1.5rem;letter-spacing:-0.24px}
+.terminsurance-banner .leadproxytext .cmp-text p .blueText{font-size:1.5rem;letter-spacing:-0.24px}
+.terminsurance-banner .leadproxytext{width:266px;margin:0 auto;text-align:center}
+.terminsurance-banner .tableResp{width:266px;margin-top:16px}
+.terminsurance-banner .tableResp table tr th{border-radius:6px 6px 0 0;background:#0073bb;box-shadow:0 1.782px 4.455px 0 rgba(0,0,0,0.40);padding:4px 8px;font-size:.875rem;line-height:normal;letter-spacing:-0.143px;text-align:center}
+.terminsurance-banner .tableResp table tr th b{font-size:.875rem;line-height:normal;letter-spacing:-0.143px}
+.terminsurance-banner .tableResp table tr td{padding:5px;text-align:center}
+.terminsurance-banner .tableResp table tr td .backgrey{padding:unset}
+.terminsurance-banner .tableResp table tr td .lead{font-size:.75rem;letter-spacing:-0.12px}
+.terminsurance-banner .leadproxytext .cmp-text p .gradient-text{font-size:.75rem;letter-spacing:-0.12px;top:-9px}
+.terminsurance-banner .leadproxytext p:nth-child(2){border-top:18px solid #fff;border-left:18px solid transparent;border-right:18px solid transparent;border-bottom:16px solid #fff;left:50%;transform:translate(-50%,50%);bottom:65px;top:unset;height:30px;position:absolute;width:230px;filter:drop-shadow(0 8px 16px rgba(0,115,187,0.10))}
+.personimg{display:none}
+.personimg-mobile{display:block;margin:11px auto 0;width:151px;height:168px}
+.personimg-mobile .cmp-image{width:151px;height:168px}
+.personimg-mobile .cmp-image .cmp-image__image{width:151px;height:168px;display:block}
+.logo-img{width:113px;height:17px;position:absolute;bottom:32px;left:50%;transform:translate(-50%,50%)}
+.logo-img .cmp-image{width:113px;height:17px}
+.logo-img .cmp-image .cmp-image__image{width:113px;height:17px;display:block}
+.shortbanner-mobile .image-tag{width:131px;height:54px;margin:0 auto 10px auto}
+.shortbanner-mobile .image-tag .cmp-image{width:131px;height:54px}
+.shortbanner-mobile .image-tag .cmp-image .cmp-image__image{width:131px;height:54px}
+.shortbanner-mobile .cmp-container{padding:10px 5px;min-height:270px;border-radius:20px}
+.shortbanner-mobile .leadproxytext{width:100%}
+.shortbanner-mobile .leadproxytext .cmp-text p{font-size:16px;line-height:24px;letter-spacing:-0.16px}
+.shortbanner-mobile .leadproxytext .cmp-text p .blueText{font-size:16px;line-height:24px;letter-spacing:-0.16px}
+.shortbanner-mobile .tableResp{width:100%;margin-top:8px}
+.shortbanner-mobile .tableResp table tr th{font-size:12px;letter-spacing:-0.12px}
+.shortbanner-mobile .tableResp table tr th b{font-size:12px;letter-spacing:-0.12px}
+.shortbanner-mobile .personimg-mobile{display:none}
+.shortbanner-mobile .logo-img{bottom:20px}
+.shortbanner-mobile .leadproxytext .cmp-text p{bottom:53px;margin-bottom:unset}
+.terminsurance-banner-mob .cmp-container{padding:10px 8px}
+.terminsurance-banner-mob .image-tag .cmp-image .cmp-image__image,.terminsurance-banner-mob .image-tag .cmp-image,.terminsurance-banner-mob .image-tag{width:131px;height:51px}
+.terminsurance-banner-mob .image-tag{margin:0 auto 12px}
+.terminsurance-banner-mob .leadproxytext .cmp-text p,.terminsurance-banner-mob .leadproxytext .cmp-text p .blueText{font-size:1rem;letter-spacing:-0.16px;text-align:center}
+.terminsurance-banner-mob .leadproxytext{width:100%}
+.terminsurance-banner-mob .tableResp{width:282px;margin:10px auto 0}
+.terminsurance-banner-mob .tableResp table tr th,.terminsurance-banner-mob .tableResp table tr th b{font-size:12px;letter-spacing:-0.12px}
+.terminsurance-banner-mob .leadproxytext p:nth-child(2){height:26px;width:216px}
+.terminsurance-banner-mob .leadproxytext .cmp-text p .gradient-text{font-size:10px;letter-spacing:-0.1px}
+.terminsurance-banner-mob .logo-img{bottom:29px}
+.terminsurance-newbanner.shortbanner-mobile .tableResp{margin-top:10px;width:282px;margin:8px auto 0 auto}
+.terminsurance-newbanner.shortbanner-mobile .tableResp table tr th{text-align:center}
+.terminsurance-newbanner.shortbanner-mobile .tableResp table tr th br{display:none}
+.terminsurance-newbanner.shortbanner-mobile .tableResp table tr td{text-align:center}
+.terminsurance-newbanner .leadproxytext p:nth-child(2){height:27px;border-top:14px solid #fff;border-bottom:14px solid #fff;margin-bottom:unset}
+}
+.proxycontainer.investmentplan_banner>.cmp-container{border:1px solid;border-radius:18px;border-color:rgba(0,115,187,1)}
+.proxycontainer.investmentplan_banner .bannerPre-text{width:unset}
+.proxycontainer.investmentplan_banner .bannerPre-text p{font-family:'Inter';font-size:10px;font-weight:400;color:rgba(88,89,91,1)}
+.proxycontainer.investmentplan_banner .banner-content-desktop-text{width:515px;padding:unset}
+.proxycontainer.investmentplan_banner .investmentplan_content h1,.proxycontainer.investmentplan_banner .investmentplan_content h2,.proxycontainer.investmentplan_banner .investmentplan_content h3,.proxycontainer.investmentplan_banner .investmentplan_content h4,.proxycontainer.investmentplan_banner .investmentplan_content h5,.proxycontainer.investmentplan_banner .investmentplan_content h6,.proxycontainer.investmentplan_banner .investmentplan_content p{font-family:'Inter';font-size:2rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.34px;background:linear-gradient(90deg,#0073bb 0,#d62049 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;opacity:unset;margin:unset}
+.proxycontainer.investmentplan_banner .investmentplan_content ul{width:445px;margin-top:30px}
+.proxycontainer.investmentplan_banner .investmentplan_content.banner-content-desktop-text .cmp-text ul li{margin-bottom:16px}
+.proxycontainer.investmentplan_banner .investmentplan_content.banner-content-desktop-text .cmp-text ul .eclipse-dots{color:#333;font-family:Inter;font-size:1.25rem;font-style:normal;font-weight:400;line-height:28px;letter-spacing:-0.2px;padding-left:15px;display:inline-block}
+.proxycontainer.investmentplan_banner .investmentplan_content.banner-content-desktop-text .cmp-text ul .eclipse-dots b{color:#333;font-family:Inter;font-size:1.25rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.144px}
+.proxycontainer.investmentplan_banner .investmentplan_content.banner-content-desktop-text .cmp-text ul sup{line-height:unset;vertical-align:super}
+.proxycontainer.investmentplan_banner .investmentplan_content.banner-content-desktop-text .cmp-text ul .eclipse-dots::before{content:'';display:block;background:url(../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/srp-icon-check.svg) no-repeat;height:32px;width:32px;position:absolute;left:0;top:0;background-size:cover;background-position:center}
+.proxycontainer.investmentplan_banner .investmentplan_content.banner-content-desktop-text .cmp-text ul .eclipse-dots img{position:absolute;top:5px;width:unset;height:unset;right:unset;margin-left:10px}
+.proxycontainer.investmentplan_banner .extendedimage.investmentplan_bannerImg{position:absolute;right:0;bottom:0;width:256px;height:375px}
+.proxycontainer.investmentplan_banner .extendedimage.investmentplan_shadow{position:absolute;right:0;bottom:0}
+.proxycontainer.investmentplan_banner .leadproxytext.investmentplan_bottomTxt{width:unset;position:absolute;bottom:9px}
+.proxycontainer.investmentplan_banner .leadproxytext.investmentplan_bottomTxt .cmp-text p{font-family:'Inter';font-size:10px;font-weight:400;letter-spacing:-0.10px;color:rgba(88,89,91,1);padding-right:15px}
+@media screen and (max-width:768px){.proxycontainer.investmentplan_banner>.cmp-container{padding-top:0;margin:unset}
+.proxycontainer.investmentplan_banner .bannerPre-text p{font-size:6px;text-align:center;padding:5px;line-height:unset}
+.proxycontainer.investmentplan_banner .investmentplan_content ul{width:unset;margin-top:10px}
+.proxycontainer.investmentplan_banner .investmentplan_content.banner-content-desktop-text{width:unset;padding:0 25px;margin-top:1px}
+.proxycontainer.investmentplan_banner .investmentplan_content h1,.proxycontainer.investmentplan_banner .investmentplan_content h2,.proxycontainer.investmentplan_banner .investmentplan_content h3,.proxycontainer.investmentplan_banner .investmentplan_content h4,.proxycontainer.investmentplan_banner .investmentplan_content h5,.proxycontainer.investmentplan_banner .investmentplan_content h6,.proxycontainer.investmentplan_banner .investmentplan_content p{font-size:1rem;letter-spacing:-0.16px;text-align:center}
+.proxycontainer.investmentplan_banner .leadproxytext.investmentplan_bottomTxt .cmp-text p{font-size:6px;line-height:normal;padding-right:5px;text-align:left;padding:0 10px}
+.proxycontainer.investmentplan_banner .investmentplan_content.banner-content-desktop-text .cmp-text ul li{margin-bottom:5px;padding-left:5px;text-align:left}
+.proxycontainer.investmentplan_banner .investmentplan_content.banner-content-desktop-text .cmp-text ul li sup{font-size:unset;position:unset;margin-top:unset}
+.proxycontainer.investmentplan_banner .investmentplan_content.banner-content-desktop-text .cmp-text ul .eclipse-dots{font-size:11px;line-height:11px;letter-spacing:-0.2px;padding-left:18px;display:inline-block}
+.proxycontainer.investmentplan_banner .investmentplan_content.banner-content-desktop-text .cmp-text ul .eclipse-dots b{font-size:11px}
+.proxycontainer.investmentplan_banner .investmentplan_content.banner-content-desktop-text .cmp-text ul .eclipse-dots::before{height:16px;width:16px;top:2px}
+.proxycontainer.investmentplan_banner .leadproxytext.investmentplan_bottomTxt{bottom:4px}
+}
+.terminsurance-onecr-banner .leadproxytext p:nth-child(2){display:flex;justify-content:center;align-items:center;gap:6px;font-family:Inter;font-size:.75rem;font-style:normal;font-weight:700;height:0;border-top:20px solid #fff;border-left:15px solid transparent;border-right:0 solid transparent;border-bottom:20px solid #fff;padding:0 10px;position:absolute;top:53px;right:1px;width:fit-content}
+.terminsurance-onecr-banner .leadproxytext .cmp-text p .gradient-text{position:unset}
+.terminsurance-onecr-banner .leadproxytext .cmp-text p .gradient-text sup{font-size:.75rem;font-weight:700;background:unset}
+.terminsurance-onecr-banner .tableResp table tr td .sub-Text sup{font-size:10px}
+.terminsurance-onecr-banner>.cmp-container::before{content:'';position:absolute;inset:0;padding:1.5px;background:linear-gradient(90deg,rgba(0,115,187,0.5),rgba(214,32,73,0.5));border-radius:16px;-webkit-mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);-webkit-mask-composite:xor;mask-composite:exclude;pointer-events:none}
+.terminsurance-onecr-banner .personimg{bottom:1px}
+@media screen and (max-width:768px){.terminsurance-onecr-banner .extendedimage .cmp-image__image{display:unset}
+.terminsurance-onecr-banner .leadproxytext p:nth-child(2){top:unset;border-right:15px solid transparent;width:max-content;border-top:14px solid #fff;border-bottom:13px solid #fff;bottom:60px}
+.terminsurance-onecr-banner .logo-img{bottom:25px}
+.terminsurance-onecr-banner .leadproxytext .cmp-text p .gradient-text{font-size:.625rem}
+.terminsurance-onecr-banner .leadproxytext .cmp-text p .gradient-text sup{font-size:.5rem}
+.terminsurance-onecr-banner .tableResp table tr td .sub-Text sup{font-size:.5rem}
+.terminsurance-onecr-banner>.cmp-container::before{background:linear-gradient(90deg,rgba(0,115,187,0.2),rgba(214,32,73,0.2))}
+}

@@ -1,0 +1,65 @@
+.compound-inte-calc-wrap{padding:24px;border-radius:20px;border:1px solid rgba(0,115,187,0.50);background:var(--secondary-tone-light-2);display:flex;align-items:center;column-gap:24px}
+.cic-form-sec-wrap,.cic-result-sec-wrap{width:50%}
+.cic-form-sec-wrap .cic-heading-desk h1,.cic-form-sec-wrap .cic-heading-desk h2,.cic-form-sec-wrap .cic-heading-desk h3,.cic-form-sec-wrap .cic-heading-desk h4,.cic-form-sec-wrap .cic-heading-desk h5,.cic-form-sec-wrap .cic-heading-desk h6{font-family:'Inter';font-size:1.75rem;font-weight:700;line-height:normal;letter-spacing:-0.28px;margin-bottom:24px}
+.cic-form-sec-wrap .cic-heading-mob{display:none}
+.cic-form-fields{display:flex;flex-wrap:wrap;column-gap:16px}
+.cic-form-sec-wrap .cic-form-fields .investment-amt-field-wrap,.cic-form-sec-wrap .cic-form-fields .frequency-dropdown-wrap{width:48.5%}
+.cic-form-sec-wrap .cic-form-fields .invest-for-field-wrap,.cic-form-sec-wrap .cic-form-fields .stay-invested-field-wrap,.cic-form-sec-wrap .cic-form-fields .growth-rate-field-wrap{width:31.4%}
+.cic-form-sec-wrap .cic-form-fields .inp-wrapper{margin-bottom:20px}
+.cic-form-sec-wrap .cic-form-fields .inp-wrapper__grp__label{color:var(--grey-dark);font-family:'Inter';font-size:.875rem;font-weight:600;line-height:14px;letter-spacing:-0.14px;margin-bottom:8px}
+.cic-form-sec-wrap .cic-form-fields .inp-wrapper__grp__field{border:1px solid var(--moon-dust);padding:12px 16px;color:#000;box-shadow:unset}
+.cic-form-sec-wrap .cic-form-fields .inp-wrapper__grp__field,.cic-form-sec-wrap .cic-form-fields .inp-wrapper__grp__field::placeholder{font-family:'Inter';font-size:.875rem;font-style:normal;font-weight:500;line-height:18px;letter-spacing:-0.14px}
+.cic-form-sec-wrap .cic-form-fields .inp-wrapper__err{color:var(--primary-red);font-family:'Inter';font-style:italic;font-weight:400;line-height:10px;font-size:.625rem;letter-spacing:-0.1px}
+.cic-form-sec-wrap .cic-form-fields .inp-wrapper--dropdown .inp-wrapper__dropdonw{margin-top:4px;border:unset;box-shadow:0 2px 4px 0 rgba(0,115,187,0.04);max-height:144px;box-shadow:0 0 24px 0 rgba(0,0,0,0.20)}
+.cic-form-sec-wrap .cic-form-fields .inp-wrapper--dropdown .inp-wrapper__dropdonw .inp-wrapper__dropdonw-item{color:var(--grey-dark);font-family:'Inter';font-size:.875rem;font-weight:600;line-height:20px;letter-spacing:-0.14px;padding:8px 16px}
+.cic-form-sec-wrap .cic-form-fields .inp-wrapper--dropdown .inp-wrapper__dropdonw .inp-wrapper__dropdonw-item.selected{background:var(--secondary-tone-light-2);color:var(--primary-blue)}
+.cic-form-sec-wrap .cic-form-fields .inp-wrapper--dropdown .inp-wrapper__dropdonw .inp-wrapper__dropdonw-item:hover,.cic-form-sec-wrap .cic-form-fields .inp-wrapper--dropdown .inp-wrapper__dropdonw .inp-wrapper__dropdonw-item:focus{background:var(--secondary-tone-light-2)}
+.cic-form-sec-wrap .cic-form-fields .inp-wrapper--dropdown:focus-within .inp-wrapper__grp__field+.inp-wrapper__grp__label,.cic-form-sec-wrap .cic-form-fields .inp-wrapper--invalid .inp-wrapper__grp__field:focus+.inp-wrapper__grp__label{color:var(--grey-dark)}
+.cic-form-sec-wrap .cic-form-fields .inp-wrapper--invalid .inp-wrapper__grp__field{border:1.5px solid var(--alert-error)}
+.cic-result-sec-wrap{display:flex;column-gap:20px;padding:20px;border-radius:16px;background:var(--primary-blue);box-shadow:0 4px 8px 0 rgba(0,115,187,0.05);background-size:100% 100%;background-position:center;background-repeat:no-repeat}
+.cic-result-sec-wrap .cis-result-amt-sec{display:flex;flex-direction:column;row-gap:16px;width:33.8%}
+.cic-result-sec-wrap .cis-result-amt-sec .cic-you-get-amt-wrap,.cic-result-sec-wrap .cis-result-amt-sec .cic-you-pay-amt-wrap{border-radius:8px;border:2px solid rgba(0,115,187,0.30);background:var(--neutral-white);box-shadow:0 6px 8px 0 rgba(0,0,0,0.08);padding:8px 16px}
+.cic-result-sec-wrap .cis-result-amt-sec .cic-you-get-amt-wrap p,.cic-result-sec-wrap .cis-result-amt-sec .cic-you-pay-amt-wrap p{color:var(--neutral-black);font-family:'Inter';font-size:.875rem;font-weight:600;line-height:16px;letter-spacing:-0.14px;margin-bottom:3px}
+.cic-result-sec-wrap .cis-result-amt-sec .cic-you-get-amt-wrap span,.cic-result-sec-wrap .cis-result-amt-sec .cic-you-pay-amt-wrap span{font-family:'Inter';font-size:1.75rem;font-weight:700;line-height:120%;letter-spacing:-0.28px}
+.cic-result-sec-wrap .cis-result-amt-sec .cic-you-get-amt-wrap span{color:#00b050}
+.cic-result-sec-wrap .cis-result-amt-sec .cic-you-pay-amt-wrap span{color:var(--primary-blue)}
+.cic-result-sec-wrap .cic-plan-now-btn .ta-btn-primary{min-width:172px;padding:11px;text-align:center;border:1px solid var(--neutral-white);font-family:'Inter';font-size:.875rem;font-weight:700;line-height:18px;letter-spacing:-0.14px}
+.cic-result-sec-wrap .cic-plan-now-mob-btn{display:none}
+.cic-form-sec-wrap .cic-form-fields .frequency-dropdown-wrap input{cursor:pointer}
+@media screen and (max-width:768px){.compound-inte-main-wrapper.ta-container{padding:unset}
+.cic-form-sec-wrap .cic-heading-desk{display:none}
+.cic-form-sec-wrap .cic-heading-mob{display:block}
+.cic-form-sec-wrap .cic-heading-mob h1,.cic-form-sec-wrap .cic-heading-mob h2,.cic-form-sec-wrap .cic-heading-mob h3,.cic-form-sec-wrap .cic-heading-mob h4,.cic-form-sec-wrap .cic-heading-mob h5,.cic-form-sec-wrap .cic-heading-mob h6{font-family:'Inter';font-size:1.25rem;font-weight:700;line-height:normal;letter-spacing:-0.2px;text-align:center;margin-bottom:12px}
+.compound-inte-calc-wrap{padding:20px;border-radius:unset;border:unset;flex-direction:column;row-gap:16px}
+.cic-form-sec-wrap,.cic-result-sec-wrap,.cic-form-sec-wrap .cic-form-fields .investment-amt-field-wrap{width:100%}
+.cic-form-sec-wrap .cic-form-fields .invest-for-field-wrap,.cic-form-sec-wrap .cic-form-fields .frequency-dropdown-wrap{width:44.5%}
+.cic-form-sec-wrap .cic-form-fields .stay-invested-field-wrap,.cic-form-sec-wrap .cic-form-fields .growth-rate-field-wrap{width:49.8%}
+.cic-form-fields{border-radius:16px;background:var(--neutral-white);box-shadow:0 0 10px 1px rgba(0,127,197,0.12);padding:16px}
+.cic-form-sec-wrap .cic-form-fields .inp-wrapper{margin-bottom:16px}
+.cic-form-sec-wrap .cic-form-fields .inp-wrapper__grp__label{font-size:.75rem;line-height:16px;letter-spacing:-0.12px;margin-bottom:4px}
+.cic-form-sec-wrap .cic-form-fields .inp-wrapper__grp__field{padding:11px 12px}
+.cic-result-sec-wrap{padding:20px 16px;flex-direction:column;row-gap:16px}
+.cic-result-sec-wrap .cis-result-amt-sec{flex-direction:row;column-gap:12px;width:100%}
+.cic-result-sec-wrap .cic-plan-now-desk-btn{display:none}
+.cic-result-sec-wrap .cis-result-amt-sec .cic-you-get-amt-wrap,.cic-result-sec-wrap .cis-result-amt-sec .cic-you-pay-amt-wrap{width:50%}
+.cic-result-sec-wrap .cis-result-amt-sec .cic-you-get-amt-wrap{padding:13px 5px 13px 16px}
+.cic-result-sec-wrap .cis-result-amt-sec .cic-you-pay-amt-wrap{padding:13px 5px 13px 20px}
+.cic-result-sec-wrap .cis-result-amt-sec .cic-you-get-amt-wrap p,.cic-result-sec-wrap .cis-result-amt-sec .cic-you-pay-amt-wrap p{font-size:.625rem;line-height:12px;letter-spacing:-0.1px;margin-bottom:3px}
+.cic-result-sec-wrap .cis-result-amt-sec .cic-you-get-amt-wrap span,.cic-result-sec-wrap .cis-result-amt-sec .cic-you-pay-amt-wrap span{font-size:1.25rem;letter-spacing:-0.2px}
+.chart-container{width:100%}
+.chart-container .legends{padding-left:29px}
+.cic-result-sec-wrap .cic-plan-now-mob-btn{display:block;width:100%}
+.cic-result-sec-wrap .cic-plan-now-btn .ta-btn-primary{min-width:unset;padding:11px;width:100%}
+.cic-form-sec-wrap .cic-form-fields .inp-wrapper__err{line-height:8px;font-size:8px;letter-spacing:-0.08px;margin-top:3px}
+}
+.cic-chart-container{position:relative;width:62.2%;min-height:220px;border-radius:10px}
+.cic-chart-container .cic-chart{width:100%;min-height:190px}
+.cic-chart-container .cic-legends{display:flex;width:100%;gap:16px;padding-top:16px;padding-left:34px}
+.cic-chart-container .cic-legends-items{display:flex;justify-content:center;align-items:center;gap:6px}
+.cic-chart-container .cic-legends-items p{color:var(--neutral-white);text-align:center;font-family:"Inter";font-size:.625rem;font-style:normal;font-weight:700;line-height:120%;letter-spacing:-0.1px}
+.cic-chart-container .cic-legends-items .youpay,.cic-chart-container .cic-legends-items .youget{width:12px;height:12px;border-radius:2px}
+.cic-chart-container .cic-legends-items .youpay{background-color:var(--secondary-red)}
+.cic-chart-container .cic-legends-items .youget{background-color:var(--moon-dust)}
+@media screen and (max-width:768px){.cic-chart-container{width:100%}
+.cic-chart-container .cic-legends{padding-left:29px}
+}

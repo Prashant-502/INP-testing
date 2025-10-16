@@ -1,0 +1,15 @@
+.ta-thunder-btn-w{display:none}
+.chatbot-wrapper{position:fixed;right:8px;bottom:20px;z-index:12}
+.chatbot-wrapper .chatbot-tasha-btn{background-color:transparent;display:block;margin-left:auto;padding:unset;cursor:pointer}
+.chatbot-wrapper .chatbot-tasha-btn img{width:60px;height:60px}
+.chatbot-wrapper .calc-premium-btn{display:flex;align-items:center;justify-content:center;border-radius:8px;background:#d62049;box-shadow:0 0 5px 0 rgba(0,0,0,0.30);padding:10px;gap:4px;min-width:205px;cursor:pointer}
+.calc-premium-btn-wrap{display:none}
+.calc-premium-btn-wrap.show{display:block;margin-top:10px}
+.chatbot-wrapper .calc-premium-btn img{width:20px;height:20px}
+.chatbot-wrapper .calc-premium-btn p{color:#FFF;text-align:center;font-family:'Inter';font-size:14px;font-weight:500;line-height:normal;letter-spacing:-0.14px}
+@media screen and (max-width:768px){.mob-view-stiky-button1{display:none}
+.chatbot-wrapper{right:0;bottom:0;width:100%}
+.chatbot-wrapper .chatbot-tasha-btn{margin:0 10px 10px auto}
+.chatbot-wrapper .chatbot-tasha-btn img{width:40px;height:40px}
+.chatbot-wrapper .calc-premium-btn{border-radius:unset;gap:6px;min-width:unset;width:100%}
+}

@@ -1,0 +1,13 @@
+.header-tag-fonts h1{font-family:"Inter",sans-serif;font-size:42px;color:#333;line-height:normal;font-weight:700}
+.header-tag-fonts h2{font-family:"Inter",sans-serif;font-size:36px;color:#333;line-height:normal;font-weight:700}
+.header-tag-fonts h3{font-family:"Inter",sans-serif;font-size:32px;color:#333;line-height:normal;font-weight:700}
+.header-tag-fonts h4{font-family:"Inter",sans-serif;font-size:28px;color:#333;line-height:normal;font-weight:700}
+.header-tag-fonts h5{font-family:"Inter",sans-serif;font-size:24px;color:#333;line-height:normal;font-weight:700}
+.header-tag-fonts h6{font-family:"Inter",sans-serif;font-size:20px;color:#333;line-height:normal;font-weight:700}
+@media screen and (max-width:767.98px){.header-tag-fonts h1{font-size:30px}
+.header-tag-fonts h2{font-size:26px}
+.header-tag-fonts h3{font-size:24px}
+.header-tag-fonts h4{font-size:22px}
+.header-tag-fonts h5{font-size:20px}
+.header-tag-fonts h6{font-size:18px}
+}

@@ -1,0 +1,29 @@
+(function() {
+    try {
+        var a = document.createElement("script");
+        a.type = "text/javascript";
+        a.async = !0;
+        a.src = "//cdn12.lemnisk.co/smt/smthandler.php?account_id=6453";
+        var c = document.createElement("script");
+        c.type = "text/javascript";
+        c.async = !0;
+        c.src = "//cdn25.lemnisk.co/ssp/TATA_AIA_PROD/sw/sw_registration.js";
+        var d = document.createElement("script");
+        d.type = "text/javascript";
+        d.async = !0;
+        d.src = "//cdn25.lemnisk.co/ssp/banners/images/common/images/bfsi/ads/ads.js";
+        var e = document.createElement("link");
+        e.rel = "preconnect";
+        e.crossOrigin = !0;
+        e.href = "//mu-ax-n.lemnisk.co/";
+        var f = document.createElement("link");
+        f.rel = "dns-prefetch";
+        f.href = "//mu-ax-n.lemnisk.co/";
+	    var b = document.getElementsByTagName("script")[0];
+        b.parentNode.insertBefore(a, b);
+        b.parentNode.insertBefore(c, b);
+        b.parentNode.insertBefore(d, b);
+        b.parentNode.insertBefore(e, b);
+        b.parentNode.insertBefore(f, b);
+    } catch (c) {}
+})();

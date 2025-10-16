@@ -1,0 +1,54 @@
+.priority-security{padding:unset;max-width:1366px}
+.priority-security>.cmp-container{display:flex;gap:40px;background:linear-gradient(90deg,#FFF 0,#f2f7fb 100%)}
+.priority-security>.cmp-container .desktopimg{height:260px;width:510px}
+.priority-security>.cmp-container .desktopimg .cmp-image .cmp-image__image{height:100%;width:510px}
+.priority-security>.cmp-container .desktopimg .cmp-image{height:260px;width:510px}
+.priority-security>.cmp-container .servicebanner-left{margin:unset;max-width:100%;padding:19px 20px 25px 0}
+.priority-security>.cmp-container .servicebanner-left .leadproxytext .blueText{color:#0073bb;font-family:Inter;font-size:2.25rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.36px}
+.priority-security>.cmp-container .servicebanner-left .leadproxytext{margin-bottom:26px;text-align:center}
+.priority-security>.cmp-container .service-cards>.cmp-container{display:flex;gap:16px}
+.priority-security>.cmp-container .service-cards>.cmp-container .leadproxyteaser{width:33.8%}
+.service-cards{padding:unset}
+.service-cards .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__image{width:134px;height:88px;margin-bottom:9px}
+.service-cards .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__image .cq-dd-image{width:134px;height:88px}
+.service-cards .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__content .cmp-teaser__description .title{color:#333;font-family:Inter;font-size:.875rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.14px;padding-bottom:8px;display:block}
+.service-cards .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__content .cmp-teaser__description .description{color:#58595b;font-family:Inter;font-size:.625rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.1px;display:block}
+.service-cards .cmp-container .leadproxyteaser .cmp-teaser{display:flex;flex-direction:column;align-items:center;text-align:center}
+.priority-security>.cmp-container .mobileimg{display:none}
+.priority-security-cta>.cmp-container .desktopimg .cmp-image .cmp-image__image{width:370px;height:100%}
+.priority-security-cta>.cmp-container .desktopimg{width:370px;height:260px}
+.priority-security-cta>.cmp-container .desktopimg .cmp-image{width:370px;height:100%}
+.priority-security-cta>.cmp-container .servicebanner-left{padding:19px 40px 25px 0}
+.priority-security-cta>.cmp-container .servicebanner-left .leadproxytext{text-align:start}
+.priority-security-cta>.cmp-container .service-cards>.cmp-container{gap:10px}
+.priority-security-cta .service-cta{padding:unset}
+.priority-security-cta .service-cta>.cmp-container{display:flex;flex-direction:column;gap:8px}
+.priority-security-cta .service-cta .cmp-container .proxybutton{min-width:152px;text-align:center;min-height:50px}
+.priority-security-cta .service-cta .cmp-container .proxybutton .cmp-button{padding:8px 16px;text-align:center;width:100%;display:block;min-height:50px;align-items:center;display:flex;justify-content:center}
+.priority-security-cta .service-cta>.cmp-container .proxybutton:nth-child(1) .cmp-button{border-radius:8px;border:1px solid #d62049;background:#d62049}
+.priority-security-cta .service-cta>.cmp-container .proxybutton:nth-child(1) .cmp-button .cmp-button__text{color:#FFF;text-align:center;font-family:Inter;font-size:.875rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.14px}
+.priority-security-cta .service-cta .cmp-container .proxybutton:nth-child(2){border-radius:8px;border:1px solid #0073bb}
+.priority-security-cta .service-cta .cmp-container .proxybutton:nth-child(2) .cmp-button .cmp-button__text{color:#0073bb;text-align:center;font-family:Inter;font-size:.875rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.14px}
+.priority-security-cta>.cmp-container{gap:unset}
+.priority-security>.cmp-container .servicebanner-left .leadproxytext h1,.priority-security>.cmp-container .servicebanner-left .leadproxytext h2,.priority-security>.cmp-container .servicebanner-left .leadproxytext h3,.priority-security>.cmp-container .servicebanner-left .leadproxytext h4,.priority-security>.cmp-container .servicebanner-left .leadproxytext h5,.priority-security>.cmp-container .servicebanner-left .leadproxytext h6{line-height:normal;font-size:inherit}
+@media screen and (max-width:768px){.priority-security>.cmp-container{flex-direction:column;gap:unset}
+.priority-security>.cmp-container .desktopimg{display:none}
+.priority-security>.cmp-container .mobileimg{display:block;width:100%;height:70px}
+.priority-security>.cmp-container .mobileimg.extendedimage .cmp-image__image{display:block;width:100%;height:70px}
+.priority-security>.cmp-container .servicebanner-left{padding:0 20px}
+.priority-security>.cmp-container .servicebanner-left .leadproxytext .blueText{font-size:1.25rem;letter-spacing:-0.2px}
+.priority-security>.cmp-container .servicebanner-left .leadproxytext{margin-bottom:7px}
+.priority-security>.cmp-container .service-cards>.cmp-container{flex-wrap:wrap;justify-content:center;column-gap:20px;row-gap:10px;padding-bottom:39px}
+.priority-security>.cmp-container .service-cards .cmp-container .leadproxyteaser{width:46%}
+.service-cards .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__image{width:72px;height:62px;margin-bottom:4px}
+.service-cards .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__image .cq-dd-image{width:72px;height:62px}
+.service-cards .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__content .cmp-teaser__description .title{font-size:.625rem;letter-spacing:-0.1px;padding-bottom:4px}
+.service-cards .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__content .cmp-teaser__description .description{font-size:.5rem;letter-spacing:-0.08px}
+.priority-security-cta>.cmp-container .mobileimg{height:70px}
+.priority-security-cta>.cmp-container .mobileimg.extendedimage .cmp-image__image{height:70px}
+.priority-security-cta>.cmp-container .servicebanner-left .leadproxytext{text-align:center}
+.priority-security-cta .service-cta>.cmp-container{flex-direction:row;gap:6px}
+.priority-security-cta .service-cta .cmp-container .proxybutton{min-width:157px;min-height:40px}
+.priority-security-cta>.cmp-container .servicebanner-left .leadproxytext .blueText{width:75%;display:block;margin:0 auto}
+.priority-security-cta .service-cta>.cmp-container .proxybutton .cmp-button{min-height:40px}
+}

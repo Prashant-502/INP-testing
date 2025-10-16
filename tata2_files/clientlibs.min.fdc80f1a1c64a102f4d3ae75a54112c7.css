@@ -1,0 +1,145 @@
+.cc-banner-imagewrapper {
+  height: 100%;
+  justify-content: flex-end;
+}
+
+.cc-banner-image {
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.cc-banner-img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.parent-container-order.forSpecificityIncreaseParent .blog-width-desktop.rightIncreaseSpecificity .vitalifebanner.blogImageDynamic .cc-banner-image {
+  z-index: 0;
+}
+
+.parent-container-order.forSpecificityIncreaseParent .for-mobile-view-blog.toIncreaseSpecificity .vitalifebanner.blogImageDynamic .cc-banner-image {
+  z-index: 0;
+}
+
+.vita-mrtop {
+  margin-top: 40px;
+}
+
+.vita-mrbottom {
+  margin-bottom: -30px;
+}
+
+.vitalife-img-mob-align .cc-banner {
+  margin-bottom: 0;
+}
+
+.alignbanner .cc-banner-image {
+  width: auto;
+  height: auto;
+}
+
+.alignbanner .cc-banner-imagewrapper {
+  display: flex;
+  justify-content: center;
+}
+
+#tabbuy-2 .cc-banner-image {
+  z-index: unset;
+  pointer-events: none;
+}
+
+.how-it-works-img .cc-banner-image {
+  text-align: center;
+  margin-top: 63px;
+}
+
+.how-it-works-img .cc-banner-img {
+  max-width: 839px;
+  width: 100%;
+  max-height: 762px;
+  height: 100%;
+}
+
+.redesign-banner-shadow .cc-banner-image {
+  z-index: 1;
+}
+
+
+
+.vitalife-slick-banner .cc-banner-imagewrapper {
+  display: unset;
+}
+
+.aem-Grid.aem-Grid--default--12>.aem-GridColumn.aem-GridColumn--default--5 {
+  width: 41.66666667%;
+}
+
+.alignbanner .cc-banner-imagewrapper:has(a[href]) {
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 767px) {
+  .vitalifebanner.h-322 {
+    height: 322px;
+  }
+
+  .vitalifebanner.h-446 {
+    height: 446px;
+  }
+
+  .vitalife-img-mob-align {
+    width: 100% !important;
+  }
+
+  .vitalife-img-mob-align .cc-banner {
+    width: 80%;
+    margin: 0 auto 20px auto;
+  }
+
+  .vita-mrtop {
+    margin-top: 0;
+  }
+
+  .vita-mrbottom {
+    margin-bottom: 0;
+  }
+
+  .cc-banner-imagewrapper {
+    justify-content: flex-start;
+  }
+
+  .how-it-works-img .cc-banner-image {
+    margin-top: 9px;
+  }
+
+  .how-it-works-img .cc-banner-img {
+    max-width: 286px;
+    max-height: 337px;
+  }
+  .mo-padding-unset{
+    padding: 0px 20px;
+  }
+  .mo-padding-unset .cmp-container{
+    padding: unset;
+  }
+}
+
+.parent-container-order.forSpecificityIncreaseParent .blogImageDynamic a {
+  text-align: center;
+}
+
+.parent-container-order.forSpecificityIncreaseParent .blog-width-desktop.rightIncreaseSpecificity .blogImageDynamic img {
+  width: 80%;
+}
+
+.cc-banner-image a:not([href]) {
+  cursor: default !important;
+}
+
+.vita-img-scroll .vita-mrbottom {
+  margin-bottom: -20px;
+}

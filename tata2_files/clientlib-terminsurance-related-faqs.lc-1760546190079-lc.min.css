@@ -1,0 +1,24 @@
+.term-insurance-related-faqs{position:relative}
+.term-insurance-related-faqs .cmp-container{padding:30px 40px;border-radius:20px;overflow:hidden}
+.term-insurance-related-faqs .cmp-container .related-faqs-heading .cmp-title .cmp-title__text{color:#333;font-family:'HelveticaNeueLTStd-Bd';font-size:1.5rem;font-weight:700;letter-spacing:-0.24px}
+.term-insurance-related-faqs .cmp-container .leadproxytext{padding-bottom:10px;display:none}
+.term-insurance-related-faqs .cmp-container .leadproxytext.visible{display:block}
+.term-insurance-related-faqs .cmp-container .leadproxytext:last-child{padding-bottom:unset}
+.term-insurance-related-faqs .cmp-container .leadproxytext .cmp-text p .lead b{color:#333;font-family:'HelveticaNeueLTStd-Bd';font-size:1.125rem;font-weight:700;line-height:27px;letter-spacing:-0.18px}
+.term-insurance-related-faqs .cmp-container .leadproxytext .cmp-text p .lead{color:#333;font-family:'helveticaregular';font-size:1.125rem;font-weight:400;line-height:27px;letter-spacing:-0.18px}
+.term-insurance-related-faqs .cmp-container .leadproxytext .cmp-text ul{padding-left:25px}
+.term-insurance-related-faqs .cmp-container .leadproxytext .cmp-text ul li{color:#333;font-family:'helveticaregular';font-size:1.125rem;font-weight:400;line-height:27px;letter-spacing:-0.18px;list-style:disc}
+.term-insurance-related-faqs .cmp-container .leadproxytext .cmp-text ul li b{color:#333;font-family:'HelveticaNeueLTStd-Bd';font-size:1.125rem;font-weight:700;line-height:27px;letter-spacing:-0.18px}
+.term-insurance-related-faqs .cmp-container .proxybutton .cmp-button{background-color:transparent;padding:unset}
+.term-insurance-related-faqs .cmp-container .proxybutton .cmp-button .cmp-button__text{border-radius:20px;background:#4197d3;color:#FFF;text-align:center;font-family:'HelveticaNeueLTStd-Bd';font-size:.875rem;font-weight:700;letter-spacing:-0.14px;padding:10px 15px;display:block;cursor:pointer}
+.term-insurance-related-faqs .cmp-container .proxybutton{position:absolute;bottom:-15px;left:50%;transform:translateX(-50%)}
+@media screen and (max-width:767px){.term-insurance-related-faqs .cmp-container{background-color:unset !important;padding:unset;border-radius:unset}
+.term-insurance-related-faqs .cmp-container .related-faqs-heading .cmp-title .cmp-title__text{font-size:1.125rem;letter-spacing:-0.18px}
+.term-insurance-related-faqs .cmp-container .related-faqs-heading .cmp-text{border-radius:unset !important;background:unset !important;padding:unset !important}
+.term-insurance-related-faqs .cmp-container .leadproxytext .cmp-text{border-radius:20px;background:#f2f7fb;padding:20px}
+.term-insurance-related-faqs .cmp-container .leadproxytext .cmp-text p .lead b{line-height:22.4px;letter-spacing:-0.16px;font-size:1rem}
+.term-insurance-related-faqs .cmp-container .leadproxytext .cmp-text p .lead{line-height:19.6px;letter-spacing:-0.14px;font-size:.875rem}
+.term-insurance-related-faqs .cmp-container .leadproxytext .cmp-text ul{padding-left:18px}
+.term-insurance-related-faqs .cmp-container .leadproxytext .cmp-text ul li{line-height:19.6px;letter-spacing:-0.14px;font-size:.875rem}
+.term-insurance-related-faqs .cmp-container .leadproxytext .cmp-text ul li b{line-height:19.6px;letter-spacing:-0.14px;font-size:.875rem}
+}

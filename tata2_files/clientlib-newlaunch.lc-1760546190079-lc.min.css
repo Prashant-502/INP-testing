@@ -1,0 +1,20 @@
+.new-launch{max-width:999px;width:100%;margin:0 auto;border-radius:14px;border:1.5px solid #0073bb;background:#FFF;padding:20px;position:relative;margin-bottom:60px}
+.new-launch .cmp-teaser{display:flex;flex-direction:row-reverse;gap:60px;align-items:center}
+.new-launch .cmp-teaser__image .cq-dd-image{width:81px;height:87px}
+.new-launch .cmp-teaser__image{width:81px;height:87px}
+.new-launch .cmp-teaser__content{flex:1}
+.new-launch .cmp-teaser__content .cmp-teaser__description .lead{color:#333;font-family:'Inter';font-size:1.25rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.2px;margin-bottom:10px;display:block}
+.new-launch .cmp-teaser__content .cmp-teaser__description .gray-text{color:#333;font-family:'Inter';font-size:1rem;font-style:normal;font-weight:400;line-height:24px;letter-spacing:-0.16px}
+.new-launch .cmp-teaser__content .cmp-teaser__description .tag{padding:8px 16px;border-radius:16px;position:absolute;top:-15px;left:20px;color:#FFF;text-align:center;font-family:'Inter';font-size:.875rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.14px;background:linear-gradient(90deg,#0073bb 0,#d62049 100%)}
+.new-launch .background-img-text{width:fit-content;height:fit-content;background-repeat:no-repeat;background-size:100% 100%;padding:8px 16px;border-radius:16px;position:absolute;top:-15px;left:20px;color:#FFF;text-align:center;font-family:'Inter';font-size:.875rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.14px}
+@media screen and (max-width:768px){.new-launch{margin:0 15px;max-width:100%;width:unset;padding:unset;margin-bottom:30px}
+.new-launch .background-img-text{left:50%;transform:translate(-60px,-2px)}
+.new-launch .cmp-teaser__content .cmp-teaser__description .tag{left:50%;transform:translate(-60px,-2px)}
+.new-launch .cmp-teaser__image .cq-dd-image{width:36px;height:39px}
+.new-launch .cmp-teaser__image{width:36px;height:39px}
+.new-launch .cmp-teaser{flex-direction:column;gap:7px;padding-top:30px}
+.new-launch .cmp-teaser__content .cmp-teaser__description{padding:10px 16px}
+.new-launch .cmp-teaser__content .cmp-teaser__description .lead{font-size:1.125rem;letter-spacing:-0.18px;margin-bottom:8px}
+.new-launch .cmp-teaser__content .cmp-teaser__description .gray-text{font-size:.875rem;line-height:19.6px;letter-spacing:-0.14px}
+.new-launch .cmp-teaser__content{border-top:1px solid #e6e7e8}
+}

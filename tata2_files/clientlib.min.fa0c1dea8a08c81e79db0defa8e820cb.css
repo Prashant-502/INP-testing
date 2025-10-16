@@ -1,0 +1,255 @@
+.newsecondarynavigation {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 68px;
+    z-index: 9;
+    padding: 15px 0px;
+    background: #FFF;
+    box-shadow: 3px 6px 14px 0px rgba(0, 115, 187, 0.10);
+}
+
+.newsecondarynavigation:has(.max-height-header) {
+    top: 81px;
+}
+
+.nav-tabs-container {
+    position: relative;
+}
+
+.nav-tabs-container::after {
+    content: "";
+    width: 250px;
+    height: 32px;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, #FFF 52.88%);
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.nav-sec-navigation .nav-ul-navigation {
+    display: flex;
+    overflow-x: scroll;
+    white-space: nowrap;
+    gap: 10px;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    width: 89%;
+}
+
+.nav-sec-navigation .nav-ul-navigation .sec-navtab {
+    border-radius: 27px;
+    border: 1.5px solid #A7A9AC;
+    background: #F6F6F6;
+}
+
+.nav-ul-dropdown-navigation .sec-navtab {
+    border-bottom: 1px solid #F2F7FB;
+    background: #FFF;
+}
+
+.nav-sec-navigation .nav-ul-navigation .sec-navtab .sec-navtab-link {
+    padding: 5px 16px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #58595B;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: -0.14px;
+}
+
+.nav-sec-navigation .nav-ul-navigation .sec-navtab.active {
+    border: 1.5px solid #0073BB;
+    background: #FFF;
+}
+
+.nav-sec-navigation .nav-ul-navigation .sec-navtab.active .sec-navtab-link::before {
+    content: "";
+    background: url("../../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/check-circle.svg");
+    width: 16px;
+    height: 16px;
+    display: block;
+    background-size: 100% 100%;
+}
+
+.nav-sec-navigation .nav-ul-navigation .sec-navtab.active .sec-navtab-link {
+    color: #0073BB;
+}
+
+.nav-sec-navigation .nav-sub-btn {
+    border-radius: 27px;
+    border: 1px solid #0073BB;
+    background: transparent;
+    padding: 6px 16px;
+    display: flex;
+    gap: 5px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    background: #fff;
+}
+
+.nav-sec-navigation .nav-sub-btn .btntext {
+    color: #0073BB;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.14px;
+}
+
+.nav-sec-navigation .nav-sub-btn img {
+    width: 16px;
+    height: 16px;
+}
+
+.nav-ul-dropdown {
+    width: 296px;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0px 0px 24px 0px rgba(0, 0, 0, 0.20);
+    position: absolute;
+    right: 0;
+    top: 45px;
+}
+
+.nav-ul-dropdown .nav-ul-dropdown-navigation .sec-navtab .sec-navtab-link {
+    color: #58595B;
+    font-family: 'Inter';
+    font-size: 0.875rem;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: -0.14px;
+    padding: 8px 16px;
+    display: block;
+}
+
+.nav-ul-dropdown .nav-ul-dropdown-navigation .sec-navtab.active,
+.nav-ul-dropdown .nav-ul-dropdown-navigation .sec-navtab:hover {
+    background: #F2F7FB;
+}
+
+.nav-ul-dropdown .nav-ul-dropdown-navigation .sec-navtab.active .sec-navtab-link,
+.nav-ul-dropdown .nav-ul-dropdown-navigation .sec-navtab:hover .sec-navtab-link {
+    color: #0073BB;
+}
+
+.nav-ul-dropdown {
+    display: none;
+}
+
+.nav-ul-dropdown.show-dropdown {
+    display: block;
+}
+
+.nav-sub-btn.rotate-img img {
+    transform: rotate(180deg);
+}
+
+.nav-ul-dropdown-navigation {
+    max-height: 528px;
+    border-radius: 8px;
+    height: 100%;
+    overflow-y: scroll;
+    position: relative;
+}
+
+.nav-ul-dropdown-navigation::-webkit-scrollbar {
+    width: 3px;
+    height: 3px;
+}
+
+.nav-ul-dropdown-navigation::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.nav-ul-dropdown-navigation::-webkit-scrollbar-thumb {
+    background-color: #D3D3D3;
+    border-radius: 4px;
+}
+
+@media screen and (max-width:768px) {
+    .newsecondarynavigation:has(.max-height-header) {
+        top: 74px
+    }
+
+    .nav-tabs-container::after {
+        display: none;
+    }
+
+    .newsecondarynavigation::after {
+        content: "";
+        width: 105px;
+        height: 40px;
+        background: linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, #FFF 52.88%);
+        position: absolute;
+        right: 0;
+        top: 14%;
+    }
+
+    .nav-sec-navigation .nav-sub-btn {
+        border-radius: unset;
+        border: unset;
+        padding: 0px;
+        top: 17%;
+    }
+
+    .nav-sec-navigation .nav-sub-btn .btntext {
+        display: none;
+    }
+
+    .nav-sec-navigation .nav-sub-btn img {
+        height: 24px;
+        width: 24px;
+    }
+
+    .nav-sec-navigation .nav-ul-navigation .sec-navtab .sec-navtab-link {
+        padding: 8px 16px;
+        font-family: 'Inter';
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: -0.12px;
+    }
+
+    .nav-sec-navigation .nav-ul-navigation {
+        gap: 8px;
+        width: 90%
+    }
+
+    .newsecondarynavigation .page-container {
+        padding: 0 20px;
+    }
+
+    .newsecondarynavigation {
+        top: 57px;
+        padding: 8px 0px;
+    }
+
+    .nav-ul-dropdown .nav-ul-dropdown-navigation .sec-navtab .sec-navtab-link {
+        font-size: 0.75rem;
+        line-height: 20px;
+        letter-spacing: -0.12px;
+    }
+
+    .nav-ul-dropdown {
+        top: 44px;
+    }
+
+    .nav-ul-dropdown-navigation {
+        max-height: 376px;
+        height: 100%;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width: 1366px) {
+    .nav-ul-dropdown-navigation {
+        max-height: 468px;
+    }
+}

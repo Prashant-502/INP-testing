@@ -1,0 +1,19 @@
+.sampoornarakshabanner.fundfactsheet_firstfold_banner .bannerImg .productHeadContent{width:61%;border-radius:20px;border:1px solid #daeef8;background:var(--Secondary-Secondary-Blue-Light,#f2f7fb);display:flex;justify-content:center;align-items:center}
+.sampoornarakshabanner.fundfactsheet_firstfold_banner .bannerImg{height:100%}
+.container.unset_padding{padding:unset}
+.sampoornarakshabanner.fundfactsheet_firstfold_banner .text .cmp-text{margin:0 30px}
+.sampoornarakshabanner.fundfactsheet_firstfold_banner .text .cmp-text h3{color:var(--Primary-Primary-Blue,#0073bb);font-family:Inter;font-size:2.625rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.42px;margin-top:0}
+.sampoornarakshabanner.fundfactsheet_firstfold_banner .text .cmp-text p{color:var(--Secondary-Secondary-New-Black,#333);font-family:Helvetica;font-size:18px;font-weight:400;line-height:150%;letter-spacing:-0.18px}
+.sampoornarakshabanner.fundfactsheet_firstfold_banner .callback-form{width:37%}
+.sampoornarakshabanner.fundfactsheet_firstfold_banner .form-footer-btn .btn{border-radius:8px;background:var(--Primary-Primary-Red,#d62049);color:var(--neutral-universal-omni-white,#FFF);text-align:center;font-family:"helvetica";font-size:1.5rem;font-style:normal;font-weight:500;line-height:normal;letter-spacing:-0.24px}
+.ilpbonuscard.fundfactsheet_firstfold_banner .ilpbonuscards-Wrapper button.slick-prev,.ilpbonuscard.fundfactsheet_firstfold_banner .ilpbonuscards-Wrapper button.slick-next{display:none !important}
+.ilpbonuscard.fundfactsheet_firstfold_banner .ilpbonuscards-Wrapper .slick-dots{display:none !important}
+@media screen and (max-width:767.98px){.sampoornarakshabanner.fundfactsheet_firstfold_banner{background:var(--Secondary-Secondary-Blue-Light,#f2f7fb)}
+.sampoornarakshabanner.fundfactsheet_firstfold_banner .bannerImg .productHeadContent{width:100%;border:0}
+.sampoornarakshabanner.fundfactsheet_firstfold_banner .text .cmp-text{margin:0 10px}
+.sampoornarakshabanner.fundfactsheet_firstfold_banner .text .cmp-text h3{text-align:center;font-size:1.875rem;display:block !important;margin:20px 0 8px 0}
+.sampoornarakshabanner.fundfactsheet_firstfold_banner .text .cmp-text p{color:var(--Secondary-Secondary-New-Black,#333);text-align:center;font-family:Helvetica;font-size:1rem;font-style:normal;font-weight:400;line-height:140%;letter-spacing:-0.14px}
+.sampoornarakshabanner.fundfactsheet_firstfold_banner .callback-form{margin-top:18px}
+.sampoornarakshabanner.fundfactsheet_firstfold_banner .productHeadContent{background-color:transparent;border:0}
+.sampoornarakshabanner.fundfactsheet_firstfold_banner .form-footer-btn .btn{border-radius:8px;background:var(--Primary-Primary-Red,#d62049);color:var(--neutral-universal-omni-white,#FFF);text-align:center;font-family:"helvetica";font-size:1rem;font-weight:500;letter-spacing:-0.24px}
+}

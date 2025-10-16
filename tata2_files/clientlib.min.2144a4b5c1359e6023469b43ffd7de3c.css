@@ -1,0 +1,37 @@
+.life-ta-sct{margin-top:30px}
+.life-ta-sct .page-container{padding-right:0}
+.ta-life-txt h3{margin-bottom:10px}
+.ta-life-txt p{font-size:18px;font-family:"Helvetica";line-height:1.56;color:#373737;font-weight:300;letter-spacing:normal;margin-bottom:20px}
+.ta-life-maindiv{display:flex;margin-top:60px;align-items:flex-end}
+.ta-life-lhs{width:50%;margin-right:100px}
+.rogue-p>p{font-size:18px;font-family:"Helvetica";line-height:1.56;color:#373737;font-weight:300;letter-spacing:normal;margin-bottom:20px}
+.full-wd{width:100%}
+.ta-life-rhs-title h4,.ta-life-rhs-title h1,.ta-life-rhs-title h2,.ta-life-rhs-title h3,.ta-life-rhs-title h5,.ta-life-rhs-title h6{position:absolute;top:30px;left:30px;color:#fff}
+.ta-life-arr{position:absolute;left:30px;top:120px;width:50px;height:50px}
+.characteristics-listitem{display:flex}
+.characteristics-listitem:first-child{position:relative}
+.characteristics-listitem:not(:last-child):before{content:'';width:2px;height:auto;position:relative;border-left:1px dashed #4197d3;left:40px;top:0}
+.characteristics-listitem:last-child>.ta-life-cont{padding-bottom:0}
+.characteristics-listitem:last-child>.ta-life-cont>p{margin-bottom:0}
+.characteristics-listitem:first-child:before{content:'';width:2px;height:calc(100% + 30px);border-left:1px dashed #4197d3;left:40px;top:-30px;position:absolute}
+.ta-life-rhs{width:50%;position:relative}
+.ta-life-img-wrap{z-index:1;width:82px;height:81px;padding:15px;border-radius:50%;margin-right:20px;border:solid 1.6px #f2f7fb;background-color:#f2f7fb}
+.ta-life-img-wrap img{width:54px;height:53px;-o-object-fit:contain;object-fit:contain}
+.ta-life-cont{width:calc(100% - 110px);padding-bottom:40px}
+.life-ta-sct .rmvmtcheck{margin-top:0}
+@media screen and (max-width:767.99px){.life-ta-sct .rmvmtcheck{margin-top:60px}
+.life-ta-sct{margin-top:0}
+.ta-life-maindiv{flex-wrap:wrap;margin-top:0;flex-direction:column}
+.ta-life-lhs{width:100%;margin-right:0}
+.ta-life-arr{width:25px;height:25px;top:100px;left:24px}
+.characteristics-listitem:before{left:25px}
+.ta-life-rhs{width:100%;margin-top:30px;height:auto}
+.ta-life-img-wrap{width:50px;padding:8px;margin-right:15px;height:50px}
+.ta-life-img-wrap img{width:33px;height:33px}
+.ta-life-cont{width:calc(100% - 80px);padding-bottom:10px}
+.page-container{padding:0 20px}
+.rogue-p>p{font-size:14px;line-height:1.71;margin-bottom:40px}
+.ta-life-txt p{font-size:14px;line-height:1.71}
+.characteristics-listitem:not(:last-child):before{left:25px}
+.ta-life-rhs-title h4,.ta-life-rhs-title h1,.ta-life-rhs-title h2,.ta-life-rhs-title h3,.ta-life-rhs-title h5,.ta-life-rhs-title h6{position:absolute;top:24px;left:24px;color:#fff}
+}

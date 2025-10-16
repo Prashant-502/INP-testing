@@ -1,0 +1,63 @@
+html{scroll-behavior:smooth;height:100%}
+body{line-height:1;font-size:18px;background:#fff;color:#333;font-family:"Inter";font-weight:400;position:relative;overflow-x:hidden;padding-top:84px !important}
+img{max-width:100%}
+p{margin-bottom:.5rem}
+body,div,img,p,section,table,tbody,td,tr{margin:0;padding:0;border:0;outline:0;background:0;font-style:normal}
+table{border-collapse:collapse;border-spacing:0}
+*,:after,:before{box-sizing:border-box}
+section.rbr-1{margin-top:100px}
+.li-item,.rbr-2,.rbr-3,section.rbr-1{padding:0 84px}
+.rbr-3,section.rbr-2{margin-top:107px}
+section.rbr-1{margin-top:100px}
+.bonus-table1{margin:24px 0 28px 30px;font-family:'Inter',sans-serif;font-weight:600;font-size:35px;line-height:47px;min-width:450px;letter-spacing:-.47px;color:#333}
+table{border:solid 2px #4197d3;width:100%}
+.tab1-para{margin-top:20px;font-family:'Inter';font-size:18px;font-weight:400;font-stretch:normal;font-style:normal;line-height:1.33;letter-spacing:normal;color:#373737}
+.th{font-size:20px;font-weight:700;border-bottom:solid 2px #4197d3}
+td{font-family:'Inter';font-size:16px;font-weight:400;font-stretch:normal;font-style:normal;line-height:normal;letter-spacing:normal;color:#58595b;width:-webkit-max-content;width:-moz-max-content;width:max-content;padding:15px;text-align:center;border-bottom:.5px solid grey;border-left:solid 2px #4197d3;border-right:solid 2px #4197d3}
+.head{border-right:solid 2px #4197d3}
+.th{text-align:left;font-family:'Inter';font-size:16px;font-weight:400;font-stretch:normal;font-style:normal;line-height:normal;letter-spacing:normal;color:#58595b;width:-webkit-max-content;width:-moz-max-content;width:max-content;padding:15px;border-left:solid 2px #4197d3;border-bottom:2px solid #4197d3;border-right:solid 2px #4197d3}
+.bonus-table2{margin:24px 0 28px 30px;font-family:'Inter',sans-serif;font-weight:600;font-size:35px;line-height:47px;min-width:450px;letter-spacing:-.47px;color:#333}
+td,th{font-family:'Inter';font-size:16px;font-weight:400;font-stretch:normal;font-style:normal;line-height:normal;letter-spacing:normal;color:#58595b;width:-webkit-max-content;width:-moz-max-content;width:max-content;padding:15px;text-align:center;border-bottom:1px solid #4197d3;border-left:solid 2px #4197d3;border-right:solid 2px #4197d3}
+tr{border-bottom:2px solid #4197d3}
+section.rbr-2.instantPageChange{margin-top:35px;margin-bottom:36px;margin-right:auto;margin-left:auto;max-width:1366px;padding:0 84px}
+.rates section.rbr-2.instantPageChange h4{font-size:30px;font-weight:600}
+.ckhheadingbackground{background:#4197d3;border-top-left-radius:10px;border-top-right-radius:10px;align-items:flex-start}
+.ckhheadingbackground .bonus-table2{font-family:'Inter';font-weight:700;font-size:40px;line-height:48px;color:#fff;margin:32px 0 40px 0;width:86%}
+.ckhtablecolor .head{background:#e1f2ff}
+.ckhtablecolor tbody tr:nth-child(even){background:#f2f7fb}
+.hideandshowbtn{display:none}
+.bonus-table-icon{margin-left:32px;margin-top:-10px;width:9%}
+.padding-rem tbody tr td{padding:8px}
+.checkflow-scroll .flow-scroll{overflow-x:scroll}
+.gift-info{display:flex;justify-content:space-between;width:100%}
+.rates-table-style .tableResp ul{padding-left:15px}
+.rates-table-style .tableResp ul li{list-style:disc}
+.ckhheadingbackground .bonus-table-heading{width:86%}
+.ckhheadingbackground .bonus-table-heading h1,.ckhheadingbackground .bonus-table-heading h2,.ckhheadingbackground .bonus-table-heading h3,.ckhheadingbackground .bonus-table-heading h4,.ckhheadingbackground .bonus-table-heading h5,.ckhheadingbackground .bonus-table-heading h6{font-family:'Inter';font-weight:700;font-size:2.5rem;line-height:48px;color:#fff;margin:32px 0 40px 0;letter-spacing:-.47px}
+@media screen and (max-width:767.99px){body{padding-top:71px !important}
+.flow-scroll,.section1,.section2{overflow-x:scroll}
+.li-item,.rbr-2,.rbr-3,section.rbr-1{padding:0 10px}
+.rbr-3,section.rbr-2{margin-top:70px}
+.bonus-table1,.bonus-table2{margin:0 0 0 24px;min-width:0;font-size:20px;line-height:normal}
+td{padding:10px 6px;font-size:12px}
+.bonus-table1{margin:0 0 0 24px;min-width:0;font-size:20px;line-height:normal}
+section.rbr-1{margin-top:50px}
+.tab1-para{font-size:14px;margin-top:10px}
+section.rbr-1{padding:0 10px}
+.th{font-size:12px}
+section.rbr-2.instantPageChange{padding:0 20px;margin-top:0}
+.table-scroll{overflow:scroll}
+.howworks .rates section.rbr-2.instantPageChange{padding:unset;overflow-x:auto}
+.howworks .rates section.rbr-2.instantPageChange table tbody tr td p{font-size:12px}
+.howworks .rates section.rbr-2.instantPageChange table tbody tr td p b{font-size:12px}
+.rates section.rbr-2.instantPageChange h4{font-size:24px;font-weight:500}
+.howworks .rates section.rbr-2.instantPageChange table{margin-left:0}
+.ckhheadingbackground .bonus-table-icon{margin-left:19px}
+.ckhtablecolor tr:nth-child(n+6){display:none}
+.ckhheadingbackground .bonus-table2{font-size:20px;line-height:24px;margin:16px 21px 0 16px}
+.hideandshowbtn{display:block;text-align:center;margin-top:21px}
+.seebtn{font-family:'Inter';font-weight:500;font-size:16px;line-height:19px;text-align:right;text-decoration-line:underline;color:#0073bb}
+.seelessbtn{display:none}
+.bonus-table-icon{width:auto}
+.ckhheadingbackground .bonus-table-heading h1,.ckhheadingbackground .bonus-table-heading h2,.ckhheadingbackground .bonus-table-heading h3,.ckhheadingbackground .bonus-table-heading h4,.ckhheadingbackground .bonus-table-heading h5,.ckhheadingbackground .bonus-table-heading h6{font-size:1.25rem;line-height:24px;margin:16px 21px 0 16px}
+}

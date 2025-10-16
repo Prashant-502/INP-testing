@@ -1,0 +1,14 @@
+.focus-state .ta-input::placeholder{color:#d4d7db}
+.focus-state .ta-input{border-bottom:1px solid #a7a9ac;font-family:'HelveticaNeueLTStd-Md',sans-serif;color:#333}
+.focus-state .ta-input.ta-input-invalid{border-bottom:1px solid #d62049}
+.focus-state .ta-label{color:#333}
+.focus-state .ta-input-w:hover .ta-input::placeholder{color:#a7a9ac;font-family:'HelveticaNeueLTStd-Md',sans-serif}
+.focus-state .ta-input-w:hover .ta-input{border-bottom:2px solid #0073bb}
+.focus-state .ta-input:focus{border-bottom:2px solid #0073bb}
+.focus-state .ta-input:focus::placeholder{color:transparent !important}
+.focus-state .ta-input-w:hover .select2-container--flat .select2-selection--single{border-bottom:2px solid #0073bb}
+.focus-state .select2-container--flat .select2-selection--single{border-bottom:1px solid #a7a9ac}
+.focus-state .select2-container--flat .select2-selection--single.select2-invalid{border-bottom:1px solid #d62049}
+.focus-state .mt-ad-custom-dropdown .red-border-mab{border-bottom:1px solid #d62049}
+.focus-state .select2-container--flat .select2-selection--single .select2-selection__rendered{font-family:'HelveticaNeueLTStd-Md',sans-serif;color:#333}
+.focus-state .ta-label.ta-label-focus{color:#0073bb}

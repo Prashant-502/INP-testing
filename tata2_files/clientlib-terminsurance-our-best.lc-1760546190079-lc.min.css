@@ -1,0 +1,10 @@
+.our-best .cmp-container{display:flex;flex-wrap:wrap;gap:15px}
+.our-best .cmp-container .leadproxytext{width:24%}
+.our-best .cmp-container .leadproxytext .cmp-text{border-radius:10px;background-color:#f2f7fb;padding:30px;height:100%}
+.our-best .cmp-container .leadproxytext .cmp-text .lead{color:#333;font-family:'HelveticaNeueLTStd-Bd';font-size:1.5rem;font-weight:700;line-height:normal;letter-spacing:-0.24px;padding-bottom:10px;display:block}
+.our-best .cmp-container .leadproxytext .cmp-text .sub-Text{color:#333;font-family:'helveticaregular';font-size:1.125rem;font-weight:400;line-height:27px;letter-spacing:-0.18px}
+@media screen and (max-width:767px){.our-best .cmp-container .leadproxytext{width:100%}
+.our-best .cmp-container .leadproxytext .cmp-text{padding:20px}
+.our-best .cmp-container .leadproxytext .cmp-text .lead{letter-spacing:-0.18px;font-size:1.125rem}
+.our-best .cmp-container .leadproxytext .cmp-text .sub-Text{line-height:19.6px;letter-spacing:-0.14px;font-size:.875rem}
+}

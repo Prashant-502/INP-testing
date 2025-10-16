@@ -1,0 +1,269 @@
+.text--leadheaddesc p{color:var(--grey-tone-light-1);font-family:'helveticaregular',sans-serif;font-size:1rem;line-height:140%}
+@media screen and (max-width:768px){.text--leadheaddesc p{font-size:.875rem}
+}
+.container-multiple-benefits>.cmp-container{padding:20px}
+.multiBenefitsTitle>.cmp-text{text-align:center}
+.multiBenefitsTitle>.cmp-text h5{padding:20px 0 10px 0}
+.multiBenefitsTitle>.cmp-text p{font-size:1rem;font-family:'helveticaregular',sans-serif}
+.teaser--multiple-benefits-wrapper>.cmp-container{column-gap:22px;padding-top:40px;row-gap:22px}
+.teaser--multiplebenefits{width:23.5%}
+.teaser--multiplebenefits>.cmp-teaser{height:100%;display:flex;flex-direction:column;gap:12px;padding:20px;cursor:pointer}
+.teaser--multiplebenefits>.cmp-teaser .cmp-teaser__content{display:flex;flex-direction:column;gap:8px}
+.teaser--multiplebenefits>.cmp-teaser .cmp-teaser__content .cmp-teaser__pretitle{font-size:1.25rem;font-weight:700}
+.teaser--multiplebenefits>.cmp-teaser .cmp-teaser__content .cmp-teaser__title{font-size:1.25rem;font-family:'HelveticaNeueLTStd-Bd'}
+.teaser--multiplebenefits>.cmp-teaser .cmp-teaser__content .cmp-teaser__description p{font-size:1rem;font-family:'helveticaregular';color:#4b5b5b}
+.teaser--multiplebenefits>.cmp-teaser:hover{outline:1.5px solid var(--Primary-Blue,#0073bb);box-shadow:0 8px 12px 0 rgba(0,115,187,0.12);background-color:white;border-radius:20px}
+@media screen and (max-width:786px){.container-multiple-benefits>.cmp-container{padding:20px 0}
+.multiBenefitsTitle>.cmp-text h2{padding:0 20px}
+.multiBenefitsTitle>.cmp-text h5{padding:4px 0 8px 0}
+.multiBenefitsTitle>.cmp-text p{font-size:.875rem}
+.teaser--multiple-benefits-wrapper>.cmp-container{row-gap:20px !important;padding-top:20px}
+.teaser--multiplebenefits{width:100%}
+.teaser--multiplebenefits>.cmp-teaser{padding:24px}
+.teaser--multiplebenefits>.cmp-teaser .cmp-teaser__content{gap:4px}
+.teaser--multiplebenefits>.cmp-teaser .cmp-teaser__content .cmp-teaser__title{font-size:1.125rem}
+.teaser--multiplebenefits>.cmp-teaser .cmp-teaser__content .cmp-teaser__description p{font-size:.875rem}
+.teaser--multiplebenefits>.cmp-teaser:hover{border-radius:16px}
+}
+.container--product-benefits-wrapper>.cmp-container{width:100%;background-image:url(../../../content/dam/TataAiaLifeInsurance/srs-lead-page/Settlement-Desktop-Section.png);background-repeat:no-repeat;background-position:center;background-size:100% 100%;position:relative}
+.text--product-benefits{padding:60px 72px 0 40px;width:45%}
+.text--product-benefits>.cmp-text h3{padding:8px 0 6px 0}
+.text--product-benefits>.cmp-text p{font-size:1rem;font-family:'helveticaregular',sans-serif}
+.container--product-benefits-wrapper>.cmp-container .teaser--product-benefits-wrapper{position:relative;width:55%}
+.container--product-benefits-wrapper>.cmp-container .teaser--product-benefits-wrapper>.cmp-container{column-gap:24px}
+.container--product-benefits-wrapper>.cmp-container .teaser--product-benefits-wrapper-left>.cmp-container{position:relative;top:-45px;display:flex;flex-direction:column;row-gap:25px}
+.teaser--product-benefits-wrapper-left>.cmp-container .teaser--product-benefits>.cmp-teaser{min-width:285px;padding:20px 40px 20px 20px;background-color:var(--neutral-white);box-shadow:0 12px 16px 0 rgba(0,115,187,0.16);border-radius:20px}
+.teaser--product-benefits>.cmp-teaser{display:flex;flex-direction:column;row-gap:12px}
+.teaser--product-benefits>.cmp-teaser:hover{outline:1px solid var(--primary-blue);box-shadow:0 12px 16px 0 rgba(0,115,187,0.16)}
+.teaser--product-benefits>.cmp-teaser .cmp-teaser__content{display:flex;flex-direction:column;row-gap:8px}
+.teaser--product-benefits>.cmp-teaser .cmp-teaser__content .cmp-teaser__pretitle{font-size:1.25rem;font-family:'HelveticaNeueLTStd-Bd',sans-serif}
+.teaser--product-benefits>.cmp-teaser .cmp-teaser__content .cmp-teaser__description p{font-size:1rem;font-family:'helveticaregular',sans-serif}
+.container--product-benefits-wrapper>.cmp-container .teaser--product-benefits-wrapper-right>.cmp-container{position:relative;bottom:-45px;display:flex;flex-direction:column;row-gap:25px}
+.teaser--product-benefits-wrapper-right>.cmp-container .teaser--product-benefits>.cmp-teaser{min-width:285px;padding:20px 40px 20px 20px;background-color:var(--neutral-white);box-shadow:0 12px 16px 0 rgba(0,115,187,0.16);border-radius:20px}
+@media screen and (max-width:786px){.container--product-benefits-wrapper>.cmp-container{padding:40px 20px 20px 15px;background-image:url(../../../content/dam/TataAiaLifeInsurance/srs-lead-page/Settlement-Mobile-Section.png)}
+.text--product-benefits{width:100%;padding:unset}
+.text--product-benefits>.cmp-text h3{font-size:1.25rem}
+.text--product-benefits>.cmp-text p{font-size:.875rem}
+.container--product-benefits-wrapper>.cmp-container{flex-direction:column;row-gap:10px}
+.container--product-benefits-wrapper>.cmp-container .teaser--product-benefits-wrapper>.cmp-container{row-gap:10px}
+.container--product-benefits-wrapper>.cmp-container .teaser--product-benefits-wrapper-left>.cmp-container{top:0}
+.container--product-benefits-wrapper>.cmp-container .teaser--product-benefits-wrapper-right>.cmp-container{bottom:0}
+.teaser--product-benefits>.cmp-teaser{flex-direction:row;column-gap:8px}
+.teaser--product-benefits>.cmp-teaser .cmp-teaser__content .cmp-teaser__description p{font-size:.875rem}
+.container--product-benefits-wrapper>.cmp-container .teaser--product-benefits-wrapper{width:100%}
+.container--product-benefits-wrapper>.cmp-container .teaser--product-benefits-wrapper-left>.cmp-container{row-gap:12px}
+.container--product-benefits-wrapper>.cmp-container .teaser--product-benefits-wrapper-right>.cmp-container{row-gap:12px}
+}
+.button--leadseeMore,.button--leadseeLess{display:none;text-align:center;width:max-content;margin:0 auto;margin-top:15px}
+.button--leadseeMore button,.button--leadseeLess button{background-color:transparent;outline:0;text-decoration:none;color:var(--primary-blue);font-family:"HelveticaNeueLTStd-Md";font-size:1rem;line-height:1.38;letter-spacing:normal;text-align:center;cursor:pointer;padding:0}
+@media screen and (max-width:768px){.button--leadseeMore{display:block}
+}
+.container--leadtestimonial>.cmp-container{padding:40px 0 75px;background:linear-gradient(97deg,#ecf5fa 0,#e0eef7 100%)}
+.teaser--leadtestimonialcards-wrapper>.cmp-container{padding-top:40px}
+.teaser--leadtestimonialcards{height:100%}
+.teaser--leadtestimonialcards>.cmp-teaser{background-color:var(--neutral-white);border-radius:10px;padding:20px 20px 40px;position:relative;height:100%}
+.teaser--leadtestimonialcards>.cmp-teaser:hover{outline:1.5px solid var(--primary-blue);box-shadow:0 8px 12px 0 rgba(0,115,187,0.12)}
+.teaser--leadtestimonialcards>.cmp-teaser .cmp-teaser__image-heading-wrap .cmp-teaser__image img{height:64px;width:64px;position:absolute;top:-32px}
+.teaser--leadtestimonialcards>.cmp-teaser .cmp-teaser__content{display:flex;flex-direction:column}
+.teaser--leadtestimonialcards>.cmp-teaser .cmp-teaser__content .cmp-teaser__pretitle{display:flex;align-self:flex-end;font-size:.875rem;color:var(--grey-tone-light-2);font-family:'helveticaregular',sans-serif}
+.teaser--leadtestimonialcards>.cmp-teaser .cmp-teaser__content .cmp-teaser__title{font-size:1.25rem;color:var(--primary-blue);margin-top:20px;margin-bottom:8px}
+.teaser--leadtestimonialcards>.cmp-teaser .cmp-teaser__content .cmp-teaser__description h6{color:var(--primary-blue)}
+.teaser--leadtestimonialcards>.cmp-teaser .cmp-teaser__content .cmp-teaser__description p{font-size:1rem;font-family:'helveticaregular',sans-serif;color:var(--grey-tone-light-1)}
+.teaser--leadtestimonialcards>.cmp-teaser .cmp-teaser__image{position:absolute;top:-35px}
+.teaser--leadtestimonialcards-wrapper>.cmp-container .slick-slide{margin:0 16px;height:inherit}
+.teaser--leadtestimonialcards-wrapper>.cmp-container .slick-slide>div{height:100%}
+.teaser--leadtestimonialcards-wrapper>.cmp-container .slick-track{display:flex;margin-top:30px}
+.teaser--leadtestimonialcards-wrapper>.cmp-container .slick-prev{width:40px;height:40px;z-index:1;display:block;left:-3px;border-radius:50%;background-color:var(--neutral-white);font-size:0;line-height:0;position:absolute;top:50%}
+.teaser--leadtestimonialcards-wrapper>.cmp-container .slick-prev::before{content:'';background-size:100% 100%;width:100%;height:100%;display:inline-block;opacity:1;cursor:pointer;transform:translate(2%,20%);background:url(../../../content/dam/TataAiaLifeInsurance/srs-lead-page/left-arrow.svg) no-repeat}
+.teaser--leadtestimonialcards-wrapper>.cmp-container .slick-next{width:40px;height:40px;z-index:1;display:block;right:-3px;border-radius:50%;background-color:var(--neutral-white);font-size:0;line-height:0;position:absolute;top:50%}
+.teaser--leadtestimonialcards-wrapper>.cmp-container .slick-next::before{content:'';background-size:100% 100%;width:100%;height:100%;display:inline-block;opacity:1;cursor:pointer;transform:translate(2%,20%);rotate:180deg;background:url(../../../content/dam/TataAiaLifeInsurance/srs-lead-page/right-arrow.svg) no-repeat}
+.teaser--leadtestimonialcards-wrapper>.cmp-container .slick-disabled{opacity:0;pointer-events:none}
+@media screen and (max-width:768px){.container--leadtestimonial>.cmp-container{padding:40px 0 58px}
+.teaser--leadtestimonialcards-wrapper>.cmp-container{padding-top:24px;display:block}
+.teaser--leadtestimonialcards>.cmp-teaser{padding:12px 20px 20px;box-shadow:0 4px 8px -2px rgba(0,0,0,0.10)}
+.teaser--leadtestimonialcards>.cmp-teaser .cmp-teaser__image-heading-wrap .cmp-teaser__image img{height:48px;width:48px;top:-24px}
+.teaser--leadtestimonialcards>.cmp-teaser .cmp-teaser__content{row-gap:8px}
+.teaser--leadtestimonialcards>.cmp-teaser .cmp-teaser__content .cmp-teaser__pretitle{font-size:.625rem;color:var(--neutral-black)}
+.teaser--leadtestimonialcards>.cmp-teaser .cmp-teaser__content .cmp-teaser__description p{font-size:.75rem;margin-top:6px}
+.teaser--leadtestimonialcards-wrapper>.cmp-container .slick-slide{margin:unset;margin-right:10px}
+.teaser--leadtestimonialcards-wrapper>.cmp-container .slick-dots li button{font-size:0;margin-top:20px;margin-right:6px;height:6px;padding:0;width:6px;background-color:var(--blue-tone-light-2);border-radius:50%}
+.teaser--leadtestimonialcards-wrapper>.cmp-container .slick-dots li.slick-active button{background:var(--blue-tone-light-1);height:6px;padding:0;width:20px;border-radius:20px}
+.teaser--leadtestimonialcards-wrapper>.cmp-container .slick-dots{position:absolute;display:block;width:100%;padding:0;margin:0;list-style:none;text-align:center}
+.teaser--leadtestimonialcards-wrapper>.cmp-container .slick-dots li{position:relative;display:inline-block;cursor:pointer}
+}
+.container--why-opt{background-image:url("../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/lead-pages/Desktop-Section1.png");background-repeat:no-repeat;background-size:100% 100%;background-position-y:calc(100% - 54px);border-radius:30px}
+.container--why-opt>.cmp-container{padding-top:40px}
+.teaser--why-opt-wrapper>.cmp-container{width:57.5%;margin:0 auto;justify-content:space-between;row-gap:30px;padding-top:20px}
+.teaser--why-opt{width:31%;padding:20px 20px;background-color:white;text-align:center;border-radius:20px;height:100%;box-shadow:0 4px 8px 0 rgba(0,115,187,0.08)}
+.teaser--why-opt>.cmp-teaser{display:flex;flex-direction:column;gap:10px}
+.teaser--why-opt>.cmp-teaser .cmp-teaser__image img{height:48px;width:48px}
+.teaser--why-opt>.cmp-teaser .cmp-teaser__content .cmp-teaser__description{font-size:1rem;color:var(--neutral-black)}
+@media screen and (max-width:768px){.container--why-opt{background-image:url("../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/lead-pages/Mobile-Section1.png");background-position-y:calc(100%)}
+.container--why-opt>.cmp-container{padding:20px}
+.teaser--why-opt{width:46%;height:100%}
+.teaser--why-opt-wrapper>.cmp-container{flex-direction:row;width:100%;gap:10px;justify-content:space-evenly}
+.teaser--why-opt>.cmp-teaser .cmp-teaser__image img{height:40px;width:40px}
+.teaser--why-opt>.cmp-teaser .cmp-teaser__content .cmp-teaser__description{font-size:.875rem;color:var(--neutral-black)}
+}
+.container--downnload{background-image:url("../../../content/dam/tataaialifeinsurancecompanylimited/srs-lead/Rectangle-3295.png");background-repeat:no-repeat;background-size:100% 100%}
+.container--downnload>.cmp-container .container--download--innerWrapper>.cmp-container{align-items:center;gap:20px}
+.teaser-download-card{width:200px}
+.teaser-download-card-wrapper>.cmp-container .teaser-download-card>.cmp-teaser{background-color:white;border-radius:8px;padding:12px 10px 12px 20px;box-shadow:0 8px 12px 0 rgba(0,115,187,0.12)}
+.teaser-download-card-wrapper>.cmp-container .teaser-download-card>.cmp-teaser .cmp-teaser__description p a{display:flex;align-items:center;gap:8px}
+.teaser-download-card-wrapper>.cmp-container .teaser-download-card>.cmp-teaser .cmp-teaser__content .cmp-teaser__description p{font-size:1rem}
+.container--downnload>.cmp-container{padding:24px 40px;border-radius:20px;background:var(--Secondary-Light-Blue-04,#ecf5fa);align-items:center}
+.container--downnload-text>.cmp-text{margin-right:40px}
+.teaser-download-card-wrapper>.cmp-container{gap:20px;margin-left:40px}
+.teaser-download-card-wrapper>.cmp-container .teaser-download-card>.cmp-teaser:hover{outline:1px solid var(--primary-blue)}
+@media screen and (max-width:768px){.container--downnload>.cmp-container{padding:20px;margin:0 20px}
+.container--downnload>.cmp-container container--.download--innerWrapper>.cmp-container{justify-content:center}
+.teaser-download-card-wrapper .cmp-container{flex-direction:column}
+.teaser-download-card-wrapper>.cmp-container{margin-left:0;gap:10px}
+.teaser-download-card-wrapper>.cmp-container .teaser-download-card{width:100%}
+.teaser-download-card-wrapper>.cmp-container .teaser-download-card>.cmp-teaser{justify-content:space-between}
+.teaser-download-card-wrapper>.cmp-container .teaser-download-card>.cmp-teaser .cmp-teaser__content .cmp-teaser__description p{font-size:.875rem}
+.container--downnload>.cmp-container .container--download--innerWrapper>.cmp-container{display:block}
+.container--downnload>.cmp-container{display:block}
+.teaser-download-card-wrapper{margin-top:18px}
+.teaser-download-card-wrapper>.cmp-container .teaser-download-card>.cmp-teaser .cmp-teaser__description p a{gap:unset;justify-content:space-between}
+}
+.leadFraudContainer>.cmp-container{background:var(--blue-tone-light-4);border-radius:20px;padding:24px 20px}
+.leadFraudText>.cmp-text p{font-size:.75rem;color:var(--grey-tone-light-1);line-height:140%}
+.leadFraudText>.cmp-text p b{font-size:.875rem}
+@media screen and (max-width:768px){.leadFraudContainer>.cmp-container{padding:17px 20px}
+.leadFraudText>.cmp-text p{font-size:.75rem}
+.leadFraudText>.cmp-text p b{font-size:.75rem}
+}
+.container--thankyou>.cmp-container{border-radius:30px;background-image:url("../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/lead-pages/Desktop-Section1.png");background-repeat:no-repeat;background-size:cover;background-position:100% 100%}
+.thankYouWrapper>.cmp-container{padding:30px 120px;gap:60px}
+.thankYouPageLogo>.cmp-teaser{padding-top:40px}
+.thankYouPageLogo>.cmp-teaser .cmp-teaser__image{display:flex;justify-content:center}
+.thankYoutxtBtnWrapper>.cmp-container{height:100%;flex-direction:column}
+.thankYouDeskBanner .cmp-teaser__image img{height:400px;width:400px}
+.thankYouMobBanner .cmp-teaser__image img{width:280px;height:180px;display:none}
+.text--thankYou>.cmp-text h2{margin:20px 0 5px 0}
+.text--thankYou>.cmp-text h5{margin-bottom:20px}
+.text--thankYou>.cmp-text p{font-size:1rem;margin-bottom:40px;line-height:140%;letter-spacing:.5px}
+.thankYouBackBtn .cmp-button .cmp-button__text{outline:0;background-color:var(--primary-red);color:var(--neutral-white);padding:10px 20px;font-size:1.125rem;border-radius:8px;display:inline-block}
+.thankYou--bottomTxt{margin-top:auto}
+.thankYou--bottomTxt>.cmp-text p{font-size:.875rem;color:var(--grey-tone-light-2)}
+@media screen and (max-width:768px){.container--thankyou>.cmp-container{background-image:url("../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/lead-pages/Mobile-Section2.png");background-repeat:no-repeat;background-size:cover;background-position:100% 100%}
+.thankYouPageLogo>.cmp-teaser{padding-top:22px}
+.thankYouWrapper>.cmp-container{flex-direction:column;padding:12px 20px 20px 20px;text-align:center;align-items:center;gap:0}
+.thankYouDeskBanner .cmp-teaser__image img{display:none}
+.thankYouMobBanner .cmp-teaser__image img{display:flex;justify-content:center}
+.text--thankYou>.cmp-text p{font-size:.875rem;margin-bottom:20px}
+.thankYou--bottomTxt{margin-top:10px}
+}
+.accordion--lead-page .cmp-accordion .cmp-accordion__item{border:1px solid var(--blue-tone-light-4);background-color:var(--neutral-white);margin:20px 0;display:flex;flex-direction:column;box-shadow:0 4px 8px -2px rgba(0,0,0,0.10);border-radius:10px}
+.accordion--lead-page .cmp-accordion .cmp-accordion__item .cmp-accordion__header .cmp-accordion__button{display:flex;justify-content:space-between;background-color:transparent;padding:20px 20px 16px 20px}
+.accordion--lead-page .cmp-accordion .cmp-accordion__item .cmp-accordion__header button .cmp-accordion__title{font-size:1.25rem;font-family:'HelveticaNeueLTStd-Bd',sans-serif;width:90.5%;display:block}
+.accordion--lead-page .cmp-accordion .cmp-accordion__item .cmp-accordion__panel .cmp-title__text{font-size:1.125rem;font-family:'helveticaregular',sans-serif;font-weight:400;width:95%}
+.accordion--lead-page>.cmp-accordion .cmp-accordion__item .cmp-accordion__icon{height:32px;width:32px;background-image:url("../../../content/dam/tataaialifeinsurancecompanylimited/srs-product-page/Down-arrow.svg");transition:transform .3s linear;background-size:100% 100%}
+.accordion--lead-page>.cmp-accordion .cmp-accordion__item .cmp-accordion__button--expanded .cmp-accordion__icon{transform:rotate(-180deg)}
+.accordion--lead-page .cmp-accordion .cmp-accordion__item .cmp-accordion__panel{padding:0 0 20px 20px}
+@media screen and (max-width:786px){.accordion--lead-page .cmp-accordion .cmp-accordion__item .cmp-accordion__header button .cmp-accordion__title{font-size:1rem}
+.accordion--lead-page .cmp-accordion .cmp-accordion__item .cmp-accordion__panel .cmp-title__text{font-size:.875rem;line-height:20px}
+.accordion--lead-page>.cmp-accordion .cmp-accordion__item .cmp-accordion__icon{height:24px;width:24px}
+.accordion--lead-page .cmp-accordion .cmp-accordion__item .cmp-accordion__header .cmp-accordion__button{padding:15px 20px 12px 20px}
+.accordion--lead-page .cmp-accordion .cmp-accordion__item .cmp-accordion__panel{padding:0 0 15px 20px}
+}
+.tab--lead-page>.cmp-tabs .cmp-tabs__tab{text-align:center;font-size:24px;font-family:'HelveticaNeueLTStd-Bd',sans-serif;color:#a3a3a3;width:20%}
+.tab--lead-page{margin-top:40px}
+.tab--lead-page>.cmp-tabs .cmp-tabs__tab--active{color:var(--primary-blue)}
+.tab--lead-page>.cmp-tabs .cmp-tabs__tab--active:focus-visible{outline:0}
+.tab--lead-page .cmp-tabs__tablist{border-bottom:1px solid var(--grey-light)}
+.tab--lead-page .cmp-tabs__tablist .cmp-tabs__tab--active{border-bottom:1px solid var(--primary-blue)}
+@media screen and (max-width:786px){.tab--lead-page>.cmp-tabs .cmp-tabs__tab{font-size:1rem;font-family:'HelveticaNeueLTStd-Md',sans-serif;width:auto}
+.tab--lead-page>.cmp-tabs .cmp-tabs__tablist{flex-wrap:nowrap;overflow:scroll}
+}
+.nri-offer-list-removal.teaser--plansbenefitcards-wrap{margin-top:auto}
+.teaser--plansbenefitcards-wrap>.cmp-container{margin:0 auto}
+.teaser--plansbenefitcards{height:100%}
+.teaser--plansbenefitcards .cmp-teaser{padding:24px 12px;border-radius:20px;border:2px solid var(--blue-tone-light-2);background:rgba(255,255,255,0.60);backdrop-filter:blur(8px);text-align:center;height:100%}
+.teaser--plansbenefitcards .cmp-teaser .cmp-teaser__image .cq-dd-image{width:48px;height:48px;margin:0 auto}
+.teaser--plansbenefitcards .cmp-teaser .cmp-teaser__content .cmp-teaser__description,.teaser--plansbenefitcards .cmp-teaser .cmp-teaser__image-heading-wrap .cmp-teaser__image-heading{color:var(--grey-tone-light-1);font-family:'helveticaregular',sans-serif;font-size:1rem;line-height:22px;margin-top:10px}
+.teaser--plansbenefitcards-wrap .cmp-container .slick-track{display:flex}
+.teaser--plansbenefitcards-wrap .cmp-container .slick-slide:first-child{margin-left:0}
+.teaser--plansbenefitcards-wrap .cmp-container .slick-slide{margin:0 10px;height:inherit}
+.teaser--plansbenefitcards-wrap .cmp-container .slick-slide>div{height:100%}
+@media screen and (max-width:768px){.teaser--plansbenefitcards .cmp-teaser{padding:10px;border-radius:10px;flex-direction:row;column-gap:10px;display:flex !important;align-items:center;text-align:left}
+.teaser--plansbenefitcards .cmp-teaser .cmp-teaser__image .cq-dd-image{width:32px;height:32px}
+.teaser--plansbenefitcards .cmp-teaser .cmp-teaser__content .cmp-teaser__description,.teaser--plansbenefitcards .cmp-teaser .cmp-teaser__image-heading-wrap .cmp-teaser__image-heading{font-size:.875rem;line-height:19px;margin-top:unset}
+.teaser--plansbenefitcards-wrap .cmp-container{width:100%}
+.teaser--plansbenefitcards-wrap .cmp-container .slick-slide{margin:0 5px}
+.cards-remove-slick-dots.teaser--plansbenefitcards-wrap .cmp-container .slick-dots{display:none !important}
+.teaser--plansbenefitcards-wrap .cmp-container .slick-dots{display:flex;justify-content:flex-start;padding-top:10px}
+.teaser--plansbenefitcards-wrap .cmp-container .slick-dots li{margin:0 3px;font-size:0}
+.teaser--plansbenefitcards-wrap .cmp-container .slick-dots li button{font-size:0;height:8px;width:8px;background-color:var(--blue-tone-light-2);border-radius:50%;padding:0;display:inline-block}
+.teaser--plansbenefitcards-wrap .cmp-container .slick-dots li.slick-active button{height:8px;width:20px;background-color:var(--blue-tone-light-1);border-radius:20px;display:inline-block}
+}
+.teaser--ilpresultheading .cmp-text{max-width:332px;width:100%;padding-right:30px}
+.teaser--ilpresultheading .cmp-text p{font-family:"Inter";font-size:1.125rem;font-style:normal;font-weight:700;line-height:normal;color:var(--grey-tone-light-1)}
+.teaser--ilpresultheading-wrap>.cmp-container{justify-content:center}
+.teaser--ilpresultheading{position:absolute;left:10%}
+@media screen and (max-width:768px){.teaser--ilpresultheading-wrap .cmp-container{flex-direction:column;text-align:center;row-gap:10px}
+.teaser--ilpresultheading .cmp-text{max-width:unset;padding-right:0}
+.teaser--ilpresultheading .cmp-text p{font-size:1rem}
+.teaser--ilpresult-mob-heading .cmp-text{padding:0 30px}
+.teaser--ilpresult-mob-heading .cmp-text span{display:block}
+.teaser--ilpresultheading{position:unset}
+}
+.image-banner-carousel-wrappper{margin:auto}
+.image-banner-carousel-wrappper>.cmp-container{width:100%;height:auto;object-fit:cover}
+.image-banner-carousel-wrappper .cmp-container .image .cmp-image__image{width:100%;height:auto}
+.image-banner-carousel-wrappper .cmp-container .slick-slide{height:100%}
+.image-banner-carousel-wrappper .cmp-container .slick-slide>div{height:100%}
+.image-banner-carousel-wrappper .cmp-container .slick-dots{display:flex;justify-content:center;padding:10px 0}
+.image-banner-carousel-wrappper .cmp-container .slick-dots li{margin:0 3px;font-size:0}
+.image-banner-carousel-wrappper .cmp-container .slick-dots li button{font-size:0;height:10px;width:10px;background-color:var(--blue-tone-light-2);border-radius:50%;padding:0;display:inline-block}
+.image-banner-carousel-wrappper .cmp-container .slick-dots li.slick-active button{height:10px;width:30px;background-color:var(--blue-tone-light-1);border-radius:20px;display:inline-block}
+@media screen and (max-width:768px){.image-banner-carousel-wrappper .cmp-container .slick-dots li button{font-size:0;height:8px;width:8px}
+.image-banner-carousel-wrappper .cmp-container .slick-dots li.slick-active button{height:8px;width:20px}
+.image-banner-carousel-wrappper .cmp-container .image .cmp-image__image{height:350px}
+}
+.ilp-calc-banner-wrapper>.cmp-container{padding:16px 30px 10px 0}
+.ilp-calc-banner-desk-title,.ilp-calc-mob-hashing-text .cmp-text,.ilp-calc-banner-description .cmp-teaser .cmp-teaser__description{color:var(--grey-tone-light-1);text-align:justify;font-family:"helveticaregular";font-size:.625rem;line-height:normal;letter-spacing:-0.1px}
+.ilp-calc-mob-hashing-text .cmp-text{display:none}
+.ilp-calc-desk-hashing-text .cmp-text{display:block}
+.ilp-calc-banner-heading-wrap .cmp-container{margin-top:20px}
+.ilp-calc-banner-heading-wrap>.cmp-container{padding:0 10px 0 0}
+.ilp-calc-banner-sub-heading .cmp-text{display:flex;flex-direction:column;row-gap:10px;margin:10px 0}
+.ilp-calc-banner-description .cmp-teaser{margin-top:15px}
+.ilp-calc-banner-description .cmp-teaser .cmp-teaser__image .cq-dd-image{display:none}
+.ilp-calc-banner-desk-graph-img .cmp-image__image{width:100%;height:330px}
+.ilp-calc-banner-desk-graph-img.ilp-calc-banner-desk-graph-img--height .cmp-image__image{height:auto}
+.ilp-calc-banner-mob-graph-img .cmp-image__image{display:none}
+.graph--side--image .cmp-image__image{position:absolute;right:0;top:10px}
+.ilp-calc-carousel-img-wrapper .cmp-image__image,.ilp-calc-carousel-img-wrapper .extended__mobileimage{width:100%;height:100%}
+.ilp-calc-carousel-img-wrapper .extended__mobileimage{display:none}
+.ilp-calc-banner-wrapper .cmp-container .slick-dots{display:flex;justify-content:center;padding-top:10px}
+.ilp-calc-banner-wrapper .cmp-container .slick-dots li{margin:0 3px;font-size:0}
+.ilp-calc-banner-wrapper .cmp-container .slick-dots li button{font-size:0;height:10px;width:10px;background-color:var(--blue-tone-light-2);border-radius:50%;padding:0;display:inline-block}
+.ilp-calc-banner-wrapper .cmp-container .slick-dots li.slick-active button{height:10px;width:30px;background-color:var(--blue-tone-light-1);border-radius:20px;display:inline-block}
+.extendedimage .cmp-image__image{display:block;height:auto}
+.extendedimage .extended__mobileimage{display:none}
+@media screen and (max-width:768px){.ilp-calc-banner-wrapper>.cmp-container{padding:0 0 10px}
+.ilp-calc-mob-hashing-text .cmp-text{display:block;margin-top:20px}
+.ilp-calc-desk-hashing-text .cmp-text{display:none}
+.ilp-calc-banner-desk-title{text-align:center}
+.ilp-calc-banner-heading-wrap .cmp-container{margin-top:10px;flex-direction:column-reverse;row-gap:10px;padding:unset}
+.ilp-calc-banner-description .cmp-teaser .cmp-teaser__description{display:none}
+.ilp-calc-banner-description .cmp-teaser .cmp-teaser__image .cq-dd-image{height:auto;margin:0 auto;display:block}
+.ilp-calc-banner-desk-graph-img .cmp-image__image{display:none}
+.ilp-calc-banner-mob-graph-img .cmp-image__image{width:100%;height:230px;display:block}
+.graph--side--image .cmp-image__image{display:none}
+.ilp-calc-carousel-img-wrapper .cmp-image__image{display:none}
+.ilp-calc-carousel-img-wrapper .extended__mobileimage{display:block}
+.ilp-calc-banner-wrapper .cmp-container .slick-dots li button{height:8px;width:8px}
+.ilp-calc-banner-wrapper .cmp-container .slick-dots li.slick-active button{height:8px;width:20px}
+.extendedimage .extended__mobileimage{display:block;height:auto}
+.extendedimage .cmp-image__image{display:none}
+.ilp-calc-banner-heading-wrap>.cmp-container{padding:0}
+}
+.ilp-calculator-graph .cmp-teaser{text-align:center}
+.ilp-calculator-graph .cmp-teaser .cq-dd-image{width:410px;height:330px}
+.ilp-calculator-graph .cmp-teaser__content .cmp-teaser__description p{color:var(--neutral-black);text-align:center;font-family:"HelveticaNeueLTStd-Bd";font-size:1rem;line-height:22px;letter-spacing:-0.16px;margin-top:20px}
+@media screen and (max-width:768px){.ilp-calculator-graph .cmp-teaser .cq-dd-image{width:100%;height:230px}
+.ilp-calculator-graph .cmp-teaser__content .cmp-teaser__description p{font-size:.75rem;line-height:16px;letter-spacing:-0.12px;margin-top:10px;padding:0 40px}
+}

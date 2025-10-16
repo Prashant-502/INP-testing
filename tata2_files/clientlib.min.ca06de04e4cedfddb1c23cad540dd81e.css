@@ -1,0 +1,165 @@
+.plan-online .header-plan-online h3 {
+  margin-bottom: 20px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 42px;
+  line-height: 51px;
+  color: #333333;
+}
+
+.plan-online .header-plan-online p {
+  margin-bottom: 25px;
+  font-family: 'HelveticaNeueLTStd-Lt';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 20px;
+  color: #373737;
+}
+
+.plan-online .img-cards {
+  display: flex;
+}
+
+.plan-online .imgLeft {
+  width: 33%;
+}
+
+.plan-online .blueBoxWithContent {
+  width: 67%;
+  margin-top: 0;
+  border-radius: 0 20px 20px 0;
+  flex-wrap: wrap;
+}
+
+.plan-online .firstWholeContent {
+  width: 48%;
+}
+
+picture {
+  display: inline-flex;
+}
+.imagewithicondescription .plan-online .img-cards .blueBoxWithContent .container.page-container {
+  margin: 0;
+  padding: 0;
+}
+ 
+.checkBoxBuyOnline .highLightsSection .choose-us-card-wrapper li {
+  margin: 0;
+  width: 50%;
+  padding: 19px 36px 32.5px 40px;
+}
+
+.checkBoxBuyOnline .highLightsSection .choose-us-card-wrapper li:nth-last-child(2) {
+  border-radius: 0;
+}
+.checkBoxBuyOnline .highLightsSection .choose-us-card-wrapper li:nth-child(1) {
+  border-radius: 0;
+}
+.checkBoxBuyOnline .highLightsSection .choose-us-card-wrapper li h4 {
+  font-family: 'HelveticaNeueLTStd-Md';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  letter-spacing: -0.375px;
+  color: #333333;
+}
+.checkBoxBuyOnline .choose-us-card-heading-flex {
+  font-family: 'HelveticaNeueLTStd-Md';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  letter-spacing: -0.375px;
+  color: #333333;
+}
+.checkBoxBuyOnline .highLightsSection .choose-us-card-wrapper li p {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 19px;
+  color: #373737;
+}
+.checkBoxBuyOnline .imagepicture{
+  width: 100%;
+  display: unset;
+}
+.checkBoxBuyOnline .imagepicture img{
+  height: 100%;
+}
+
+.checkBoxBuyOnline .highLightsSection {
+  margin-bottom: 0;
+}
+.incHieght .aem-Grid {
+  height: 100%;
+}
+.incHieght .heightinc {
+  display: flex;
+  height: 100%;
+}
+.incHieght .heightinc .only-height {
+  display: flex;
+  height: 100%;
+}
+
+@media screen and (max-width: 767px) {
+  .incHieght .heightinc .only-height {
+    display: unset;
+  }
+  .plan-online .header-plan-online h3 {
+    font-size: 28px;
+    line-height: 34px;
+  }
+
+  .plan-online .header-plan-online p {
+    font-size: 14px;
+    line-height: 17px;
+  }
+
+  .plan-online .img-cards {
+    flex-direction: column;
+  }
+
+  .plan-online .imgLeft {
+    width: 100%;
+    display: flex;
+  }
+  .checkBoxBuyOnline .imagepicture img {
+    width: 100%;
+  }
+  .plan-online .blueBoxWithContent {
+      width: 100%;
+      border-radius: 0 0 20px 20px;
+  }
+  .plan-online .firstWholeContent {
+      width: 100%;
+  }
+  .imagewithicondescription .plan-online .img-cards .blueBoxWithContent .container.page-container {
+    margin: 0;
+    padding: 0;
+  }
+  .checkBoxBuyOnline .highLightsSection .choose-us-card-wrapper li {
+    width: 100%;
+  }
+  .checkBoxBuyOnline .choose-us-card-heading-flex {
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+  }
+  .checkBoxBuyOnline .highLightsSection .choose-us-card-wrapper li p {
+    text-align: left;
+    font-size: 14px;
+    line-height: 17px;
+    margin-left: 51px;
+  }
+  .checkBoxBuyOnline .choose-us-card-heading-flex {
+    margin-bottom: 8px;
+  }
+  .checkBoxBuyOnline .highLightsSection .choose-us-card-wrapper li {
+    padding: 19px 16px 31.5px 40px;
+  }
+}

@@ -1,0 +1,152 @@
+.red-background-color .container-align{background-color:#d62049}
+.lightblue-background-color .container-align{background-color:#eaf7ff}
+.darkblue-background-color .container-align{background-color:#0b80c3}
+.lighertblue-background-color .container-align{background-color:#edf4fa}
+.lighertblueblur-background-color .container-align{background-color:#edf4fa}
+.lighertblue-bggradient-color .container-align{background:linear-gradient(0,#f2f7fb 14.17%,rgba(255,255,255,0.0001) 97.95%)}
+.lightblue-to-white-gradient .container-align{background:linear-gradient(180deg,#f2f7fb 14.17%,rgba(255,255,255,0.0001) 97.95%)}
+.removeContainerPageContainer .container-align{padding:34px 34px 10px}
+.bdr-radius-remove{border-radius:20px}
+.display-none-desktop{display:none}
+.bgcolor{padding:20px 0}
+.container-align{padding:20px 0}
+.remove-padding-top .container-align{padding-top:0}
+.grid-container-flex .aem-Grid--default--12:first-child{display:flex;justify-content:space-between}
+.grid-container-flex .productsnapshotsrspage{width:60% !important;float:none !important}
+.grid-container-flex .cardContainingAllIconAndText{padding:30px 37px 0 37px}
+.grid-container-flex .productSnapshotSection .page-container{padding:0}
+.grid-container-flex .lookingforfrom{width:35%}
+.grid-container-flex .contact-form-section{padding:15px 20px;margin:0}
+.grid-container-flex .lookingforfrom .page-container{padding:0}
+.grid-container-flex .contact-form-section .ta-grid{display:block}
+.grid-container-flex .contact-form-section .ta-col-5{flex:none;max-width:none}
+.grid-container-flex .contact-form-section .ta-submit-btn{width:100%;padding:12px 0;background:#d62049;border:.833333px solid #d62049;box-shadow:0 0 8px rgb(214 32 73 / 10%);border-radius:8.33333px;font-family:"HelveticaNeueLTStd-Md";font-size:16px;line-height:19px;text-align:center;letter-spacing:-0.666667px;color:#fff}
+.grid-container-flex hr{display:none}
+.grid-container-flex .ta-input-w{margin-bottom:10px}
+.grid-container-flex .contact-form-section{background:#fdf4f6;box-shadow:0 0 9px rgb(0 115 187 / 20%);border-radius:16px}
+.grid-container-flex .lookingforfrom p{font-size:12px;font-weight:300;font-stretch:normal;font-style:normal;line-height:normal;letter-spacing:normal}
+.grid-container-flex .contact-form-section .ta-input{margin-top:5px;font-size:16px;line-height:16px;padding-bottom:0}
+.grid-container-flex .ta-label{margin-bottom:0;font-size:14px;margin-top:5px}
+.grid-container-flex .fixed-lable-padding{padding-left:30px}
+.grid-container-flex #review-form .ta-input-w label{top:24px}
+.grid-container-flex #review-form .ta-input-w p{font-size:14px;font-style:italic}
+.grid-container-flex #review-form .ta-input-w input::placeholder{font-family:"HelveticaNeueLTStd-Md";font-size:16px;line-height:16px}
+.grid-container-flex .ta-kc-contact-form h6{font-family:'Inter';font-weight:700;font-size:20px;line-height:22px;color:#333}
+.grid-container-flex .contact-form-section .ta-submit-btn{margin-top:10px}
+.grid-container-flex .contact-form-section .ta-submit-btn.--inverse{font-size:20px}
+.bgcolorcontainer .card-carousel-with-link .ta-simprods-section .ta-simprods-head{padding-top:60px}
+.bgcolorcontainer .card-carousel-with-link{padding-bottom:50px}
+.bgcolorcontainer .card-carousel-with-link .ta-simprods-cards-w .ta-slick.slick-dotted.slick-slider{margin-bottom:0}
+.bgcolorcontainer .card-carousel-with-link .ta-simprods-cards-w .slick-dots{bottom:-20px}
+.bgcolorcontainer .container-align.cont-align-padd{padding-top:0;padding-bottom:0}
+.grid-container-flex .contact-form-section .ta-submit-btn{margin-top:5px}
+.grid-container-flex .contact-form-section .ta-col-5{margin-bottom:15px}
+.grid-container-flex .lookingforfrom .ta-kc-contact-form{margin-bottom:10px}
+.grid-container-flex .lookingforfrom .ta-popup-maindiv{height:auto}
+.grid-container-flex .lookingforfrom .ta-popup-maindiv .reg-form-btn{text-align:center}
+.grid-container-flex .lookingforfrom .ta-popup-maindiv .reg-form-btn button{margin:0}
+.container-align{padding:20px 0}
+.bg-color .container-align{background-color:#f2f7fb}
+.blue-background-banner{background-image:url("../../../../content/dam/tataaialifeinsurancecompanylimited/urja/Headerimage-Desktop.png");background-size:100% 100%;margin-top:-20px}
+.blue-background-banner .container-align{padding:55px 0 45px 0}
+.blue-background-banner .productHeadContent h1{font-family:'Inter',sans-serif;font-weight:700;font-size:64px;line-height:80px;color:#fff}
+.blue-background-banner .container-align div>.aem-Grid:first-child{display:flex;align-items:center}
+.blue-background-banner .productbanner{width:60% !important}
+.blue-background-banner .urjaleadform{width:40% !important}
+.blue-background-banner .updated-urjaleadform{width:40% !important}
+.blue-background-banner .productHeadContent{width:100%}
+.urja-gradient-background{background:linear-gradient(0,#e0f2ff -21.97%,rgba(233,241,247,0) 78.03%)}
+.urja-gradient-background .container-align{padding:58px 0 0 0}
+.urja-app-container .common-RT .common-cont h2{font-family:"Inter",sans-serif;font-size:40px;line-height:51px}
+.urja-app-container .common-RT .common-cont p{font-size:20px;line-height:26px;color:#3d3d3d}
+.urja-app-container .common-RT .common-cont ul{padding-left:20px}
+.urja-app-container .common-RT .common-cont ul li{margin-left:0;font-size:20px;line-height:32px;color:#3d3d3d;margin-bottom:0;position:relative;padding-left:0}
+.urja-app-container .common-RT .common-cont ul li::before{position:absolute;content:'';width:10px;height:10px;background:#1574b3;border-radius:2px;top:35%;left:-20px}
+.urja-app-container .common-RT .common-cont ul li::marker{content:none}
+.urja-app-container>.aem-Grid{display:flex;padding:0 84px;max-width:1366px;margin-right:auto;margin-left:auto}
+.urja-app-container .common-RT{max-width:440px;width:100%}
+.blue-background-banner .productBanner .readMoreArea ul li:nth-child(-n+3){display:block}
+.blue-background-banner .productBanner .readMoreArea ul li{display:none;font-family:'HelveticaNeueLTStd-Bd',sans-serif;font-size:26px;line-height:50px;color:#fff;position:relative}
+.blue-background-banner .productBanner .readMoreArea ul li a{font-family:'HelveticaNeueLTStd-Bd',sans-serif;font-size:26px;line-height:50px;color:#fff;position:relative}
+.blue-background-banner .productBanner .readMoreArea ul{padding-left:28px}
+.blue-background-banner .productBanner .readMoreArea ul li::before{content:'';position:absolute;background-image:url("../../../../content/dam/tataaialifeinsurancecompanylimited/urja/urja-bullet.svg");height:18px;width:18px;top:17px;left:-28px}
+.grid-container-flex .vitalifebanner{width:35% !important}
+.grid-container-flex .aem-Grid::before{content:none}
+.grid-container-flex .aem-Grid::after{content:none}
+.csr-grid-container{background:#f2f7fb;padding-top:60px;padding-bottom:66px}
+.csr-grid-container .container-align{padding:0}
+.csr-grid-container .common-RT .common-cont h2{margin-bottom:40px;font-family:'Inter',sans-serif;font-weight:700;font-size:36px;line-height:44px;letter-spacing:-0.01em;color:#333}
+.csr-grid-container .tailor-made-solutiondesc .ta-tab-content-m{padding:0}
+.csr-grid-container .tailor-made-solutiondesc .ta-tab-content-m .ta-tab-content{margin-top:0}
+.csr-grid-container .tailor-made-solutiondesc .term-plan-one{margin-top:0}
+.csr-grid-container .tailor-made-solutiondesc .tabContent .tp-lhs-img .term-illustration-wh-ht{width:280px;height:280px;margin-bottom:0 !important}
+.csr-grid-container .tailor-made-solutiondesc .tabContent .tp-rhs-text{max-width:850px;width:100%}
+.csr-grid-container .tailor-made-solutiondesc .tabContent .tp-rhs-text .tp-rhs-main h2{font-family:'Inter',sans-serif;font-weight:700;font-size:32px;line-height:39px;letter-spacing:-0.01em;color:#333;margin-bottom:16px}
+.csr-grid-container .tailor-made-solutiondesc .tabContent .tp-rhs-text .tp-rhs-main p{font-family:'helveticaregular',sans-serif;font-size:18px;line-height:28px;letter-spacing:-0.007em;color:#333;text-shadow:3.14545px 6.29091px 14.6788px rgba(0,115,187,0.1);margin-top:0}
+.csr-grid-container .tailor-made-solutiondesc .tabContent .tp-rhs-text .tp-know-more{margin:0}
+.microsite-banner{margin-top:-20px;margin-bottom:30px}
+.microsite-banner .leadpopupform{margin-top:-110px}
+.microsite-banner .container-align{padding:0}
+.microsite-banner .vitalifebanner .cc-banner-img{height:550px;border-bottom-left-radius:20px;border-bottom-right-radius:20px;max-width:1920px;width:100%;margin:0 auto;display:block}
+.redesign-acc-bg .container-align{padding:40px}
+@media screen and (max-width:1366px){.urja-app-container .common-RT .common-cont ul li{font-size:18px}
+.urja-app-container .common-RT .common-cont p{font-size:18px}
+.urja-app-container .common-RT .common-cont h2{font-size:37px}
+}
+@media screen and (max-width:767px){.display-none-mob{display:none}
+.display-none-desktop{display:block}
+.grid-container-flex .blogform .financial-form{display:none}
+.sample-productsnapshotsrspage{width:100%}
+.grid-container-flex .lookingforfrom{display:none}
+.grid-container-flex .productSnapshotSection .page-container{padding:0 10px}
+.grid-container-flex .productsnapshotsrspage{width:100% !important}
+.grid-container-flex .riderOptionThirdSection{padding-top:unset}
+.grid-container-flex .basicSumThreePoint h3{font-size:16px}
+.grid-container-flex .productsnapshotsrspage .riderOptionThirdSection.pinkBullet p:before{width:6px;height:6px}
+.grid-container-flex .riderOptionThirdSection h3{font-size:16px}
+.grid-container-flex .checktodisccolorchangetoblack .riderOptionThirdSection.pinkBullet p{font-size:16px}
+.grid-container-flex .cardContainingAllIconAndText{padding:30px 20px 0 20px}
+.grid-container-flex .wrappingForPadding{padding:0 10px}
+.grid-container-flex .basicSumThreePoint .basicSum p{font-size:16px}
+.bgcolorcontainer .card-carousel-with-link .ta-simprods-section .ta-simprods-head{padding-top:0}
+.bgcolorcontainer .card-carousel-with-link{padding-bottom:50px}
+.bgcolorcontainer .card-carousel-with-link .ta-simprods-cards-w .ta-slick.slick-dotted.slick-slider{margin-bottom:0}
+.bgcolorcontainer .card-carousel-with-link .ta-simprods-cards-w .slick-dots{bottom:-20px}
+.bgcolorcontainer .container-align.cont-align-padd{padding-top:0;padding-bottom:0}
+.grid-container-flex .basicSumThreePoint li:last-child span{margin-bottom:21px}
+.container-align{padding:12px 0}
+.blue-background-banner{background-image:url("../../../../content/dam/tataaialifeinsurancecompanylimited/urja/Headerimage-Mobile.png");background-size:100% 100%;margin-top:-18px}
+.blue-background-banner .productHeadContent h1{font-size:34px;line-height:44px}
+.blue-background-banner .container-align div>.aem-Grid:first-child{flex-direction:column}
+.blue-background-banner .productbanner{width:100% !important}
+.blue-background-banner .urjaleadform{width:100% !important}
+.urja-app-container{background:#f7f7f7}
+.urja-app-container>.aem-Grid{padding:0 20px;flex-direction:column-reverse;padding-bottom:20px}
+.urja-app-container .cc-banner-image{z-index:1}
+.urja-app-container .common-RT .common-cont h2{font-size:24px;line-height:31px;text-align:center}
+.urja-app-container .common-RT .common-cont p{font-size:14px;line-height:18px;text-align:center;margin-bottom:10px}
+.urja-app-container .common-RT .common-cont ul{padding-left:20px;max-width:280px;width:100%;margin:0 auto}
+.urja-app-container .common-RT .common-cont ul li{font-size:14px;line-height:22px}
+.urja-app-container .common-RT .common-cont ul li::before{width:6px;height:6px;border-radius:1px}
+.urja-gradient-background .container-align{padding:33px 0 8px 0}
+.blue-background-banner .container-align{padding:30px 0 44px 0}
+.blue-background-banner .productBanner .readMoreArea ul li{font-size:15px;line-height:30px}
+.blue-background-banner .productBanner .readMoreArea ul li a{font-size:15px;line-height:30px}
+.blue-background-banner .productBanner .readMoreArea ul{padding-left:18px}
+.blue-background-banner .productBanner .readMoreArea ul li::before{height:10px;width:10px;top:10px;left:-18px;background-size:100% 100%}
+.grid-container-flex .aem-Grid--default--12:first-child{display:flex;flex-direction:column}
+.grid-container-flex .vitalifebanner{width:100% !important}
+.csr-grid-container{padding-top:40px;padding-bottom:20px}
+.csr-grid-container .common-RT .common-cont h2{font-size:26px;line-height:31px;margin-bottom:20px}
+.csr-grid-container .tailor-made-solutiondesc .tabContent .tp-lhs-img{text-align:center}
+.csr-grid-container .tailor-made-solutiondesc .tabContent .tp-rhs-main h4{margin:0;height:unset}
+.csr-grid-container .tailor-made-solutiondesc .tabContent .tp-rhs-text .tp-rhs-main h2{margin-top:20px;margin-bottom:10px;font-size:24px;line-height:29px}
+.csr-grid-container .tailor-made-solutiondesc .tabContent .tp-rhs-text .tp-rhs-main p{font-size:14px;line-height:21px;width:unset}
+.microsite-banner .leadpopupform{margin-top:-50px}
+.microsite-banner .vitalifebanner .cc-banner-img{max-width:unset;height:350px;border-bottom-left-radius:20px;border-bottom-right-radius:20px;object-fit:unset}
+.microsite-banner{margin-top:-30px}
+.rmv-containerpadding .productBanner .page-container{padding:0}
+.rmv-containerpadding .productBanner .page-container{padding:0 20px}
+.redesign-acc-bg .container-align{padding:20px}
+.grievance-new-style .lighertblue-bggradient-color .container-align{padding-bottom:unset}
+}

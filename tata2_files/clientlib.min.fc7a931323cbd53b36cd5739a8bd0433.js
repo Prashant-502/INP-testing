@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",function(){if(window.matchMedia("(max-width: 768px)").matches){var a;null==(a=document.querySelector(".client-info-cards"))||a.classList.add("active")}document.querySelectorAll(".card-div")&&document.querySelectorAll(".card-div").forEach(function(c){c.addEventListener("click",function(){if(768>=window.innerWidth){var b=this.closest(".client-info-cards");b.closest(".client-information").querySelectorAll(".client-info-cards").forEach(function(d){d.classList.remove("active")});
+b.classList.add("active")}})})});

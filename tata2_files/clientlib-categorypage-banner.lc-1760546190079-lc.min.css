@@ -1,0 +1,16 @@
+.category-page-banner.ta-core-container>.cmp-container{max-width:1206px;padding:unset;margin-right:auto;margin-left:auto}
+.category-page-banner .background-image{height:140px;width:100%;border-radius:16px}
+.category-page-banner .background-image .desktopbg{height:140px;width:100%;border-radius:16px}
+.category-page-banner>.cmp-container .leadproxyteaser .cmp-teaser{position:relative}
+.category-page-banner>.cmp-container .leadproxyteaser .background-image .mobilebg{display:none}
+.category-page-banner>.cmp-container .leadproxyteaser .cmp-teaser__content{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);min-width:90%}
+.category-page-banner>.cmp-container .leadproxyteaser .cmp-teaser__content .cmp-teaser__description h3{color:var(--neutral-universal-omni-white,#FFF);font-family:Inter;font-size:32px;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.32px}
+.category-page-banner>.cmp-container .leadproxyteaser .cmp-teaser__content .cmp-teaser__description p{color:var(--neutral-universal-omni-white,#FFF);font-family:Inter;font-size:18px;font-style:normal;font-weight:400;line-height:27px;letter-spacing:-0.18px}
+@media screen and (max-width:768px){.category-page-banner.ta-core-container>.cmp-container{padding:20px}
+.category-page-banner>.cmp-container .background-image .desktopbg{display:none}
+.category-page-banner>.cmp-container .leadproxyteaser .background-image .mobilebg{display:block;height:120px;width:100%;border-radius:10px}
+.category-page-banner>.cmp-container .leadproxyteaser .cmp-teaser__content .cmp-teaser__description h3{font-size:20px;letter-spacing:-0.2px}
+.category-page-banner>.cmp-container .leadproxyteaser .cmp-teaser__content .cmp-teaser__description p{font-size:14px;line-height:19.6px;letter-spacing:-0.14px}
+.category-page-banner>.cmp-container .leadproxyteaser .cmp-teaser__content{min-width:100%;top:44%;padding:10px}
+.category-page-banner>.cmp-container .leadproxyteaser .cmp-teaser__content .cmp-teaser__description{display:flex;flex-direction:column;gap:6px}
+}

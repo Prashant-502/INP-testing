@@ -1,0 +1,90 @@
+.voiceof-happy-customer{max-width:unset !important;padding:unset !important;position:relative}
+.voiceof-happy-customer .cmp-container{padding-bottom:25px}
+.voiceof-happy-customer .testinomial-heading .cmp-text p{color:#333;font-family:Inter;font-size:2.25rem;font-weight:700;line-height:normal;letter-spacing:-0.36px;margin-bottom:20px;text-align:center;padding-top:40px}
+.testinomial-cards .newextendedteaser{max-width:482px;height:inherit;border-radius:17.875px;border:.894px solid #daeef8;background:#FFF;box-shadow:0 3.575px 7.15px 0 rgba(0,115,187,0.05);padding:30px 24px;position:relative}
+.testinomial-cards{max-width:unset !important;padding:unset !important;margin-top:32px}
+.testinomial-cards::before{content:'';position:absolute;top:0;left:0;width:220px;height:467px;z-index:2;background:linear-gradient(270deg,rgba(242,247,251,0.00) 4.09%,#f2f7fb 95.05%)}
+.testinomial-cards::after{content:'';position:absolute;top:0;right:0;width:220px;height:467px;z-index:2;background:linear-gradient(270deg,#f2f7fb 0,rgba(242,247,251,0.00) 100%)}
+.testinomial-cards .cmp-container{height:inherit;align-items:stretch}
+.testinomial-cards .cmp-container .swiper-slide-active{transform:scale(1.1)}
+.testinomial-cards .newextendedteaser .cmp-teaser{position:relative}
+.testinomial-cards .newextendedteaser .card-details .title{color:#0073bb;font-family:Inter;font-size:1.313rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.215px;padding-left:100px;padding-bottom:5px;display:block}
+.testinomial-cards .newextendedteaser .card-details .grey-text{color:#333;font-family:Inter;font-size:.625rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.1px;display:inline-flex;align-items:center;padding-left:90px;display:flex}
+.testinomial-cards .newextendedteaser .card-details .grey-text div{height:16px;padding-left:10px}
+.testinomial-cards .newextendedteaser .card-details .grey-text img{width:16px;height:16px}
+.testinomial-cards .newextendedteaser .card-details .pretitle{width:67%;color:#333;font-family:Inter;font-size:.75rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.12px;padding-left:90px;margin-top:-1px;display:block}
+.testinomial-cards .newextendedteaser .card-details .description{color:#333;font-family:Inter;font-size:1rem;font-style:normal;font-weight:400;line-height:24px;letter-spacing:-0.113px;padding-top:25px;display:block}
+.testinomial-cards .newextendedteaser .cmp-teaser__image{width:fit-content;background:#daeef8;padding:3.5px 2.5px .5px 3.5px;border-radius:50%}
+.testinomial-cards .swiper-slide-active .cmp-teaser__image{width:fit-content;background-image:linear-gradient(90deg,#0073bb 0,#d62049 100%);border-radius:50%;padding:2.5px 2px .5px 2px}
+.testinomial-cards .newextendedteaser .cmp-teaser__image .cmp-image__image{width:73px;height:70px}
+.testinomial-cards .swiper-slide-active .cmp-teaser__image .cmp-image__image{width:70px;height:70px}
+.testinomial-cards .newextendedteaser .second-image{position:absolute;top:-5px;right:0;width:67px;height:54px}
+.testinomial-cards .newextendedteaser .second-image img{width:67px;height:54px}
+.arrow-container .extendedimage:nth-child(1){width:40px;height:40px;position:absolute;top:46%;left:2%;z-index:2;transform:translate(20%,50%);cursor:pointer}
+.arrow-container .extendedimage:nth-child(2){width:40px;height:40px;position:absolute;top:46%;right:3%;z-index:2;transform:translate(20%,50%);cursor:pointer}
+.arrow-container .extendedimage:nth-child(1) .cmp-image__image{width:40px;height:40px}
+.arrow-container .extendedimage:nth-child(1) .cmp-image{width:40px;height:40px}
+.arrow-container .extendedimage:nth-child(2) .cmp-image__image{width:40px;height:40px}
+.arrow-container .extendedimage:nth-child(2) .cmp-image{width:40px;height:40px}
+.pagination-container .swiper-pagination-bullet{background-color:#e6e7e8;margin:0 4px !important;width:10px;height:10px;opacity:1}
+.pagination-container .swiper-pagination-bullet-active{width:32px;height:10px;background-color:#0073bb;border-radius:20px !important}
+.pagination-container{text-align:center;margin-top:-20px}
+.testinomial-cards .cmp-container .swiper-slide-active .card-details .title{background:linear-gradient(90deg,#0073bb 0,#d62049 100%);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;font-family:Inter;font-size:1.5rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.24px;padding-left:90px;padding-bottom:16px;display:block}
+.testinomial-cards .cmp-container .swiper-slide-active .card-details .grey-text{left:20%;top:19%}
+.testinomial-cards .cmp-container .swiper-slide-active .card-details .pretitle{left:20%;top:27%}
+.testinomial-cards .cmp-container .swiper-slide-active{border-radius:20px;border:1px solid #0073bb;background:#FFF;box-shadow:0 0 16px 0 rgba(51,51,51,0.25);max-width:540px}
+.testinomial-cards .newextendedteaser .card-details .pretitle .date{color:#58595b;font-family:Inter;font-size:.625rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.1px;margin-left:8px}
+.testinomial-cards .ratingcount{display:none}
+.testinomial-cards .cmp-teaser__description{display:none}
+.profile-image{width:78px;height:auto}
+.testinomial-cards .profile-image-wrapper{width:80px;height:80px;background-color:#d0e2f0;border-radius:50%;padding:3px 3px .5px 3px;position:absolute;top:0}
+.testinomial-cards .swiper-slide-active .profile-image-wrapper{background-image:linear-gradient(90deg,#0073bb 0,#d62049 100%);border-radius:50%;padding:3px 2px .5px 2px}
+.card-details{padding-top:10px}
+.testimonial_video .cmp-teaser__description:has(.watch_video_btn){display:block}
+.testimonial_video .newextendedteaser .cmp-teaser__description .watch_video_btn{min-width:110px;min-height:30px;padding:5px 8px;background:var(--Primary-Gradient,linear-gradient(90deg,#0073bb 0,#d62049 100%));position:absolute;top:55px;right:30px;border-radius:16px;display:flex;align-items:center;justify-content:center;gap:5px}
+.testimonial_video .newextendedteaser .cmp-teaser__description .watch_video_btn span{color:white;font-family:Inter;font-size:12px;font-style:normal;font-weight:500;line-height:normal;letter-spacing:-0.12px;display:block}
+.testimonial_video .newextendedteaser .cmp-teaser__description .watch_video_btn::before{content:'';background-image:url(../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/icon-park-outline_play.svg);height:20px;width:20px;flex-shrink:0;background-size:cover}
+.voiceof-happy-customer .testimonial_video_popup{max-width:100%;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.6);z-index:101;visibility:hidden;opacity:0;transition:opacity .1s linear;backdrop-filter:blur(5.3px)}
+.voiceof-happy-customer .testimonial_video_popup.active{visibility:visible;opacity:1}
+.voiceof-happy-customer .video_popup{position:relative}
+.voiceof-happy-customer .video_popup .popup_content{position:fixed;height:360px;transform:translate(-50%,-50%);top:50%;left:50%;background:transparent;z-index:102;width:640px}
+.voiceof-happy-customer .popup_content .video_close_btn{position:absolute;content:'';height:40px;width:40px;right:4px;cursor:pointer}
+.voiceof-happy-customer .popup_content #youtube_video{height:100%;width:100%}
+.testinomial-cards .newextendedteaser .card-details .company-name{color:#333;font-family:'Inter';font-size:.625rem;font-weight:400;line-height:normal;letter-spacing:-0.1px;display:flex;align-items:center;padding-left:90px;margin-bottom:2px}
+.newhomepage_testimonial_heading.voiceof-happy-customer .testinomial-heading .cmp-text p{font-size:1.75rem;background:var(--Primary-Gradient,linear-gradient(90deg,#0073bb 4%,#d62049 76%));background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.newhp-heading-style.voiceof-happy-customer .cmp-text h1,.newhp-heading-style.voiceof-happy-customer .cmp-text h2,.newhp-heading-style.voiceof-happy-customer .cmp-text h3,.newhp-heading-style.voiceof-happy-customer .cmp-text h4,.newhp-heading-style.voiceof-happy-customer .cmp-text h5,.newhp-heading-style.voiceof-happy-customer .cmp-text h6{font-family:Inter;font-size:1.75rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.28px}
+@media screen and (max-width:767px){.testinomial-cards{overflow:hidden}
+.testinomial-cards::before{width:40px;height:100%}
+.testinomial-cards::after{width:40px;height:100%;background:linear-gradient(270deg,#f2f7fb 0,rgba(242,247,251,0.00) 75%)}
+.arrow-container{display:none}
+.voiceof-happy-customer .testinomial-heading .cmp-text p{letter-spacing:-0.24px;font-size:1.5rem;margin-bottom:10px;padding-top:10px}
+.testinomial-cards .newextendedteaser{overflow:hidden;width:255px;border-radius:18.572px;border:.929px solid #daeef8;background:#FFF;box-shadow:0 7.429px 14.857px 0 rgba(0,115,187,0.10);padding:46px 20px}
+.testinomial-cards .cmp-container .swiper-slide-active{border-radius:16px;border:1px solid #0073bb;background:#FFF;box-shadow:0 0 16px 0 rgba(51,51,51,0.25)}
+.testinomial-cards .newextendedteaser .cmp-teaser__image .cmp-image__image{width:58px;height:58px}
+.testinomial-cards .newextendedteaser .card-details .title{font-size:1.25rem;letter-spacing:-0.2px;padding-left:73px}
+.testinomial-cards .cmp-container .swiper-slide-active .card-details .title{font-size:1.25rem;letter-spacing:-0.2px;top:3%;left:30%;padding-left:73px}
+.testinomial-cards .newextendedteaser .card-details .grey-text{position:unset;padding-left:unset;padding-top:11px}
+.testinomial-cards .newextendedteaser .card-details .pretitle{width:74%;position:relative;display:block;padding-left:unset;left:unset;top:unset}
+.testinomial-cards .newextendedteaser .cmp-teaser{display:flex;flex-direction:column-reverse}
+.testinomial-cards .newextendedteaser .card-details .description{color:#333;font-family:Inter;font-size:.875rem;font-style:normal;font-weight:400;line-height:21px;letter-spacing:-0.14px;padding-top:16px}
+.testinomial-cards{padding-top:30px !important;margin:unset}
+.pagination-container .swiper-pagination-bullet{width:8px;height:8px;margin:0 3px !important}
+.voiceof-happy-customer .cmp-container{padding-bottom:27px}
+.pagination-container{margin-top:10px}
+.testinomial-cards .newextendedteaser .card-details .grey-text img{width:14px;height:14px}
+.pagination-container .swiper-pagination-bullet-active{width:24px;height:8px;background-color:#0073bb}
+.testinomial-cards .newextendedteaser .card-details .pretitle .date{position:unset;top:-14px;right:0;margin-left:unset}
+.testinomial-cards .newextendedteaser .second-image{width:56px;height:46px;top:-37px;right:-5px}
+.testinomial-cards .newextendedteaser .second-image img{width:56px;height:46px}
+.testinomial-cards .profile-image-wrapper{width:60px;height:60px}
+.testinomial-cards .newextendedteaser .card-details .title{padding-left:73px;padding-bottom:10px;padding-top:5px}
+.card-details{padding-top:unset}
+.testinomial-cards .cmp-container .swiper-slide-active .card-details .pretitle{display:flex;flex-direction:column;gap:5px;left:0;top:0}
+.testimonial_video .newextendedteaser .cmp-teaser__description .watch_video_btn{min-width:70px;min-height:32px;top:35%;right:-16%;padding:unset}
+.testimonial_video .newextendedteaser .cmp-teaser__description .watch_video_btn span{font-size:10px;width:50%}
+.voiceof-happy-customer .video_popup .popup_content{height:202px;width:100%}
+.voiceof-happy-customer .popup_content .video_close_btn{height:24px;width:24px}
+.testinomial-cards .newextendedteaser .card-details .company-name{position:unset;padding-left:unset;padding-top:11px}
+.newhomepage_testimonial_heading.voiceof-happy-customer .testinomial-heading .cmp-text p{font-size:1.25rem}
+.newhp-heading-style.voiceof-happy-customer .cmp-text h1,.newhp-heading-style.voiceof-happy-customer .cmp-text h2,.newhp-heading-style.voiceof-happy-customer .cmp-text h3,.newhp-heading-style.voiceof-happy-customer .cmp-text h4,.newhp-heading-style.voiceof-happy-customer .cmp-text h5,.newhp-heading-style.voiceof-happy-customer .cmp-text h6{font-size:1.25rem}
+}

@@ -1,0 +1,33 @@
+.different-insurance-plans-container{position:relative;padding-left:unset !important;padding-right:unset !important}
+.different-insurance-plans-container .cmp-container{display:flex;flex-direction:column;gap:20px;padding:40px 0}
+.different-insurance-plans .cmp-container{border-radius:20px;background:#FFF;padding:20px 40px;display:flex;flex-direction:column;gap:30px}
+.different-insurance-plans .cmp-container .leadproxytext .cmp-text .lead{color:#333;font-family:'Inter';font-size:1.5rem;font-weight:700;letter-spacing:-0.24px;padding-bottom:10px;display:block;line-height:normal}
+.different-insurance-plans .cmp-container .leadproxytext .cmp-text .sub-Text{color:#333;font-family:'Inter';font-size:1.125rem;font-weight:400;letter-spacing:-0.18px;padding-bottom:15px;display:block;line-height:normal}
+.different-insurance-plans .cmp-container .leadproxytext .cmp-text .sub-Text b{color:#333;font-family:'Inter';font-size:1.125rem;font-weight:700;line-height:27px;letter-spacing:-0.18px}
+.different-insurance-plans .cmp-container .leadproxytext .cmp-text .sub-Text a{color:#0073bb;font-family:'Inter';font-size:1.125rem;font-weight:400;line-height:27px;letter-spacing:-0.18px;text-decoration-line:underline}
+.different-insurance-plans .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__content .cmp-teaser__description p{color:#333;font-family:'Inter';font-size:1.125rem;font-weight:400;line-height:22px;letter-spacing:-0.18px}
+.different-insurance-plans .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__content .cmp-teaser__description b{color:#333;font-family:'Inter';font-size:1.125rem;font-weight:700;letter-spacing:-0.18px}
+.different-insurance-plans .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__content .cmp-teaser__action-container{width:fit-content;margin-top:10px;display:flex;gap:15px}
+.different-insurance-plans .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__content .cmp-teaser__action-container .cmp-teaser__action-link{color:#d62049;text-align:center;font-family:'Inter';font-size:1.125rem;font-weight:500;letter-spacing:-0.18px;border-radius:8px;border:1px solid #d62049;padding:10px;display:block}
+.different-insurance-plans.visible{display:block}
+.different-insurance-plans{display:none}
+.different-insurance-plans-container .cmp-container .proxybutton .cmp-button{background-color:transparent;padding:unset}
+.different-insurance-plans-container .cmp-container .proxybutton .cmp-button .cmp-button__text{border-radius:20px;background:#4197d3;color:#FFF;text-align:center;font-family:'Inter';font-size:.875rem;font-weight:700;letter-spacing:-0.14px;padding:10px 15px;display:block;cursor:pointer}
+.different-insurance-plans-container .cmp-container .proxybutton{position:absolute;bottom:15px;left:50%;transform:translateX(-50%)}
+.diff-insurance-plans-header-tag .cmp-container .leadproxytext .cmp-text h1,.diff-insurance-plans-header-tag .cmp-container .leadproxytext .cmp-text h2,.diff-insurance-plans-header-tag .cmp-container .leadproxytext .cmp-text h3,.diff-insurance-plans-header-tag .cmp-container .leadproxytext .cmp-text h4,.diff-insurance-plans-header-tag .cmp-container .leadproxytext .cmp-text h5,.diff-insurance-plans-header-tag .cmp-container .leadproxytext .cmp-text h6{color:#333;font-family:'Inter';font-size:1.5rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.24px;padding-bottom:10px}
+@media screen and (max-width:767px){.different-insurance-plans-container .cmp-container{padding:20px 0}
+.different-insurance-plans-container .cmp-container .proxybutton{bottom:-25px}
+.different-insurance-plans-container{padding-left:20px !important;padding-right:20px !important}
+.different-insurance-plans{padding:unset !important}
+.different-insurance-plans .cmp-container{gap:20px}
+.different-insurance-plans .cmp-container{padding:20px}
+.different-insurance-plans .cmp-container .leadproxytext .cmp-text .lead{font-size:1.125rem;letter-spacing:-0.18px}
+.different-insurance-plans .cmp-container .leadproxytext .cmp-text .sub-Text{font-size:.875rem;letter-spacing:-0.14px;line-height:19.6px;padding-bottom:unset}
+.different-insurance-plans .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__content .cmp-teaser__description b{font-size:.875rem;line-height:19.6px;letter-spacing:-0.14px}
+.different-insurance-plans .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__content .cmp-teaser__description p{font-size:.875rem;line-height:19.6px;letter-spacing:-0.14px}
+.different-insurance-plans .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__content .cmp-teaser__action-container{width:100%;flex-direction:column}
+.different-insurance-plans .cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__content .cmp-teaser__action-container .cmp-teaser__action-link{padding:10px 20px;font-size:20px;letter-spacing:-0.2px}
+.different-insurance-plans .cmp-container .leadproxytext .cmp-text .sub-Text b{font-size:.875rem;line-height:19.6px;letter-spacing:-0.14px}
+.different-insurance-plans .cmp-container .leadproxytext .cmp-text .sub-Text a{font-size:.875rem;line-height:19.6px;letter-spacing:-0.14px}
+.diff-insurance-plans-header-tag .cmp-container .leadproxytext .cmp-text h1,.diff-insurance-plans-header-tag .cmp-container .leadproxytext .cmp-text h2,.diff-insurance-plans-header-tag .cmp-container .leadproxytext .cmp-text h3,.diff-insurance-plans-header-tag .cmp-container .leadproxytext .cmp-text h4,.diff-insurance-plans-header-tag .cmp-container .leadproxytext .cmp-text h5,.diff-insurance-plans-header-tag .cmp-container .leadproxytext .cmp-text h6{font-size:1.125rem;letter-spacing:-0.18px}
+}

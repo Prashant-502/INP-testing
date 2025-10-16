@@ -1,0 +1,88 @@
+.term-insurance-slider-bg-container{padding:unset !important;max-width:unset !important}
+.term-insurance-slider-bg-container>.cmp-container{padding:35px 0 25px 0}
+.term-insurance-benefits{padding:30px}
+.benefits-heading-subtext .heading{color:#333;font-family:'HelveticaNeueLTStd-Bd';font-size:2.25rem;font-weight:700;letter-spacing:-0.36px;padding-bottom:40px;display:block}
+.benefits-heading-subtext .subheading{color:#333;font-family:'helveticaregular';font-size:1.125rem;font-weight:400;line-height:25.2px;letter-spacing:-0.18px;padding-bottom:24px;display:block}
+.benefits-heading-subtext .subheading b{color:#333;font-family:'HelveticaNeueLTStd-Bd';font-size:1.125rem;font-weight:700;line-height:25.2px;letter-spacing:-0.18px}
+.insurance-pays-payout-payable{border:1px solid #0073bb;display:flex;justify-content:space-between;text-align:center}
+.insurance-pays{display:flex}
+.insurance-pays .insurance{padding:30px 40px;position:relative}
+.insurance-pays .pays{padding:30px 40px;position:relative}
+.payout{padding:30px 50px}
+.payable{padding:30px 65px;background-color:#0073bb}
+.insurance .subheading{color:#333;font-family:'helveticaregular';font-size:1rem;font-weight:400;line-height:normal;padding-bottom:12px;display:block}
+.insurance .heading{color:#333;font-family:'HelveticaNeueLTStd-Bd';font-size:1.5rem;font-weight:700;line-height:normal;letter-spacing:-0.24px}
+.pays .subheading{color:#333;font-family:'helveticaregular';font-size:1rem;font-weight:400;line-height:normal;padding-bottom:12px;display:block}
+.pays .heading{color:#333;font-family:'HelveticaNeueLTStd-Bd';font-size:1.5rem;font-weight:700;line-height:normal;letter-spacing:-0.24px}
+.payout .subheading{color:#333;font-family:'helveticaregular';font-size:1rem;font-weight:400;line-height:normal;padding-bottom:12px;display:block}
+.payout .heading{color:#333;font-family:'HelveticaNeueLTStd-Bd';font-size:1.5rem;font-weight:700;line-height:normal;letter-spacing:-0.24px}
+.payable .subheading{color:#FFF;font-family:'HelveticaNeueLTStd-Bd';font-size:1rem;font-weight:700;line-height:normal;padding-bottom:12px;display:block}
+.payable .heading{color:#FFF;font-family:'HelveticaNeueLTStd-Bd';font-size:1.5rem;font-weight:700;line-height:normal;letter-spacing:-0.24px}
+.benefits-information{padding-top:30px;position:relative;display:flex}
+.benefits-client{width:11%}
+.profile-photo{width:40px;height:40px;display:flex;margin:0 auto;margin-bottom:20px}
+.client-age-title{color:#333;font-family:'HelveticaNeueLTStd-Bd';font-size:.875rem;font-weight:700;letter-spacing:-0.14px;padding-bottom:31px}
+.client-story-title{color:#333;font-family:'HelveticaNeueLTStd-Bd';font-size:.875rem;font-weight:700;letter-spacing:-0.14px;padding-bottom:50px}
+.client-policy-title{color:#333;font-family:'HelveticaNeueLTStd-Bd';font-size:.875rem;font-weight:700;letter-spacing:-0.14px}
+.bluelinebackground{border-radius:8px;background:#b3d5eb;height:4px;position:absolute;top:33%;right:0;width:90%;z-index:-1}
+.client-age-pink{margin-bottom:20px}
+.client-information{display:flex;flex-direction:row;margin-left:20px;overflow-x:scroll;white-space:nowrap;scrollbar-width:none}
+.client-information::-webkit-scrollbar{display:none}
+.client-info{width:40px;height:40px;margin-bottom:10px}
+.client-age-pink .client-age{background-color:#f3bcc8;color:#333}
+.client-info-cards.active .client-age-container{border:1px solid #4d9dcf;border-radius:50%;padding:3px;background:#fff;margin-top:-3px}
+.client-info-cards.active .client-story{display:block}
+.client-info-cards.active .policy-info{display:block}
+.client-info-cards.active .client-age-pink{border:1px solid #e26380;border-radius:50%;padding:3px;background:#fff;margin-top:-3px}
+.client-age{background-color:#4d9dcf;border-radius:50%;padding:11px;text-align:center;color:#FFF;font-family:'HelveticaNeueLTStd-Bd';font-size:.875rem;font-weight:700;letter-spacing:-0.14px}
+.client-info-cards{display:flex;flex-direction:column;align-items:center;padding:0 80px}
+.client-age-container{margin-bottom:20px}
+.client-story{color:#333;text-align:center;font-family:'helveticaregular';font-size:.813rem;font-weight:400;padding-bottom:28px}
+.policy-info{padding:13px;border-radius:10px;background:#fae4e9;width:180px;position:relative;text-align:center}
+.policy-info .policy-info-heading{color:#333;text-align:center;font-family:'helveticaregular';font-size:.875rem;font-weight:400;line-height:normal;padding-bottom:10px}
+.policy-info .policy-info-desc{color:#333;text-align:center;font-family:'helveticaregular';font-size:.813rem;font-weight:400;line-height:normal}
+.policy-info .policy-info-desc b{color:#333;text-align:center;font-family:'HelveticaNeueLTStd-Bd';font-size:.813rem;font-weight:700;line-height:normal}
+.policy-info::after{content:'';position:absolute;top:-5px;left:46%;width:10px;height:10px;transform:rotate(-45deg);background:#fae4e9}
+.insurance::after{content:'';width:1px;height:60px;position:absolute;top:30px;display:block;background:linear-gradient(270deg,rgba(0,32,52,0.00) 0,rgba(0,32,52,0.18) 49.79%,rgba(0,32,52,0.00) 100%);right:0}
+.pays::after{content:'';width:1px;height:60px;position:absolute;top:30px;display:block;background:linear-gradient(270deg,rgba(0,32,52,0.00) 0,rgba(0,32,52,0.18) 49.79%,rgba(0,32,52,0.00) 100%);right:0}
+.mobile-cards-title{display:none}
+.client-information-container{width:92%}
+@media screen and (max-width:767px){.term-insurance-benefits{padding:unset;padding-bottom:60px}
+.insurance-pays-payout-payable{flex-direction:column}
+.benefits-heading-subtext .heading{color:#000;text-align:center;font-family:Inter;font-size:1.25rem;font-weight:700;line-height:normal;letter-spacing:-0.2px;padding-bottom:20px}
+.benefits-heading-subtext .subheading{color:#333;font-size:1rem;line-height:24px;letter-spacing:-0.16px;padding-bottom:20px}
+.benefits-heading-subtext .subheading b{color:#333;font-size:1rem;line-height:24px;letter-spacing:-0.16px}
+.insurance-pays{border-bottom:1px solid #0073bb}
+.insurance .subheading{font-size:.75rem;padding-bottom:11px}
+.pays .subheading{font-size:.75rem;padding-bottom:11px}
+.insurance .heading{font-size:1.125rem;letter-spacing:-0.18px}
+.pays .heading{font-size:1.125rem;letter-spacing:-0.18px}
+.insurance-pays .insurance{padding:22px 30px}
+.insurance-pays .pays{padding:22px 30px}
+.payout{padding:22px 50px}
+.payout .subheading{font-size:.75rem;padding-bottom:12px}
+.payout .heading{color:#000;font-size:1.125rem;letter-spacing:-0.18px}
+.payable{padding:20px 40px}
+.profile-photo{margin-bottom:10px}
+.client-age-title{font-size:.75rem;padding-bottom:28px}
+.client-story-title{font-size:.75rem;padding-bottom:20px}
+.client-policy-title{font-size:.75rem;padding-bottom:40px}
+.bluelinebackground{top:42.5%;right:0;width:70%}
+.benefits-client{width:108px}
+.client-info-cards{padding:0 25px;align-items:start}
+.client-info{display:none}
+.client-information{padding-top:15px;height:auto}
+.client-age-container{margin-bottom:unset}
+.client-age{font-size:.625rem;padding:6px;color:#fcfcfc}
+.policy-info{background:unset;padding:unset;display:none;position:absolute;top:73%;left:30%;text-align:start}
+.policy-info::after{display:none}
+.policy-info .policy-info-heading{text-align:start;font-size:.75rem}
+.policy-info .policy-info-desc{font-size:.75rem;text-align:start}
+.client-story{padding-bottom:20px;display:none;position:absolute;top:60%;left:30%}
+.client-age-pinkcolor-active{margin-top:-4px}
+.client-age-active{margin-top:-4px}
+.insurance::after{top:15px;background:#b1acac}
+.pays::after{display:none}
+.mobile-cards-title{display:block;color:#333;font-family:'HelveticaNeueLTStd-Bd';font-size:.875rem;font-weight:700;line-height:normal;padding:15px 0 0 15px}
+.client-information-container{width:75%}
+}

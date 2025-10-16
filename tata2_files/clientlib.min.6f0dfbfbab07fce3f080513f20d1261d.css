@@ -1,0 +1,210 @@
+.common-cont ul li{list-style:disc;margin-left:25px;margin-bottom:10px;font-size:16px;font-family:"Inter";line-height:17px;font-weight:400}
+.common-cont ul li::marker{color:#4197d3}
+.common-cont tr{border:1px solid #edf4fa}
+.common-cont td{border:1px solid #edf4fa;padding:2px 2px 2px;vertical-align:text-bottom}
+.common-cont p{font-family:"Inter";font-size:18px;font-weight:400;font-stretch:normal;font-style:normal;line-height:28px;letter-spacing:normal;color:#373737;margin-bottom:20px;margin-right:15px}
+.bonus-disclaimer .common-cont p{font-weight:400;line-height:1.5;color:#333}
+.common-RT .common-cont b{font-weight:bold}
+.common-cont ol li{list-style:decimal;margin-left:25px;margin-bottom:10px;font-family:"Inter";font-weight:400;font-size:18px;line-height:28px}
+.common-cont ol li::marker{color:#4197d3}
+.common-cont ol li ul li{list-style:disc;margin-left:25px;margin-bottom:10px;font-size:18px;font-family:"Inter";line-height:28px;font-weight:400}
+.common-RT table{width:100%;border-collapse:unset;border:unset}
+.common-RT table tr:nth-child(1) td{border-top:1px solid #000}
+.common-RT table{border-right:1px solid #000}
+.common-RT table tr td{border-left:1px solid #000;border-bottom:1px solid #000;padding:10px 10px 10px}
+.common-RT .fontsize{font-size:12px}
+.common-RT .common-bl-bx{padding:24px 28px 0 30px;background:#edf4fa;opacity:.7;border:1px solid #daeef8;box-sizing:border-box;border-radius:20px}
+.bonus-disclaimer .common-RT .common-bl-bx{padding:20px}
+.common-RT p.common-fnt{font-family:"Inter";font-weight:500;font-size:24px;line-height:29px}
+.common-RT p.parafonts{font-family:"Inter";font-weight:400;font-size:16px;line-height:24px;margin-bottom:10px}
+.common-RT .common-mrt{margin-top:20px}
+.bonus-disclaimer .common-RT .common-mrt{margin:20px 0}
+.blueBorderTitle{font-family:'Inter';font-weight:700;font-size:24px;line-height:29px;letter-spacing:-0.466667px;color:#333}
+.blueBorderDescription{font-family:"Inter";font-weight:400;font-size:16px;line-height:22px;color:#333}
+.blueBorderLink{font-family:"Inter";font-weight:400;font-size:24px;line-height:29px;text-decoration-line:underline;color:#0073bb}
+.fraudc-check-image-icon .common-cont p{font-family:"Inter";display:flex;align-items:flex-start;font-weight:400;font-size:16px;line-height:18px;color:#58595b}
+.fraudc-check-image-icon .common-cont p img{margin-right:9px}
+.fraudc-check-image-icon .common-cont span{font-family:"Inter";font-weight:400;font-size:16px;line-height:24px;color:#333}
+.rte-txt-center .common-cont p{font-size:24px}
+.redtext{color:#ca1f4a}
+.bluetextheading{color:#0073bb}
+.horizontalblueline::after{content:'';width:73px;height:3px;background-color:#0073bb;margin:0 auto;display:block;margin-top:24px;border-radius:6px}
+.sectionpadding{padding-top:50px}
+.removepagecontainer .greytext{font-family:'Inter';font-style:normal;font-weight:400;font-size:14px;line-height:31px;letter-spacing:-0.404928px;color:#c4c4c4}
+.remove-mb p{margin-bottom:0}
+.awards-heading h1,.awards-heading h2{font-family:'Inter',sans-serif;font-weight:700;font-size:42px;line-height:51px;text-align:center;color:#333;margin:0 auto;margin-bottom:18px;max-width:739px}
+.awards-heading p{font-family:'Inter';font-style:normal;font-weight:400;font-size:20px;line-height:24px;text-align:center;color:#333;max-width:679px;margin:0 auto}
+.cmn-rt-alignment .common-cont{margin-top:54px}
+.common-rte-black-bullets .common-rte-text ul li{font-family:"Inter";font-weight:400;font-size:18px;line-height:28px;letter-spacing:normal;color:#373737}
+.common-rte-black-bullets .common-rte-text ul li::marker{color:#333;font-size:24px}
+.incometaxhideshowheading{display:none}
+.incometaxdeskfont{font-family:'Inter';font-weight:600;font-size:24px;line-height:26px;color:#333}
+.incometaxdeskheadingfont{display:block;font-family:'Inter',sans-serif;font-weight:700;font-size:42px;line-height:36px;color:#333;letter-spacing:normal}
+.incometaxsubheadingfont{font-family:'Inter';font-weight:600;font-size:36px;line-height:26px;color:#333}
+.mobHeading{display:none}
+.follow-us-wrapper{max-width:450px;width:100%}
+.follow-us-wrapper .common-cont h2{font-family:'Inter',sans-serif;font-weight:700;font-size:42px;line-height:51px;letter-spacing:-0.01em;color:#333;margin-bottom:20px}
+.follow-us-wrapper .common-cont p{font-family:'Inter',sans-serif;font-weight:400;font-size:18px;line-height:27px;letter-spacing:-0.007em;color:#333;margin-bottom:40px}
+.follow-social-wrapper .aem-Grid{display:flex;align-items:center;column-gap:10px}
+.follow-social-wrapper .aem-Grid .image img{width:40px;height:40px}
+.social-content-wrapper{padding:80px 84px;max-width:1366px;margin-right:auto;margin-left:auto}
+.social-content-wrapper .socialwidget{max-width:480px;width:100%;height:600px;overflow-y:auto;scrollbar-width:auto;scrollbar-color:#a7a9ac #e6e7e8}
+.socialwidget::-webkit-scrollbar{width:12px}
+.socialwidget::-webkit-scrollbar-track{background:#e6e7e8}
+.socialwidget::-webkit-scrollbar-thumb{background-color:#a7a9ac;border-radius:8px}
+.social-content-wrapper>.aem-Grid{display:flex;justify-content:space-between}
+.heading-space-alignment h1,.heading-space-alignment p{margin-bottom:20px}
+.microsite-heading-disc .common-cont{max-width:665px;width:100%;margin:0 auto;text-align:center}
+.microsite-heading-disc .common-cont h2{font-size:40px;line-height:41px;color:#3d3d3d;letter-spacing:normal;margin-bottom:15px}
+.microsite-heading-disc .common-cont p{margin-bottom:0}
+.urja-types-heading h2{font-size:40px;line-height:41px;color:#3d3d3d;margin-bottom:32px}
+.urja-app-heading{margin-top:72px}
+.urja-app-heading .common-cont{width:60%}
+.urja-app-heading h2{font-family:"Inter",sans-serif;font-size:40px;line-height:41px;color:#3d3d3d;margin-bottom:8px}
+.urja-app-heading p{font-size:24px;line-height:31px;color:#3d3d3d;margin-bottom:44px}
+.app-link-btns{display:flex;align-items:center;column-gap:13px}
+.app-link-btns .app-link{height:100%;max-width:185px;width:100%}
+.app-link-btns .app-link img{height:60px;max-width:185px;width:100%}
+.urja-how-works-heading{margin-top:53px}
+.urja-how-works-heading h2{font-family:'Inter',sans-serif;font-size:40px;line-height:41px;color:#3d3d3d;margin-bottom:14px}
+.urja-how-works-heading p{font-family:'Inter',sans-serif;font-weight:400;font-size:18px;line-height:20px;text-align:justify;color:#3d3d3d;margin-bottom:0}
+.header-font .common-rte-text h2{font-size:36px;font-family:"Inter";font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.36px;color:#333;margin-bottom:10px}
+.header-font .common-rte-text p{color:#333;font-family:"Inter";font-weight:400;line-height:150%;font-size:18px;letter-spacing:-0.126px;margin-bottom:20px}
+.benefit-section-com{background:#f2f7fb}
+.benefit-section-com .aem-Grid::before,.benefit-section-com .aem-Grid::after{content:unset}
+.benefit-section-content>.aem-Grid{max-width:1366px;margin:0 auto;padding:0 84px}
+.benefit-section-heading .cmp-title h1,.benefit-section-heading .cmp-title h2{font-size:36px;font-family:Inter;font-weight:700;letter-spacing:-0.36px;color:#333;line-height:normal;margin-bottom:10px;padding-top:40px}
+.benefit-section-heading .cmp-text p{font-family:"Inter";font-weight:400;line-height:150%;letter-spacing:-0.126px;color:#333;font-size:18px;margin-bottom:20px}
+.benefit-section-cards .aem-Grid{display:flex;flex-wrap:wrap;column-gap:25px}
+.benefit-section-cards .aem-Grid::before,.benefit-section-cards .aem-Grid::after{content:unset}
+.benefit-section-card-content{width:31.9%;padding:20px;text-align:center;border-radius:20px;border:1.5px solid #daeef8;background:#fff;box-shadow:0 0 25px 0 rgba(0,115,187,0.15);margin-bottom:30px;display:inline-flex;align-items:stretch;justify-content:center}
+.benefit-section-card-content .cmp-teaser__image img{width:54px;height:54px;margin-bottom:20px}
+.benefit-section-card-content .cmp-teaser__content .cmp-teaser__description h3{font-family:Inter;font-weight:700;letter-spacing:-0.24px;color:#333;font-size:24px;line-height:normal;min-height:60px;margin-bottom:10px}
+.benefit-section-card-content .cmp-teaser__content .cmp-teaser__description p{overflow:hidden;font-size:18px;font-family:"Inter";font-weight:400;line-height:150%;letter-spacing:-0.126px;color:#333;text-align:center}
+.category-card-popup-wrapper-rte{position:relative;display:none}
+.common-RT .common-rte-text .tooltip-imgRte{width:40px;height:40px;position:absolute;top:-4px;right:0;cursor:pointer}
+.common-RT .common-rte-text{position:relative}
+.category-card-popup-content{display:none}
+.RTE-category-card-popup-data.Custom-active{display:block;max-width:455px;width:100%;height:auto;min-height:204px;padding:20px;background:#fff;border:1px solid #f2f7fb;box-shadow:3px 6px 14px rgba(0,115,187,0.1);border-radius:20px;position:fixed;z-index:100;transform:translate(-50%,-50%);top:50%;left:50%}
+.category-card-popup-close-rte{position:absolute;right:10px;top:17px;height:12px;width:12px;cursor:pointer}
+.Rte-category-card-popup-heading h2{font-family:'Inter',sans-serif;font-weight:700;font-size:18px;line-height:22px;color:#0073bb;margin-bottom:15px}
+.Rte-category-card-popup-desc,.Rte-category-card-popup-desc p{font-family:'Inter',sans-serif;font-style:normal;font-weight:400;font-size:12px;line-height:18px;letter-spacing:-0.007em;color:#333}
+.common-rte-text h1{margin-right:30px}
+.common-points-term-insurance .common-cont ul li{margin-left:unset;padding-left:52px;list-style:none;position:relative;color:#333;font-family:'Inter';font-size:18px;font-weight:400;line-height:150%;letter-spacing:-0.18px;margin-bottom:20px}
+.common-points-term-insurance .common-cont ul li img{width:32px;height:32px;position:absolute;left:0}
+.common-points-term-insurance .common-cont ul li b{color:#0073bb;font-family:'Inter';font-size:1.125rem;font-style:normal;font-weight:700;letter-spacing:-0.126px}
+.common-points-term-insurance .common-cont p{margin-bottom:20px}
+.component-heading{margin-bottom:20px}
+.component-heading .cmp-text .sub-Text{color:#333;font-family:'Inter';font-size:18px;font-weight:400;line-height:27px;letter-spacing:-0.18px}
+.component-heading .cmp-text .lead{color:#333;font-family:'Inter';font-size:36px;font-weight:700;letter-spacing:-0.36px;padding-bottom:10px;display:block}
+.term-insurance-header-tag .cmp-text h1,.term-insurance-header-tag .cmp-text h2,.term-insurance-header-tag .cmp-text h3,.term-insurance-header-tag .cmp-text h4,.term-insurance-header-tag .cmp-text h5,.term-insurance-header-tag .cmp-text h6{color:#333;font-family:'Inter';font-size:2.25rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.36px;padding-bottom:10px}
+.common-points-header-tag .common-cont ul li h1,.common-points-header-tag .common-cont ul li h2,.common-points-header-tag .common-cont ul li h3,.common-points-header-tag .common-cont ul li h4,.common-points-header-tag .common-cont ul li h5,.common-points-header-tag .common-cont ul li h6{color:#0073bb;font-family:'Inter';font-size:1.125rem;font-style:normal;font-weight:700;letter-spacing:-0.126px;display:inline;line-height:normal}
+.common-points-header-tag .common-cont ul li img{top:8px}
+.common-points-header-tag .common-cont ul li b{color:#333}
+.premium-calc-heading .commonrtesec .common-rte-text p,.premium-calc-heading .commonrtesec .common-rte-text h1,.premium-calc-heading .commonrtesec .common-rte-text h2,.premium-calc-heading .commonrtesec .common-rte-text h3,.premium-calc-heading .commonrtesec .common-rte-text h4,.premium-calc-heading .commonrtesec .common-rte-text h5,.premium-calc-heading .commonrtesec .common-rte-text h6,.premium-calc-title .commonrtesec .common-rte-text h1,.premium-calc-title .commonrtesec .common-rte-text h2,.premium-calc-title .commonrtesec .common-rte-text h3,.premium-calc-title .commonrtesec .common-rte-text h4,.premium-calc-title .commonrtesec .common-rte-text h5,.premium-calc-title .commonrtesec .common-rte-text h6{color:#333;font-family:"Inter";font-size:2.25rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.36px}
+.premium-calc-heading .commonrtesec .common-rte-text{padding:unset}
+.premium-calc-title .commonrtesec .common-rte-text h1,.premium-calc-title .commonrtesec .common-rte-text h2,.premium-calc-title .commonrtesec .common-rte-text h3,.premium-calc-title .commonrtesec .common-rte-text h4,.premium-calc-title .commonrtesec .common-rte-text h5,.premium-calc-title .commonrtesec .common-rte-text h6{margin-bottom:10px}
+.premium-calc-title .commonrtesec .common-rte-text p{color:#333;font-family:"Inter";font-weight:400;line-height:150%;font-size:1.125rem;letter-spacing:-0.126px;margin-bottom:20px}
+.investment-txt-black-heading .commonrtesec .common-rte-text h1,.investment-txt-black-heading .commonrtesec .common-rte-text h2,.investment-txt-black-heading .commonrtesec .common-rte-text h3,.investment-txt-black-heading .commonrtesec .common-rte-text h4,.investment-txt-black-heading .commonrtesec .common-rte-text h5,.investment-txt-black-heading .commonrtesec .common-rte-text h6,.investment-txt-black-heading .cmp-text h1,.investment-txt-black-heading .cmp-text h2,.investment-txt-black-heading .cmp-text h3,.investment-txt-black-heading .cmp-text h4,.investment-txt-black-heading .cmp-text h5,.investment-txt-black-heading .cmp-text h6{opacity:unset;color:#333}
+.investment-text-h1-heading .cmp-text h1,.investment-text-h1-heading .cmp-text h2,.investment-text-h1-heading .cmp-text h3,.investment-text-h1-heading .cmp-text h4,.investment-text-h1-heading .cmp-text h5,.investment-text-h1-heading .cmp-text h6{font-size:40px;color:#333;text-align:left;font-family:"Inter";line-height:normal;letter-spacing:-0.40px;margin:20px 0 -11px 0;opacity:unset}
+.handletableincommonrt .commonRteSection .commonrtesec .common-rte-text .tableResp table tbody tr td p{margin:0 auto 20px}
+.pointer-align-with-text .common-cont ul li img{top:0}
+.pointer-align-with-text .common-cont ul li sup{line-height:1}
+@media screen and (max-width:1366px){.common-cont p{margin-bottom:0}
+.bonus-disclaimer .common-cont p{margin-bottom:0}
+.urja-app-heading .common-cont{width:100%}
+.urja-app-heading p{margin-bottom:20px}
+.common-cont p{margin-right:16px}
+.awards-heading .common-cont p{margin-right:unset;margin:0 auto}
+}
+@media screen and (max-width:768px){.category-card-popup-wrapper-rte{display:none}
+.common-rte-text h1{margin-right:25px}
+.category-card-popup-close-rte{top:16px}
+.RTE-category-card-popup-data.Custom-active{max-width:280px;width:100%;min-height:215px;height:auto}
+.common-RT .common-rte-text .tooltip-imgRte{width:40px;height:40px;position:absolute;top:2%;right:2px;cursor:pointer;margin-left:5px}
+.rte-txt-center .common-cont.common-mrt{margin-top:0}
+.rte-txt-center .common-cont p{text-align:center;margin-bottom:0;font-size:14px}
+.blueBorderLink{font-size:16px;line-height:19px}
+.common-RT .common-mrt{margin-top:20px}
+.common-RT p.parafonts{font-family:"Inter";font-weight:400;font-size:14px;line-height:24px;margin-bottom:10px}
+.common-RT p.common-fnt{font-family:"Inter";font-weight:500;font-size:14px;line-height:17px}
+.common-RT .fontsize{font-size:10px}
+.common-cont ul li{font-size:14px;line-height:24px}
+.common-cont p{font-size:14px;font-weight:300;line-height:1.71;letter-spacing:normal;color:#333;margin-bottom:10px;margin-right:unset}
+.bonus-disclaimer .common-cont p{margin-bottom:10px}
+.common-cont p a{word-wrap:break-word}
+.common-cont table{min-width:271px;width:100%}
+.common-cont ol li{margin-bottom:10px;line-height:20px;font-size:14px}
+.common-cont ol li ul li{margin-left:13px;margin-bottom:10px;line-height:20px;font-size:14px}
+.table-scroll{overflow:scroll}
+.sectionpadding{padding-top:30px}
+.horizontalblueline::after{margin-top:19px}
+.d-block h2{display:block}
+.removepagecontainer .greytext{font-family:'Inter';font-style:normal;font-weight:400;font-size:8px;line-height:110%;letter-spacing:-0.404928px;color:#c4c4c4}
+.awards-heading h1,.awards-heading h2{font-size:26px;line-height:31px;max-width:unset;margin-bottom:12px}
+.awards-heading p{font-size:14px;line-height:17px;max-width:unset;margin-bottom:unset}
+.cmn-rt-alignment .common-cont{margin-top:17px}
+.cmn-rt-alignment .common-cont h1{font-family:"Inter";font-size:30px;font-weight:700;line-height:36px;text-align:center}
+.common-rte-black-bullets .common-rte-text ul li{font-size:14px;font-weight:300;line-height:1.71}
+.common-rte-black-bullets .common-rte-text ul li::marker{font-size:20px}
+.incometaxhideshowheading{display:none;padding:0 20px;margin-bottom:20px}
+.incometaxdeskheadingfont{display:none}
+.incometaxdeskfont{display:none}
+.incometaxsubheadingfont{font-family:'Inter';font-weight:600;font-size:24px;line-height:26px;color:#333}
+.mobHeading{display:block}
+.mobHeading p{font-family:'Inter';font-style:normal;font-weight:700;font-size:30px;line-height:36px;text-align:center}
+.cmn-rt-alignment .common-cont h3,.common-rte-mt-54 .common-cont h3{font-family:'Inter';font-style:normal;font-weight:700;font-size:24px;line-height:29px}
+#tabbuy-4 .common-cont h3{font-family:'Inter';font-style:normal;font-weight:700;font-size:24px;line-height:29px}
+#tabbuy-4 .common-RT{margin-top:0;color:#0073bb;margin-bottom:unset}
+.redmobheading{color:#d62049}
+.heading-space-alignment p{margin-bottom:0}
+.social-content-wrapper{padding:60px 20px}
+.social-content-wrapper>.aem-Grid{display:block}
+.follow-us-wrapper{max-width:unset}
+.social-content-wrapper .socialwidget{max-width:unset;max-width:320px;width:100%;height:400px}
+.follow-us-wrapper .common-cont h2{font-size:24px;line-height:29px;margin-bottom:12px}
+.follow-us-wrapper .common-cont p{font-size:14px;line-height:21px;margin-bottom:10px}
+.follow-social-wrapper{margin-bottom:20px}
+.microsite-heading-disc .common-cont h2{font-size:20px;line-height:21px}
+.urja-types-heading h2{font-size:20px;line-height:21px;text-align:center;margin-bottom:15px}
+.urja-app-heading{margin-top:0;padding-top:23px;background:#f7f7f7}
+.urja-app-heading .common-cont{width:100%}
+.urja-app-heading h2{font-size:20px;line-height:23px;text-align:center;letter-spacing:normal;margin-bottom:8px}
+.urja-app-heading h2 .bluetextheading{font-size:24px;line-height:27px}
+.urja-app-heading p{font-size:16px;line-height:20px;text-align:center}
+.app-link-btns{justify-content:center;column-gap:7px}
+.app-link-btns .app-link{max-width:105px;width:100%}
+.app-link-btns .app-link img{height:35px;max-width:105px;width:100%}
+.urja-how-works-heading{margin-top:34px}
+.urja-how-works-heading h2{font-size:20px;line-height:21px;margin-bottom:5px;text-align:center}
+.urja-how-works-heading p{font-size:14px;line-height:17px;text-align:center}
+.header-font .common-rte-text h2{margin-bottom:5px;font-size:24px;letter-spacing:-0.24px}
+.header-font .common-rte-text p{font-size:14px;letter-spacing:normal}
+.benefit-section-content>.aem-Grid{padding:0 20px}
+.benefit-section-heading .cmp-title h1,.benefit-section-heading .cmp-title h2{letter-spacing:-0.24px;font-size:24px;margin-bottom:5px;padding-top:20px}
+.benefit-section-heading .cmp-text p{font-size:14px;letter-spacing:unset}
+.benefit-section-cards .aem-Grid{flex-direction:column}
+.benefit-section-card-content{max-width:unset;width:100%;border:1px solid #daeef8;box-shadow:0 0 15px 0 rgba(0,115,187,0.10);margin-bottom:10px}
+.benefit-section-card-content .cmp-teaser__image img{width:40px;height:40px;margin-bottom:15px}
+.benefit-section-card-content .cmp-teaser__content .cmp-teaser__description h3{min-height:44px;font-size:18px;letter-spacing:-0.18px}
+.benefit-section-card-content .cmp-teaser__content .cmp-teaser__description p{letter-spacing:unset;font-size:14px}
+.common-points-term-insurance .common-cont ul li img{width:24px;height:24px}
+.common-points-term-insurance .common-cont ul li{line-height:19.6px;padding-left:34px;margin-bottom:10px;font-size:14px;letter-spacing:-0.14px}
+.common-points-term-insurance .common-cont ul li b{letter-spacing:-0.14px;font-size:.875rem}
+.common-points-term-insurance .common-cont p{line-height:22.4px;letter-spacing:-0.16px;font-size:16px}
+.component-heading{margin-bottom:10px}
+.component-heading .cmp-text .sub-Text{line-height:22.4px;letter-spacing:-0.16px;font-size:16px}
+.component-heading .cmp-text .lead{letter-spacing:-0.24px;font-size:24px}
+.term-insurance-header-tag .cmp-text h1,.term-insurance-header-tag .cmp-text h2,.term-insurance-header-tag .cmp-text h3,.term-insurance-header-tag .cmp-text h4,.term-insurance-header-tag .cmp-text h5,.term-insurance-header-tag .cmp-text h6{font-size:1.5rem;letter-spacing:-0.24px}
+.common-points-header-tag .common-cont ul li h1,.common-points-header-tag .common-cont ul li h2,.common-points-header-tag .common-cont ul li h3,.common-points-header-tag .common-cont ul li h4,.common-points-header-tag .common-cont ul li h5,.common-points-header-tag .common-cont ul li h6{letter-spacing:-0.14px;font-size:.875rem}
+.common-points-header-tag .common-cont ul li img{top:0}
+.premium-calc-heading .commonrtesec .common-rte-text p,.premium-calc-heading .commonrtesec .common-rte-text h1,.premium-calc-heading .commonrtesec .common-rte-text h2,.premium-calc-heading .commonrtesec .common-rte-text h3,.premium-calc-heading .commonrtesec .common-rte-text h4,.premium-calc-heading .commonrtesec .common-rte-text h5,.premium-calc-heading .commonrtesec .common-rte-text h6,.premium-calc-title .commonrtesec .common-rte-text h1,.premium-calc-title .commonrtesec .common-rte-text h2,.premium-calc-title .commonrtesec .common-rte-text h3,.premium-calc-title .commonrtesec .common-rte-text h4,.premium-calc-title .commonrtesec .common-rte-text h5,.premium-calc-title .commonrtesec .common-rte-text h6{font-size:1.5rem;letter-spacing:-0.24px}
+.premium-calc-title .commonrtesec .common-rte-text h1,.premium-calc-title .commonrtesec .common-rte-text h2,.premium-calc-title .commonrtesec .common-rte-text h3,.premium-calc-title .commonrtesec .common-rte-text h4,.premium-calc-title .commonrtesec .common-rte-text h5,.premium-calc-title .commonrtesec .common-rte-text h6{margin-bottom:5px}
+.premium-calc-title .commonrtesec .common-rte-text p{font-size:.875rem;letter-spacing:normal;margin-bottom:10px}
+.investment-txt-h1-heading .cmp-text h1,.investment-txt-h1-heading .cmp-text h2,.investment-txt-h1-heading .cmp-text h3,.investment-txt-h1-heading .cmp-text h4,.investment-txt-h1-heading .cmp-text h5,.investment-txt-h1-heading .cmp-text h6{font-size:24px;letter-spacing:-0.24px;margin:5px 0;padding:0 20px}
+.handletableincommonrt .commonRteSection .commonrtesec.page-container{padding:unset}
+.pointer-align-with-text .common-cont ul li img{top:0}
+}
+.mt-ad-mobHeading p{display:none}
+@media screen and (max-width:768px){.mt-ad-mobHeading p{display:block;font-family:'Inter';font-size:23px;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.24px;text-align:center}
+}

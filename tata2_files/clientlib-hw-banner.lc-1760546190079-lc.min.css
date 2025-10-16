@@ -1,0 +1,37 @@
+.hw-banner-container .hw-banner .cmp-container .extendedimage .cmp-image__image{width:100%;height:428px}
+.hw-banner-container{max-width:unset;padding:unset}
+.hw-banner-container .hw-banner{overflow:hidden;max-width:unset;padding:unset}
+.hw-banner-container .hw-pagination-container .cmp-container{margin:18px auto 0 auto;width:fit-content;display:flex;flex-direction:row;gap:10px}
+.hw-banner-container .hw-pagination-container .cmp-container .swiper-pagination-bullet{width:44px;height:9px;border-radius:20px;background-color:#d9d9d9;margin:0}
+.hw-banner-container .hw-pagination-container .cmp-container .swiper-pagination-bullet-active{background-color:#0078ba}
+.hw-sliderform-container>.cmp-container{display:flex;gap:80px}
+.hw-sliderform-container{padding:unset}
+.hw-sliderform-container .hw-banner-container{width:69%}
+.hw-sliderform-container .hw-banner-container .hw-banner .cmp-container .extendedimage .cmp-image__image{height:510px}
+.health-wealth-srpbanner .shubh-banner-slider{padding-left:unset;padding-right:unset}
+.health-wealth-srpbanner .shubh-combo-banner{padding-left:unset;padding-right:unset}
+.health-wealth-srpbanner .slider-banner{padding-left:unset;padding-right:unset}
+.health-wealth-srpbanner .slider-banner-container{padding-left:unset;padding-right:unset}
+.health-wealth-srpbanner .slider-banner .shubh-combo-banner>.cmp-container{padding:40px 20px 20px 35px}
+.health-wealth-srpbanner .slider-banner .banner-img{width:230px;height:360px}
+.health-wealth-srpbanner .slider-banner .banner-img .cmp-image{width:230px;height:360px}
+.health-wealth-srpbanner .slider-banner .banner-img .cmp-image__image{width:230px;height:360px}
+.health-wealth-srpbanner .banner-offer{padding-left:unset;padding-right:unset;width:fit-content;margin:unset}
+.health-wealth-srpbanner .shubh-banner-pagination{padding-left:unset;padding-right:unset}
+.health-wealth-srpbanner .slider-banner .shubh-banner-pagination{left:30px}
+.health-wealth-srpbanner .prodpgform{margin:0 16px}
+.health-wealth-srpbanner .bannerWithForm .prodpgform{margin-top:20px}
+@media screen and (max-width:768px){.hw-banner-container .hw-pagination-container .cmp-container .swiper-pagination-bullet{width:20px;height:5px}
+.hw-banner-container .hw-banner .cmp-container .extendedimage .cmp-image__image{height:124px;display:block}
+.hw-banner-container .hw-pagination-container .cmp-container{margin:12px auto 0 auto;gap:3px}
+.hw-sliderform-container>.cmp-container{flex-direction:column;gap:24px}
+.hw-sliderform-container{padding:0 15px}
+.hw-sliderform-container .hw-banner-container{width:100%}
+.hw-sliderform-container .hw-banner-container .hw-banner .cmp-container .extendedimage .cmp-image__image{height:243px}
+.hw-sliderform-container .hw-banner-container .hw-pagination-container .cmp-container .swiper-pagination-bullet{width:21px;height:4px}
+.health-wealth-srpbanner .bannerWithForm .page-container{padding:unset}
+.health-wealth-srpbanner .banner-offer{margin:0 auto}
+.health-wealth-srpbanner .slider-banner .shubh-combo-banner>.cmp-container{padding:10px 34px 30px 34px}
+.health-wealth-srpbanner .slider-banner .shubh-banner-pagination{left:0}
+.health-wealth-srpbanner .callback-form{margin-top:20px}
+}

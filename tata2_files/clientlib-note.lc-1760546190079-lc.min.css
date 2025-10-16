@@ -1,0 +1,17 @@
+.note-container{max-width:722px !important;margin:0 auto;border-radius:8px;padding:unset !important;position:fixed;top:68px;left:50%;transform:translate(-50%,-15px);z-index:20;background:linear-gradient(90deg,#0073bb 0,#d62049 100%)}
+.note-container .cmp-container{border-radius:8px;padding:8px 19px;background-size:100% 100% !important}
+.note-container .note .cmp-text img{width:16px;height:16px;margin-right:8px}
+.note-container .note .cmp-text .closeimg{width:16px;height:16px}
+.note-container .note .cmp-text p{display:flex}
+.note-container .note .cmp-text .whiteText{color:#FFF;font-family:Inter;font-size:.875rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.14px}
+.note-container .note .cmp-text .whiteTex b{color:#FFF;font-family:Inter;font-size:.875rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.14px}
+.note-container .note .cmp-text .whiteText a{color:#fff;text-decoration:underline}
+.note-container .note .cmp-text .closeimg{position:absolute;right:-3px;top:-6px;cursor:pointer;margin-right:unset}
+@media screen and (max-width:768px){.note-container{margin:0 15px !important;top:62px;left:unset;transform:unset}
+.note-container .cmp-container{padding:8px 16px}
+.note-container .note .cmp-text img{margin-right:10px}
+.note-container .note .cmp-text .whiteText{font-size:.75rem;letter-spacing:-0.12px}
+.note-container .note .cmp-text .whiteText b{font-size:.75rem;letter-spacing:-0.12px}
+.note-container .note .cmp-text .closeimg{right:-5px;top:-5px}
+.note-container .note .cmp-text p{align-items:center}
+}

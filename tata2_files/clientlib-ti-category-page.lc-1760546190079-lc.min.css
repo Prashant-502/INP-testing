@@ -1,0 +1,43 @@
+.container-category-price{padding:unset !important}
+.container-category-price .cmp-container{gap:11px}
+.categoryPrice .cmp-teaser .background-image{width:293px;height:236px}
+.categoryPrice .cmp-teaser .background-image .desktopbg{object-fit:cover;width:100%;height:100%;border-radius:25px}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser{min-width:293px;width:100%;min-height:236px;height:100%;border-radius:25px;position:relative}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .lead{color:#FFF;font-family:'Inter';font-size:2.625rem;font-weight:700;padding-bottom:5px;letter-spacing:-0.42px;display:block;position:absolute;top:65px;left:40px}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .whiteText{color:#FFF;font-family:'Inter';font-size:1.5rem;font-weight:400;letter-spacing:-0.24px;position:absolute;top:114px;left:40px}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .blueText{position:absolute;color:#0073bb;font-family:"Inter";font-size:.75rem;font-weight:700;letter-spacing:-0.12px;background-color:#fff;padding:3px 12px 3px 8px;border-radius:5px 0 0 5px;top:20px;right:-4px;line-height:18px}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .blueText::after{content:"";width:6px;height:4px;background-color:#5b5b5b;position:absolute;right:0;top:-4px;border-radius:0 10px 0 0}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__action-container{position:absolute;bottom:30px;left:40px}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__action-container .cmp-teaser__action-link{width:100%;display:block;background-color:#fff;border-radius:10px;padding:13px;text-align:center;color:#d62049;font-family:'Inter';font-size:1.125rem;font-weight:500;letter-spacing:-0.18px;min-width:212px;min-height:40px}
+.categoryPrice .cmp-teaser .background-image .mobilebg{display:none}
+.container-category-price .cmp-container .category-price-header-tag .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .lead{font-family:'Inter';font-size:2.625rem;line-height:normal}
+.container-category-price .cmp-container .category-price-header-tag .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .whiteText{font-family:'Inter';font-size:1.5rem;line-height:normal}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .whiteText sup{font-size:16px}
+.insurance-coverage-cards .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .blueText{top:27px}
+.insurance-coverage-cards .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .term-text{position:absolute;top:27px;left:40px;color:#FFF;font-family:'Inter';font-size:1rem;font-weight:400;line-height:150%;letter-spacing:-0.16px}
+.insurance-coverage-cards.card-text-swipe .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .lead{top:38px}
+.insurance-coverage-cards.card-text-swipe .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .term-text{top:85px}
+@media screen and (max-width:1400px){.categoryPrice .cmp-teaser .background-image{width:289px}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser{min-width:289px}
+}
+@media screen and (max-width:767px){.container-category-price .cmp-container{gap:15px;justify-content:center}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser{min-width:unset;width:100%;min-height:unset;height:95px;padding:unset;border-radius:10px;border:1px solid#0073bb}
+.categoryPrice .cmp-teaser .background-image .desktopbg{display:none}
+.categoryPrice .cmp-teaser .background-image .mobilebg{display:block;object-fit:cover;width:100%;height:100%;border-radius:10px}
+.categoryPrice .cmp-teaser .background-image{width:150px;height:93px}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description{padding:10px 16px}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .lead{font-size:1rem;letter-spacing:-0.16px;line-height:22.4px;padding-bottom:1px;font-family:'Inter';font-weight:700;position:absolute;top:10px;left:16px}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .whiteText{font-size:.875rem;letter-spacing:-0.14px;font-family:'Inter';font-weight:400;position:absolute;top:33px;left:16px}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__action-container{position:absolute;bottom:0;left:0}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__action-container .cmp-teaser__action-link{padding:6px;border-radius:0 0 10px 10px;color:#d62049;font-family:'Inter';font-size:.875rem;font-weight:400;letter-spacing:-0.14px;min-width:150px;min-height:32px;justify-content:center;display:flex;align-items:center}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .blueText{width:20%;padding:4px;font-size:.5rem;line-height:normal;top:0;right:6px;border-radius:0 0 4px 4px}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .blueText::after{display:none}
+.container-category-price .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .whiteText sup{font-size:11px}
+.insurance-coverage-cards .cmp-container .categoryPrice .cmp-teaser{height:98px}
+.insurance-coverage-cards .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .term-text{top:4px;left:16px;font-size:.5rem;letter-spacing:-0.08px}
+.insurance-coverage-cards .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .blueText{text-align:center}
+.insurance-coverage-cards .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .lead{top:16px}
+.insurance-coverage-cards .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .whiteText{top:39px}
+.insurance-coverage-cards.card-text-swipe .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .lead{top:5px}
+.insurance-coverage-cards.card-text-swipe .cmp-container .categoryPrice .cmp-teaser .cmp-teaser__content .cmp-teaser__description p .term-text{top:27px}
+}

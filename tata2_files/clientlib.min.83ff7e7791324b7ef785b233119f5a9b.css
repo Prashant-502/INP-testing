@@ -1,0 +1,1062 @@
+.guid-sec {
+    margin: 120px 0
+}
+
+.blog-corouselstatic-bg-color {
+    background-color: #edf4fa;
+}
+
+.blog-corouselstatic-bg-color .guid-sec{
+    padding: 30px 0px;
+}
+
+.blog-corouselstatic-bg-color .d-mg-y-60 {
+    margin-top: 0;
+    margin-bottom: 60px;
+}
+.guid-sec .section-title h2 {
+    font-weight: 700;
+    margin-bottom: 30px
+}
+
+.guid-sec .sub-head {
+    margin-bottom: 30px;
+    max-width: 50%
+}
+
+.guid-sec .sub-head h4 {
+    font-size: 2.25rem;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: -.4px;
+    color: #333
+}
+
+.guid-sec .sub-head p {
+    font-size: 1.125rem;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    font-family: Helvetica;
+    letter-spacing: normal
+}
+
+.guid-sec .things-know-sct .things-toknow-wrap .things-toknow-rhs {
+    width: 100%
+}
+
+.d-mg-y-60 {
+    margin-top: 60px;
+    margin-bottom: 60px
+}
+
+.slider-card-cont-wrap {
+    padding: 20px;
+    padding-bottom: 24px
+}
+
+.slider-card-cont-wrap .slider-cont h6 {
+    font-size: 1.063rem;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    min-height: 80px
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-lhs {
+    display: inline-block;
+    width: 30%;
+    padding-left: 50px
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-lhs .things-title h2 {
+    font-size: 3.5rem;
+    line-height: .98;
+    color: #333;
+    font-family: Inter, sans-serif
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-lhs .things-img img {
+    max-width: 282px;
+    height: 319px;
+    -o-object-fit: contain;
+    object-fit: contain;
+    margin-bottom: 15px
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs {
+    display: inline-block;
+    width: 65%
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card {
+    position: relative
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap {
+    border-radius: 20px;
+    box-shadow: 0 0 15px 0 rgba(0, 115, 187, .1);
+    background-color: #fff;
+    min-height: 420px
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont p {
+    height: 24px;
+    font-family: HelveticaNeueLTStd-Bd;
+    font-size: 0.875rem;
+    color: #58595b;
+    margin-bottom: 10px
+}
+
+.hyperlink-blog {
+    font-size: 1.125rem;
+}
+
+.blog-corouselstatic .slider-card-cont-wrap .hyperlink-blog {
+    color: #0073bb
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont h2 {
+    font-size: 1.25rem;
+    line-height: 1.2;
+    font-family: HelveticaNeueLTStd-Bd, sans-serif;
+    margin-bottom: 10px
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont span {
+    font-size: 0.75rem;
+    font-weight: 500;
+    font-family: Inter;
+    line-height: 1.38;
+    color: #a7a9ac;
+    margin-bottom: 20px;
+    display: inline-block;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    display: flex
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont span img {
+    margin-right: 5px
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont a {
+    text-decoration: underline;
+    display: block;
+    padding: 0
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont h2 {
+    font-weight: 700;
+    font-size: 1.063rem !important;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    min-height: 80px
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .picture-wrapper {
+    position: relative;
+    height: 221px;
+    max-width: 100%
+}
+
+.blog-corouselstatic .things-card-layout .picture-wrapper .things-card-tag {
+    position: absolute;
+    top: 6px;
+    left: 7px;
+    padding: 5px 8px;
+    color: #000;
+    background: #e5e5e5;
+    border-radius: 13px;
+    text-transform: uppercase;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 0.75rem;
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .picture-wrapper img {
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px
+}
+
+.blog-corouselstatic .ta-km-cta {
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: underline;
+    font-family: HelveticaNeueLTStd-Md, sans-serif;
+    color: #0073bb;
+    font-size: 1.5rem;
+    letter-spacing: -1px;
+    line-height: normal
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .picture-wrapper .rect-tab {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    opacity: .8;
+    border-radius: 12px;
+    background-color: #fff;
+    padding: 5px
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .picture-wrapper .rect-tab p {
+    font-size: 0.75rem;
+    text-transform: uppercase
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .picture-wrapper .like-view-rect {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    display: flex
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .picture-wrapper .like-view-rect .like-box {
+    display: flex;
+    margin-right: 15px
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .picture-wrapper .like-view-rect .like-box img {
+    margin-right: 5px
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .picture-wrapper .like-view-rect .view-box {
+    display: flex
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .picture-wrapper .like-view-rect .view-box img {
+    margin-right: 5px
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .picture-wrapper .like-view-rect span {
+    font-size: 0.75rem;
+    color: #fff;
+    font-family: HelveticaNeueLTStd-Lt
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .advisor-sld-btn {
+    text-align: right;
+    position: relative;
+    z-index: 2;
+    margin-right: 20px;
+    width: 50%;
+    float: right
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .advisor-sld-btn a {
+    text-decoration: underline
+}
+
+.ta-sl-showall {
+    position: absolute;
+    bottom: -35px;
+    white-space: nowrap;
+    right: 0;
+    z-index: 5
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont div {
+    margin-bottom: 10px;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 0.875rem;
+    color: #58595b
+}
+
+.d-flex {
+    align-items: center
+}
+
+.max-width-833 {
+    max-width: 833px
+}
+
+.ta-c-option-select {
+    margin-top: 30px
+}
+
+.ta-c-option-select li.active {
+    background: #0073bb;
+    color: #fff
+}
+
+.ta-c-option-select li {
+    display: inline-block;
+    margin-right: 20px;
+    padding: 12px 30px 14px;
+    border-radius: 19.5px;
+    font-family: HelveticaNeueLTStd-Md, sans-serif;
+    font-size: 1.125rem;
+    font-weight: 400;
+    line-height: .78;
+    letter-spacing: normal;
+    color: #0073bb;
+    border: solid 1px #0073bb
+}
+
+.blog-corouselstatic .guid-slider-carousel .slick-list {
+    padding-bottom: 10px
+}
+
+.blog-corouselstatic button.slick-prev {
+    left: -35px
+}
+
+.blog-corouselstatic button.slick-prev,
+.slick-next {
+    height: 30px;
+    width: 30px
+}
+
+.blog-corouselstatic button.slick-prev.slick-arrow:before {
+    content: ' ';
+    background: url("../../../../../content/dam/tataaialifeinsurancecompanylimited/homepage-banner-images/slider-arrow.svg");
+    width: 30px;
+    height: 30px;
+    display: block
+}
+
+.blog-corouselstatic button.slick-next.slick-arrow:before {
+    content: ' ';
+    background: url("../../../../../content/dam/tataaialifeinsurancecompanylimited/homepage-banner-images/slider-next-arrow.svg");
+    width: 30px;
+    height: 30px;
+    display: block
+}
+
+.blog-corouselstatic .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap.slider-wrap-card-minheight {
+    min-height: 320px;
+    margin: 0 10px
+}
+
+.blog-corouselstatic .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .picture-wrapper img {
+    object-fit: unset
+}
+.clock-icon-wh-ht {
+    width: 13px;
+    height: 17px;
+}
+.remove-mr-tp .d-mg-y-60 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.remove-mr-tp .slick-list{
+    margin-left: 20px;
+    padding-top: 0;
+}
+.remove-mr-tp .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont h2{
+    margin-bottom: 60px;
+}
+.remove-mr-tp .clock-icon-wh-ht {
+    width: 13px;
+    height: 13px;
+}
+.blg-anch-link{
+    margin-left: 35px;
+    color: #0073BB;
+    font-size: 1.125rem;
+    font-family: 'HelveticaNeueLTStd-Md';
+}
+
+.clock-icon-wh-ht {
+    width: 13px;
+    height: 17px;
+}
+.marginbottom{
+    margin-bottom: 32px;
+}
+.desktop-mt-70  .d-mg-y-60{
+    margin-top: 0;
+ }
+ .blog-calc-bluetxt{
+    color: #0073BB;
+ }
+ .microsite-calc-blogs {
+    background: linear-gradient(0deg, #E0F2FF -21.97%, rgba(233, 241, 247, 0) 78.03%);
+ }
+ .microsite-calc-blogs .guid-sec .section-title h2{
+    font-size: 2.5rem;
+    line-height: 41px;
+    color: #3D3D3D;
+ }
+ .microsite-calc-blogs.blog-corouselstatic .guid-slider-carousel .slick-list{
+    padding-bottom: 0;
+ }
+ .microsite-calc-blogs .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont h2{
+    min-height: unset;
+    color: #0B80C3;
+ }
+ .microsite-calc-blogs .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont span{
+    text-align: justify;
+    color: #4F4F4F;
+    font-family: 'helveticaregular', sans-serif;
+ }
+ .microsite-calc-blogs.blog-corouselstatic .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap{
+    box-shadow: unset;
+    min-height: 435px;
+    position: relative;
+ }
+ .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont a.blog-calc-calculatecta{
+    border-radius: 8px;
+    background: #1574B3;
+    border-radius: 8px;
+    display: block;
+    text-decoration: none;
+    padding: 9px 0 9px 0;
+    font-size: 1rem;
+    line-height: 20px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'HelveticaNeueLTStd-Md', sans-serif;
+    position: absolute;
+    width: 87%;
+    bottom: 20px;
+ }
+ .microsite-articles .guid-sec .section-title h2{
+    font-size: 2.5rem;
+    line-height: 41px;
+    color: #1574B3;
+ }
+
+ .blog-cards-content-wrap .slider-temp-wrap .slider-card-cont-wrap {
+    padding: 20px;
+ }
+ .blog-cards-content-wrap .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont span {
+    font-size: 0.75rem;
+    font-family: "Inter";
+    font-weight: 500;
+    color: #a7a9ac;
+    margin-bottom: unset;
+    display: flex;
+    align-items: center;
+}
+.blog-cards-content-wrap .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont span img {
+    height: 13px;
+    width: 13px;
+}
+
+.ifsc-blog-carousel-cards .ta-slick .slick-slide{
+    padding: 0px 0px;
+}
+
+.blog-corouselstatic-category-page .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont a.blog-calc-calculatecta{
+    background-color: #D62049;
+}
+.blog-corouselstatic-category-page .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont a.blog-calc-calculatecta-redirection{
+    background: #D62049;
+    border-radius: 8px;
+    display: block;
+    text-decoration: none;
+    padding: 9px 0 9px 0;
+    font-size: 1rem;
+    line-height: 20px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'HelveticaNeueLTStd-Md', sans-serif;
+    position: absolute;
+    width: 87%;
+    bottom: 20px;
+}
+
+@media screen and (max-width:1280) {
+    .ifsc-blog-carousel-cards .ta-slick .slick-slide{
+        padding: 0px 0px;
+    }
+    .picture-wrapper img {
+        max-width: 100%
+    }
+}
+
+@media screen and (max-width:991px) {
+    .ifsc-blog-carousel-cards .ta-slick .slick-slide{
+        padding: 0px 0px;
+    }
+    
+    .things-know-sct .things-toknow-wrap .things-toknow-lhs {
+        display: flex;
+        width: 100%;
+        align-items: flex-end;
+        margin-bottom: 20px
+    }
+
+    .things-know-sct .things-toknow-wrap .things-toknow-lhs .things-img img {
+        width: auto;
+        max-width: 100%;
+        height: auto
+    }
+
+    .things-know-sct .things-toknow-wrap .things-toknow-lhs .things-title h2 {
+        font-size: 2.25rem;
+    }
+
+    .things-know-sct .things-toknow-wrap .things-toknow-rhs {
+        display: block;
+        width: 100%
+    }
+
+    .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont p {
+        height: 24px;
+        margin-bottom: 10px
+    }
+
+    .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont h2 {
+        font-size: 0.875rem;
+    }
+
+    .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont span {
+        font-size: 0.75rem;
+        margin-bottom: 20px;
+        font-family: Inter;
+        font-weight: 500
+    }
+
+    .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .picture-wrapper .rect-tab {
+        top: 15px;
+        left: 15px
+    }
+
+    .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .advisor-sld-btn {
+        display: none
+    }
+
+    .ta-sl-showall {
+        position: static;
+        text-align: center;
+        padding-top: 28px;
+    }
+}
+
+@media screen and (max-width:767.99px) {
+    .blg-anch-link{
+        display: block;
+        margin-left: 0;
+        margin-top: 30px;
+        text-align: center;
+        color: #0073BB;
+        font-size: 0.875rem;
+    }
+    .clock-icon-wh-ht {
+        width: 13px;
+        height: 17px;
+    }
+
+    .ta-slick-mob-full {
+        margin-right: -20px
+    }
+
+    .ta-km-cta {
+        font-size: 1rem;
+        line-height: 22px;
+        letter-spacing: normal
+    }
+
+    .ta-c-option-select {
+        margin-top: 0
+    }
+
+    .ta-c-option-select li {
+        padding: 7px 16px 9px;
+        font-size: 0.875rem;
+        line-height: 1;
+        margin-right: 5px;
+        margin-bottom: 10px
+    }
+
+    .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap {
+        min-height: 380px;
+        margin: 0 10px
+    }
+
+    .blog-corouselstatic .guid-slider-carousel .slick-list {
+        width: 90%;
+        margin: 0 auto
+    }
+
+    .blog-corouselstatic button.slick-prev {
+        left: -15px
+    }
+
+    .blog-corouselstatic button.slick-next {
+        right: -15px
+    }
+    .header-tag-fonts .section-title .d-flex h2{
+        font-size: 1.5rem;
+    }
+    .blog-cards-content-wrap .slider-temp-wrap .slider-card-cont-wrap {
+        padding: 20px 16px;
+     }
+}
+
+@media screen and (max-width:767px) {
+    .guid-sec {
+        margin: 60px 0
+    }
+
+    .guid-sec .section-title h2 {
+        margin-bottom: 0;
+        font-size: 1.813rem;
+    }
+
+    .guid-sec .sub-head {
+        max-width: 100%
+    }
+
+    .guid-sec .sub-head h4 {
+        font-family: HelveticaNeueLTStd-Bd;
+        font-size: 1.25rem;
+        font-weight: 400;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.2;
+        letter-spacing: -.83px
+    }
+
+    .guid-sec .sub-head p {
+        font-size: 0.875rem;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.71;
+        letter-spacing: normal
+    }
+
+    .m-mg-y-30 {
+        margin-top: 30px;
+        margin-bottom: 30px
+    }
+    .marginbottom{
+        margin-bottom: 24px;
+    }
+    .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont a.blog-calc-calculatecta{
+        width: 89%;
+    }
+    .microsite-calc-blogs .guid-sec .section-title h2{
+        font-size: 1.25rem;
+        line-height: 21px;
+        text-align: center;
+        max-width: 200px;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .microsite-articles .guid-sec .section-title h2{
+        font-size: 1.25rem;
+        line-height: 21px;
+    }
+}
+
+@media screen and (max-width:575.98px) {
+    .things-know-sct .things-toknow-wrap .things-toknow-lhs {
+        padding-left: 0
+    }
+
+    .things-know-sct .things-toknow-wrap .things-toknow-lhs .things-img img {
+        width: 238px;
+        height: 176px;
+        -o-object-fit: contain;
+        object-fit: contain
+    }
+
+    .slider-card-cont-wrap {
+        padding: 20px 16px
+    }
+
+    .things-know-sct .slider-cards-wrap {
+        margin-bottom: 60px !important
+    }
+
+    .ta-km-cta {
+        font-size: 1rem;
+        line-height: 1.38
+    }
+}
+
+@supports (padding:max(0)) {
+    .fancybox-caption {
+        padding: 75px max(44px, env(safe-area-inset-right)) max(25px, env(safe-area-inset-bottom)) max(44px, env(safe-area-inset-left))
+    }
+}
+
+@keyframes a {
+    to {
+        transform: rotate(1turn)
+    }
+}
+
+@media (max-height:576px) {
+    @supports (padding:max(0)) {
+        .fancybox-caption {
+            padding-left: max(12px, env(safe-area-inset-left));
+            padding-right: max(12px, env(safe-area-inset-right))
+        }
+    }
+}
+
+.blog_card-heading{
+    font-size: 2.625rem;
+    font-family: Inter;
+    font-weight: 800;
+    color: #333333;
+}
+@media screen and (max-width: 767.99px) {
+
+    .blog_card-heading{
+        font-size: 1.75rem;
+    }
+}
+
+.things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont .blog-car-static-anly-linkpos {
+    font-weight: 700;
+    font-size: 1.063rem !important;
+    overflow: hidden;
+    color: #333333;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    min-height: 80px;
+}
+
+/* ********************** NEW homepage revamp css started************************** */
+.homepage-revamp-blog-cards{
+    padding: unset!important;
+    max-width: unset!important;
+}
+.homepage-revamp-blog-cards .cmp-container{
+    padding: 32px 0px;
+}
+.homepage-revamp-blog-cards .leadproxytext{
+    max-width: 1366px;
+    padding:0px 20px;
+    margin: 0 auto;
+    
+}
+.homepage-revamp-blog-cards .leadproxytext .gradient-text{
+    display: block;
+   margin: 0 auto;
+    width: fit-content;
+    font-family: Inter;
+    font-size: 1.75rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.28px;
+    background:  linear-gradient(90deg, #0073BB 0%, #D62049 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.homepage-revamp-blog-cards .blog-cards-content-wrap .guid-sec{
+    margin-top: 24px;
+    margin-bottom: 0px;
+}
+.homepage-revamp-blog-cards .slick-dotted.slick-slider{
+    margin-bottom: 0px;
+}
+
+.homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap{
+    min-height: 340px;
+}
+.homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .picture-wrapper{
+    height: 205px;
+}
+.homepage-revamp-blog-cards .blog-cards-content-wrap .slider-temp-wrap .slider-card-cont-wrap{
+    padding: 16px;
+}
+.homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .things-card-layout .things-card-tag{
+    top:21px;
+    left: unset;
+    right: -6px;
+    display: inline-flex;
+    padding: 4px 8px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 0px 0px 5px 0px;
+    background: #58595B;
+    color: #fff;
+    text-transform: unset;
+    font-family: Helvetica;
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 12px; 
+    letter-spacing: -0.12px;
+
+}   
+.homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .things-card-layout .things-card-tag::after{
+    content: "";
+    position: absolute;
+    right: 0;
+    top: -5px;
+    border-radius: 0px 5px 0px 0px;
+    background:  #333;
+    width: 7px;
+    height: 5px;
+}
+
+.homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont {
+    display: flex;
+    flex-direction: column;
+  
+}
+.homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont .time-data {
+    margin-bottom: 0;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 32px
+    
+}
+.homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont .time-data img {
+    margin-right: 8px;
+    height: 14px;
+    width: 14px;
+}
+.homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont a{
+    text-decoration: unset;
+    color:  #D62049;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-flex;
+    align-items: center;
+    justify-content: end;
+}
+.homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont a::after{
+    content: "";
+    background:url("../../../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/RightArrow.svg");
+    height: 12px;
+    width: 12px;
+    margin-left: 6px;
+    display: block;
+    background-repeat: no-repeat;
+}   
+
+.homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont .blog-car-static-anly-linkpos{
+    font-size: 1.125rem!important;
+    min-height: 63px;
+    margin-bottom: 8px;
+}
+.homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .slick-arrow{
+    height: 32px;
+    width: 32px;
+    transform: unset;
+    top: unset;
+    bottom: 0;
+}
+.homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .slick-prev{
+    left: unset;
+    right: 48px;
+    bottom: -14px;
+}
+.homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .slick-next{
+    right: 0;
+    bottom: -14px;
+
+}
+.homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .slick-prev.slick-arrow:before{
+    content: ' ';
+    background: url("../../../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/Prev-arrow.svg");
+    width: 32px;
+    height: 32px;    
+}
+.homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .slick-next.slick-arrow:before{
+    content: ' ';
+    background: url("../../../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/Next-arrow.svg");
+    width: 32px;
+    height: 32px;
+    right: unset;
+}
+.homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .slick-dots{
+
+  margin: 24px auto 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 128px;
+  height: 6px; 
+  background-color: #E6E7E8; 
+  border-radius: 6px;
+  overflow: hidden;
+  padding: 0;
+  position: unset;
+}
+.homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .slick-dots li{
+    position: relative;
+    display: inline-block;
+    height: 6px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: all .3s ease;
+    list-style: none!important;
+
+}
+.homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .slick-dots li button{
+  
+    width: 0;
+    height: 0;
+    margin: 0;
+    padding: 0  ;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .slick-dots li.slick-active {
+    background-color: #58595B;
+}
+.homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .slick-dots li.slick-active button{
+  
+    width: 100%;
+}
+
+
+.homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .slick-dots li.slick-active button:before{
+    content: " ";
+   
+    width: 100%;
+    height: 6px;
+    font-family: "slick";
+    font-size: 0.375rem;
+    line-height: 20px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #58595B;
+   
+}
+.card-height-alignment .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont .blog-car-static-anly-linkpos{
+    -webkit-line-clamp: 3;
+    min-height: 65px;
+}
+@media screen and (max-width:768px){
+    .homepage-revamp-blog-cards .cmp-container{
+        padding: 20px 0px;
+    }
+    .homepage-revamp-blog-cards .leadproxytext .gradient-text{
+        font-size: 1.25rem;
+        letter-spacing: -0.2px;
+    }
+    .homepage-revamp-blog-cards .blog-cards-content-wrap .guid-sec{
+        margin-top: 20px;
+    }
+    .homepage-revamp-blog-cards .blog-cards-content-wrap .guid-sec .page-container{
+        padding: 0px 0px 0px 20px;
+    }
+    .homepage-revamp-blog-cards .blog-cards-content-wrap .guid-sec .ta-container{
+        padding: 0px 0px 0px 20px;
+    }
+
+    .homepage-revamp-blog-cards .guid-slider-carousel .slick-list{
+        width: 100%;
+    }
+    .homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap{
+        min-height: 250px;
+        margin: 0px 24px 0px 0px;
+    }
+    .homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .picture-wrapper{
+        height: 150px;
+    }
+    .homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .slick-slide{
+        margin: 0px 0px;
+    }
+    .homepage-revamp-blog-cards .blog-cards-content-wrap .slider-temp-wrap .slider-card-cont-wrap{
+        padding: 12px;
+    }
+    .homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont .blog-car-static-anly-linkpos{
+        font-size: 0.875rem!important;
+        min-height: 46px;
+        margin-bottom: 6px;
+    }
+    .homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont .time-data{
+        font-size: 0.75rem;
+        line-height: 24px;
+    }
+    .homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont .time-data img{
+        height: 12px;
+        width: 12px;
+        margin-right: 6px;
+    }
+    .homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont a{
+        font-size: 0.625rem;
+        padding: 6px;
+    }
+    .homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .things-card-layout .things-card-tag{
+        font-size: 0.688rem;
+        right: -4px;
+        padding: 3px 6px;
+        border-radius: 0px 0px 3.676px 0px;
+        line-height: 9px; 
+        letter-spacing: -0.11px;
+    }
+    .homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .things-card-layout .things-card-tag::after{
+        width: 4px;
+        height: 4px;
+        top: -4px;
+
+    }
+    .homepage-revamp-blog-cards .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont a::after{
+        width: 10px;
+        height: 10px;
+    }
+    .homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .slick-dots{
+        height: 4px;
+        margin: 10px auto 20px;
+    }
+    .homepage-revamp-blog-cards .blog-cards-content-wrap .TK-slider-card .slick-dots li{
+        height: 4px;
+    }
+}
+
+
+.ulip-blogcarousalstatic .section-title .d-flex{
+    justify-content: center;
+}
+.ulip-blogcarousalstatic .section-title .d-flex .blog_card-heading{
+    background: linear-gradient(90deg, #0073BB 0%, #D62049 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.32px;
+}
+.ulip-blogcarousalstatic .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont .blog-car-static-anly-linkpos{
+    font-size: 18px !important;
+    min-height: 65px;
+}
+@media screen and (max-width:768px){
+    .ulip-blogcarousalstatic .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont .blog-car-static-anly-linkpos{
+        font-size: 14px !important;
+        line-height: normal;
+        letter-spacing: -0.14px;        
+    }
+    .ulip-blogcarousalstatic .section-title .d-flex .blog_card-heading{
+        font-size: 20px;
+        letter-spacing: -0.2px;
+    }
+    .blog-corouselstatic .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap.slider-wrap-card-minheight {
+        min-height: 250px;
+    }
+    .card-height-alignment .things-know-sct .things-toknow-wrap .things-toknow-rhs .TK-slider-card .things-card-layout .slider-temp-wrap .slider-cont .blog-car-static-anly-linkpos{
+        min-height: 60px;
+        margin-bottom: unset;
+}
+}

@@ -1,0 +1,28 @@
+.quick-access-cards .cmp-container .proxyteaser .cmp-teaser{display:flex;justify-content:center;align-items:center;flex-direction:column;row-gap:16px}
+.quick-access-cards .leadproxytext>.cmp-text{text-align:center;margin-bottom:24px}
+.quick-access-cards .cmp-container .proxyteaser{border-radius:16px;border:2px solid #e0eef7;background:#FFF;box-shadow:1px 1px 12px 4.297px #f2f3f4;padding:24px;max-width:180px;width:100%}
+.quick-access-cards .cmp-container .proxyteaser:hover{border-radius:16px;border:2px solid #0073bb;background:#FFF;box-shadow:1px 1px 12px 4.297px #f2f3f4}
+.quick-access-cards>.cmp-container>.container>.cmp-container{display:flex;justify-content:center;column-gap:24px}
+.quick-access-cards .cmp-teaser__image-heading-wrap .cmp-teaser__image img{width:54px;height:54px}
+.quick-access-cards .cmp-teaser__content .cmp-teaser__description{padding:0 12px}
+.quick-access-cards .cmp-teaser__content .cmp-teaser__description p,.quick-access-cards .cmp-teaser__content .cmp-teaser__description h1,.quick-access-cards .cmp-teaser__content .cmp-teaser__description h2,.quick-access-cards .cmp-teaser__content .cmp-teaser__description h3,.quick-access-cards .cmp-teaser__content .cmp-teaser__description h4,.quick-access-cards .cmp-teaser__content .cmp-teaser__description h5,.quick-access-cards .cmp-teaser__content .cmp-teaser__description h6{text-align:center;color:#333;font-family:"HelveticaNeueLTStd-Bd";font-size:1rem;line-height:120%;letter-spacing:-0.16px}
+.quick-access-cards .teaserv2:last-child .cmp-teaser .cmp-teaser__link .cmp-teaser__content .cmp-teaser__description p,.quick-access-cards .teaserv2:last-child .cmp-teaser .cmp-teaser__link .cmp-teaser__content .cmp-teaser__description h1,.quick-access-cards .teaserv2:last-child .cmp-teaser .cmp-teaser__link .cmp-teaser__content .cmp-teaser__description h2,.quick-access-cards .teaserv2:last-child .cmp-teaser .cmp-teaser__link .cmp-teaser__content .cmp-teaser__description h3,.quick-access-cards .teaserv2:last-child .cmp-teaser .cmp-teaser__link .cmp-teaser__content .cmp-teaser__description h4,.quick-access-cards .teaserv2:last-child .cmp-teaser .cmp-teaser__link .cmp-teaser__content .cmp-teaser__description h5,.quick-access-cards .teaserv2:last-child .cmp-teaser .cmp-teaser__link .cmp-teaser__content .cmp-teaser__description h6{background:var(--Primary-Gradient,linear-gradient(90deg,#0073bb 0,#d62049 100%));background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.quick-access-cards>.cmp-container>.container>.cmp-container>.teaserv2.teaser:hover{background:linear-gradient(89deg,#0073bb 1.58%,#d62049 79.42%);border-radius:16px;box-shadow:1px 1px 12px 4.297px #f2f3f4}
+.quick-access-cards>.cmp-container>.container>.cmp-container>.teaserv2.teaser{padding:2px;border-radius:16px;max-width:180px;border-radius:16px;border:1px solid #e0eef7;background:#FFF;box-shadow:1px 1px 12px 4.297px #f2f3f4;width:100%}
+.quick-access-cards>.cmp-container>.container .cmp-container>.teaserv2.teaser>.cmp-teaser{background:#fff;height:100%;border-radius:13px}
+.quick-access-cards>.cmp-container>.container .cmp-container>.teaserv2.teaser>.cmp-teaser{height:100%;display:flex;align-items:center;flex-direction:column-reverse;justify-content:space-evenly}
+.quick-access-cards>.cmp-container>.container .cmp-container>.teaserv2.teaser>.cmp-teaser>.cmp-teaser__link{height:100%;row-gap:16px;padding:24px;display:flex;align-items:center;flex-direction:column-reverse;justify-content:space-evenly}
+.quick-access-cards>.cmp-container>.container .cmp-container>.teaserv2.teaser>.cmp-teaser>.cmp-teaser__link>.cmp-teaser__image img{height:54px;width:54px}
+.quick-access-cards .gradient-text{font-family:"inter";font-size:28px;line-height:normal}
+@media screen and (max-width:767px){.quick-access-cards>.cmp-container>.container .cmp-container>.teaserv2.teaser>.cmp-teaser{padding:12px}
+.quick-access-cards .gradient-text{font-size:20px}
+.quick-access-cards .cmp-container .proxyteaser{padding:12px;max-width:156px;width:100%}
+.quick-access-cards>.cmp-container>.container>.cmp-container{flex-wrap:wrap;row-gap:16px;column-gap:16px}
+.quick-access-cards .cmp-teaser__content .cmp-teaser__description p,.quick-access-cards .cmp-teaser__content .cmp-teaser__description h1,.quick-access-cards .cmp-teaser__content .cmp-teaser__description h2,.quick-access-cards .cmp-teaser__content .cmp-teaser__description h3,.quick-access-cards .cmp-teaser__content .cmp-teaser__description h4,.quick-access-cards .cmp-teaser__content .cmp-teaser__description h5,.quick-access-cards .cmp-teaser__content .cmp-teaser__description h6{font-size:.875rem}
+.quick-access-cards .cmp-container .proxyteaser .cmp-teaser{row-gap:8px}
+.quick-access-cards .cmp-teaser__image-heading-wrap .cmp-teaser__image img{height:30px;width:30px}
+.quick-access-cards>.cmp-container>.container{padding:0}
+.quick-access-cards>.cmp-container>.container>.cmp-container>.teaserv2.teaser{max-width:160px;width:100%}
+.quick-access-cards>.cmp-container>.container .cmp-container>.teaserv2.teaser>.cmp-teaser>.cmp-teaser__link{padding:unset;row-gap:8px}
+.quick-access-cards>.cmp-container>.container .cmp-container>.teaserv2.teaser>.cmp-teaser>.cmp-teaser__link>.cmp-teaser__image img{height:32px;width:32px;padding:unset}
+}

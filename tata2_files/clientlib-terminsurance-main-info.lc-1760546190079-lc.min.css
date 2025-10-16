@@ -1,0 +1,28 @@
+.term-insurance-main-info .cmp-text .lead{color:#333;font-family:'HelveticaNeueLTStd-Bd';font-size:36px;font-weight:700;letter-spacing:-0.36px;padding-bottom:10px;display:block}
+.maininfo-text .cmp-text p{color:#333;font-family:Inter;font-size:16px;font-weight:400;line-height:24px;letter-spacing:-0.16px}
+.maininfo-text .cmp-text .sub-Text{color:#333;font-family:'Inter';font-size:16px;font-weight:400;line-height:24px;letter-spacing:-0.16px}
+.term-insurance-maininfo-container .proxybutton .cmp-button{background-color:transparent;padding:unset}
+.term-insurance-maininfo-container .proxybutton .cmp-button .cmp-button__text{color:#0073bb;font-family:'helveticaregular';font-size:16px;font-weight:400;line-height:24px;letter-spacing:-0.16px}
+.term-insurance-maininfo-container .proxybutton{width:fit-content}
+.term-insurance-maininfo-container .proxybutton .cmp-button{cursor:pointer}
+.term-insurance-maininfo-container .maininfo-text .cmp-text .sub-Text{display:none}
+.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h1,.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h2,.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h3,.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h4,.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h5,.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h6{color:#333;font-family:'Inter';font-size:2.25rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.36px;padding-bottom:10px}
+.term-info-container .maininfo-text .cmp-text p .readmore{color:#0073bb;font-family:Inter;font-size:1rem;font-style:normal;font-weight:700;line-height:150%;letter-spacing:-0.16px;cursor:pointer}
+.term-info-container .maininfo-text .cmp-text p .readless{color:#0073bb;font-family:Inter;font-size:1rem;font-style:normal;font-weight:700;line-height:150%;letter-spacing:-0.16px;cursor:pointer}
+.term-info-container .maininfo-text.mobilemaininfo-text{display:none}
+.term-info-container .term-insurance-main-info .cmp-text h1,.term-info-container .term-insurance-main-info .cmp-text h2,.term-info-container .term-insurance-main-info .cmp-text h3,.term-info-container .term-insurance-main-info .cmp-text h4,.term-info-container .term-insurance-main-info .cmp-text h5,.term-info-container .term-insurance-main-info .cmp-text h6{padding-bottom:unset}
+.newhomepage_readmore_readless.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h1 .gradient-text,.newhomepage_readmore_readless.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h2 .gradient-text,.newhomepage_readmore_readless.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h3 .gradient-text,.newhomepage_readmore_readless.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h4 .gradient-text,.newhomepage_readmore_readless.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h5 .gradient-text,.newhomepage_readmore_readless.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h6 .gradient-text{font-size:1.75rem}
+.term-info-container .maininfo-text .cmp-text p .readmore .eclipse-dots{color:#333;font-weight:400}
+@media screen and (max-width:767px){.term-insurance-main-info .cmp-text .lead{font-size:24px;letter-spacing:-0.24px}
+.maininfo-text .cmp-text p{font-size:14px;line-height:19.6px;letter-spacing:-0.14px}
+.term-insurance-maininfo-container .proxybutton .cmp-button .cmp-button__text{font-size:14px;line-height:19.6px;letter-spacing:-0.14px}
+.maininfo-text .cmp-text .sub-Text{font-size:14px;line-height:19.6px;letter-spacing:-0.14px}
+.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h1,.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h2,.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h3,.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h4,.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h5,.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h6{font-size:1.5rem;letter-spacing:-0.24px}
+.term-info-container .maininfo-text.mobilemaininfo-text{display:block}
+.term-info-container .maininfo-text.desktopmaininfo-text{display:none}
+.term-info-container .maininfo-text .cmp-text p .readmore{font-size:.875rem;font-weight:600;line-height:21px;letter-spacing:-0.14px}
+.term-info-container .maininfo-text .cmp-text p .readless{font-size:.875rem;font-weight:600;line-height:21px;letter-spacing:-0.14px}
+.term-info-container .term-insurance-main-info .cmp-text h1,.term-info-container .term-insurance-main-info .cmp-text h2,.term-info-container .term-insurance-main-info .cmp-text h3,.term-info-container .term-insurance-main-info .cmp-text h4,.term-info-container .term-insurance-main-info .cmp-text h5,.term-info-container .term-insurance-main-info .cmp-text h6{padding-bottom:5px}
+.term-info-container .maininfo-text .cmp-text p{line-height:21px}
+.newhomepage_readmore_readless.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h1 .gradient-text,.newhomepage_readmore_readless.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h2 .gradient-text,.newhomepage_readmore_readless.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h3 .gradient-text,.newhomepage_readmore_readless.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h4 .gradient-text,.newhomepage_readmore_readless.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h5 .gradient-text,.newhomepage_readmore_readless.term-insurance-maininfo-container .term-insurance-main-info .cmp-text h6 .gradient-text{font-size:1.25rem}
+}

@@ -1,0 +1,19 @@
+.calc-left-desk-text{padding-right:24px}
+.calc-left-desk-text .cmp-text h1,.calc-left-desk-text .cmp-text h2,.calc-left-desk-text .cmp-text h3,.calc-left-desk-text .cmp-text h4,.calc-left-desk-text .cmp-text h5,.calc-left-desk-text .cmp-text h6{font-family:'Inter';font-size:1.5rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.24px;color:var(--neutral-black)}
+.calc-left-desk-text .cmp-text p{color:var(--neutral-black);font-family:'Inter';font-size:1rem;font-style:normal;font-weight:400;line-height:24px;letter-spacing:-0.16px;margin-top:8px}
+.calc-left-mob-text,.readm-readl-btn.proxybutton .cmp-button{display:none}
+@media screen and (max-width:768px){.calc-left-desk-text{display:none}
+.calc-left-mob-text{display:block}
+.calc-left-mob-text .cmp-text h1,.calc-left-mob-text .cmp-text h2,.calc-left-mob-text .cmp-text h3,.calc-left-mob-text .cmp-text h4,.calc-left-mob-text .cmp-text h5,.calc-left-mob-text .cmp-text h6{font-size:1.25rem;letter-spacing:-0.2px;text-align:center;font-family:'Inter';font-style:normal;font-weight:700;line-height:normal;color:var(--neutral-black)}
+.calc-left-mob-text .cmp-text p,.readm-readl-btn.proxybutton .cmp-button .cmp-button__text,.calc-left-mob-text .cmp-text p .readmoretxt,.calc-left-mob-text .cmp-text p .readlesstxt{font-family:'Inter';font-weight:400;font-size:.875rem;line-height:21px;letter-spacing:-0.14px;font-style:normal}
+.calc-left-mob-text .cmp-text p{color:var(--neutral-black);margin-top:12px}
+.readm-readl-btn.proxybutton .cmp-button .cmp-button__text,.calc-left-mob-text .cmp-text p .readmoretxt,.calc-left-mob-text .cmp-text p .readlesstxt{color:var(--primary-blue);cursor:pointer}
+.calc-left-mob-text .cmp-text p .sub-Text{display:none}
+.calc-left-mob-text.active .cmp-text .sub-Text{display:block}
+.calc-left-mob-text.active .cmp-text .eclipse-dots{display:none}
+.calc-left-mob-text .cmp-text p .sub-Text br{margin-top:12px;display:block}
+.readm-readl-btn.proxybutton .cmp-button{padding:unset;background-color:transparent;display:block}
+.calc-left-mob-text .cmp-text p .sub-Text{display:none}
+.calc-left-mob-text.show-sub-text .cmp-text p .eclipse-dots,.calc-left-mob-text.show-sub-text .cmp-text p .readmoretxt{display:none}
+.calc-left-mob-text.show-sub-text .cmp-text p .sub-Text{display:inline}
+}

@@ -1,0 +1,28 @@
+.term-plan-cards .cmp-container>.container>.cmp-container{display:flex;justify-content:center;align-items:center;column-gap:24px}
+.term-plan-cards.newhp-heading-style>.cmp-container .cmp-text h2{font-family:Inter;font-size:28px;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.28px}
+.term-plan-cards .cmp-container .proxyteaser{position:relative}
+.term-plan-cards .leadproxytext .cmp-text>p{font-size:1.125rem;font-family:"Inter";line-height:150%;letter-spacing:-0.18px;color:#000}
+.term-plan-cards .leadproxytext .cmp-text{text-align:center;margin-bottom:24px}
+.term-plan-cards .cmp-teaser__content{position:absolute;bottom:-17%;right:0;max-width:264px;width:100%}
+.term-plan-cards .cmp-teaser__content .cmp-teaser__description p img,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h1 img,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h2 img,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h3 img,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h4 img,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h5 img,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h6 img{height:28px;width:28px}
+.term-plan-cards .cmp-teaser__content .cmp-teaser__description p a,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h1 a,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h2 a,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h3 a,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h4 a,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h5 a,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h6 a{font-family:"Inter";color:#333;display:flex;gap:8px;padding:16px;font-weight:600;line-height:20px;letter-spacing:-0.16px;font-size:1rem;align-items:center;justify-content:end;width:100%}
+.term-plan-cards .cmp-teaser__content .cmp-teaser__description{border-radius:16px 0 16px 16px;background:#FFF;box-shadow:0 0 16px 0 rgba(0,0,0,0.25)}
+.term-plan-cards .cmp-teaser__image-heading-wrap .cmp-teaser__image img{border-radius:16px;width:284px;background-position:100%;background-repeat:no-repeat;object-fit:fill;height:160px}
+.term-plan-cards .cmp-teaser__content .cmp-teaser__description p,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h1,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h2,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h3,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h4,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h5,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h6{display:flex;width:100%}
+@media screen and (max-width:767px){.term-plan-cards>.cmp-container{margin-bottom:20px}
+.container.term-plan-cards{padding:0}
+.term-plan-cards .gradient-text{font-size:20px}
+.term-plan-cards .cmp-teaser__image-heading-wrap .cmp-teaser__image img{border-radius:12px;height:110px}
+.term-plan-cards .cmp-teaser__content .cmp-teaser__description p a,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h1 a,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h2 a,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h3 a,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h4 a,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h5 a,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h6 a{font-size:12px;gap:8px;line-height:normal;letter-spacing:-0.12px;padding:12px}
+.term-plan-cards .cmp-teaser__content .cmp-teaser__description p img,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h1 img,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h2 img,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h3 img,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h4 img,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h5 img,.term-plan-cards .cmp-teaser__content .cmp-teaser__description h6 img{width:20px;height:20px}
+.term-plan-cards .cmp-teaser__content{max-width:173px;bottom:18%;width:100%}
+.term-plan-cards .cmp-container .proxyteaser{width:100%;max-width:184px}
+.term-plan-cards .cmp-container>.container>.cmp-container{display:-webkit-inline-box;overflow-y:hidden;padding-bottom:32px}
+.term-plan-cards .leadproxytext .cmp-text>p{font-size:.875rem;color:#0b304b}
+.term-plan-cards .leadproxytext .cmp-text{margin-bottom:20px}
+.term-plan-cards .cmp-teaser__content{bottom:-10%}
+.term-plan-cards>.cmp-container>.container>.cmp-container::-webkit-scrollbar{height:4px}
+.term-plan-cards>.cmp-container>.container>.cmp-container::-webkit-scrollbar-track{background-color:#e6e7e8;height:4px;border-radius:8px;margin:0 80px}
+.term-plan-cards>.cmp-container>.container .cmp-container::-webkit-scrollbar-thumb{max-width:20px;border-radius:8px;height:4px;background-color:#58595b}
+.term-plan-cards.newhp-heading-style>.cmp-container .cmp-text h2{font-size:20px}
+}

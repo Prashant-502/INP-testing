@@ -1,0 +1,30 @@
+.quiz-test-cards{background:#f2f7fb}
+.quiz-test-cards.newhp-heading-style>.cmp-container .cmp-text h2{font-family:Inter;font-size:28px;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.28px}
+.container.quiz-test-cards{max-width:unset;padding:unset}
+.quiz-test-cards .cmp-container .leadproxytext .cmp-text{display:flex;flex-direction:column;text-align:center;margin-bottom:24px}
+.quiz-test-cards>.cmp-container>.container>.cmp-container{display:flex;align-items:center;column-gap:24px;justify-content:center;padding-bottom:48px}
+.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description p:nth-child(1),.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h1:nth-child(1),.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h2:nth-child(1),.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h3:nth-child(1),.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h4:nth-child(1),.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h5:nth-child(1),.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h6:nth-child(1){font-family:'helveticaregular';font-size:1.125rem;line-height:normal;color:#333;letter-spacing:.01px}
+.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description p:nth-child(1) span,.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h1:nth-child(1) span,.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h2:nth-child(1) span,.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h3:nth-child(1) span,.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h4:nth-child(1) span,.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h5:nth-child(1) span,.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h6:nth-child(1) span{font-family:"HelveticaNeueLTStd-Bd"}
+.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description p a{padding:12px;display:flex;font-family:"HelveticaNeueLTStd-Bd";color:#d62049;column-gap:8px;align-items:center;justify-content:center}
+.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description p:nth-child(2){max-width:211px;width:100%;border-radius:8px;border:1px solid #d62049;color:#d62049;font-family:"HelveticaNeueLTStd-Bd";font-size:.875rem;line-height:normal;letter-spacing:-0.14px}
+.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description{display:flex;flex-direction:column;row-gap:8px}
+.quiz-test-cards .cmp-teaser .cmp-teaser__content{border-radius:16px 0 16px 16px;background:#FFF;box-shadow:0 0 15px 0 rgba(51,51,51,0.15);padding:16px;max-width:421px;width:100%;position:absolute;bottom:-26%;right:0}
+.quiz-test-cards .cmp-container .leadproxytext .cmp-text p{color:#333;text-align:center;font-family:'helveticaregular';font-size:1.125rem;line-height:150%;letter-spacing:-0.18px}
+.quiz-test-cards .container .cmp-container .proxyteaser{position:relative}
+.quiz-test-cards .cmp-teaser__image-heading-wrap .cmp-teaser__image img{border-radius:16px;height:190px;width:454px;background-position:100%;object-fit:contain;background-repeat:no-repeat}
+.quiz-test-cards .teaser .cmp-teaser .cmp-teaser__content .cmp-teaser__description p a img{height:16px;width:16px}
+.quiz-test-cards>.cmp-container{padding-bottom:32px}
+@media screen and (max-width:767px){.quiz-test-cards .cmp-teaser__image-heading-wrap .cmp-teaser__image img{width:350px;height:146px;border-radius:16px;object-fit:contain;background-position:100%;background-repeat:no-repeat}
+.quiz-test-cards .gradient-text{font-size:20px}
+.quiz-test-cards>.cmp-container>.container>.cmp-container{flex-direction:column;row-gap:16px;min-height:414px;justify-content:space-between}
+.quiz-test-cards .cmp-teaser .cmp-teaser__content{padding:12px;border-radius:12px 0 12px 12px;max-width:305px;width:100%;bottom:-48px}
+.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description p:nth-child(1),.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h1:nth-child(1),.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h2:nth-child(1),.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h3:nth-child(1),.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h4:nth-child(1),.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h5:nth-child(1),.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description h6:nth-child(1){font-size:.875rem}
+.quiz-test-cards .cmp-container .container{padding:0}
+.quiz-test-cards .cmp-container .leadproxytext .cmp-text p{font-size:.875rem}
+.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description p a{padding:8px 16px;column-gap:4px}
+.quiz-test-cards .cmp-teaser .cmp-teaser__content .cmp-teaser__description p:nth-child(2){max-width:172px;width:100%;font-size:.75rem}
+.quiz-test-cards .teaser .cmp-teaser .cmp-teaser__content .cmp-teaser__description p a img{height:10px;width:10px}
+.container.quiz-test-cards{padding:0 20px}
+.quiz-test-cards>.cmp-container{padding-bottom:20px}
+.quiz-test-cards.newhp-heading-style>.cmp-container .cmp-text h2{font-size:20px}
+}

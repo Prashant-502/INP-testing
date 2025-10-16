@@ -1,0 +1,77 @@
+.breadcrumb-sct {
+  margin-top: 33px;
+}
+
+.breadcrumb-sct ul li {
+  color: #58595b;
+  line-height: 1;
+  letter-spacing: -0.39px;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 14px;
+  position: relative;
+  padding-left: 1px;
+}
+
+.breadcrumb-sct ul li a {
+  color: #58595b;
+  font-family: Inter;
+}
+
+.breadcrumb-sct ul .breadcrumb-right-chevron {
+  position: relative;
+  padding-right: 15px;
+}
+
+.breadcrumb-sct ul .breadcrumb-right-chevron {
+  display: inline-flex;
+  background-image: url(../../../../../content/dam/tataaia/chevron-right-gray.png);
+  width: 8px;
+  height: 10px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  transform: rotate(360deg);
+}
+.rm-mr-top{
+  margin-top: 0px;
+}
+@media screen and (max-width: 767px) {
+    .breadcrumb-sct {
+        margin-top: 0px;
+    }
+    .breadcrumb-sct ul li{
+      font-size: 12px;
+      line-height: 1.2;
+      font-family: Inter;
+    } 
+.add-mr-bottom{
+  margin-bottom: 5px;
+}
+}
+
+.terminsurance-breadcrum .breadcrumb-sct ul li{
+  color: #A7A9AC;
+  font-family: Inter;
+  font-size: 0.75rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.12px;
+  display: flex;
+  align-items: center;
+}
+.terminsurance-breadcrum .breadcrumb-sct ul li a{
+  color: #A7A9AC;
+  font-family: Inter;
+  font-size: 0.75rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.12px;
+}
+.terminsurance-breadcrum .breadcrumb-sct ul .breadcrumb-right-chevron{
+  background-image: url(../../../../../content/dam/tataaia/arrow-grey.png);
+  width: 10px;
+  height: 10px;
+}

@@ -1,0 +1,25 @@
+.term-insurance-hightlights .leadproxytext .cmp-text .lead{color:#333;font-family:'Inter';font-size:20px;font-weight:700;letter-spacing:-0.2px}
+.term-insurance-hightlights .leadproxytext .cmp-text .sub-Text{color:#333;font-family:'Inter';font-size:16px;font-weight:400;line-height:24px;letter-spacing:-0.16px;padding-bottom:20px;display:block}
+.term-insurance-hightlights .leadproxytext .cmp-text .subblack-Text{color:#333;font-family:'Inter';font-size:18px;font-weight:400;line-height:27px;letter-spacing:-0.18px}
+.term-insurance-hightlights .leadproxytext .cmp-text .subblack-Text a{color:#0073bb;font-family:'Inter';font-size:18px;font-weight:400;letter-spacing:-0.18px;text-decoration-line:underline}
+.term-insurance-hightlights .leadproxytext .cmp-text ul li{list-style:disc;color:#333;font-family:'Inter';font-size:18px;font-weight:400;line-height:normal;letter-spacing:-0.18px;padding-bottom:15px;margin-left:10px}
+.term-insurance-hightlights .leadproxytext .cmp-text ul{margin-left:18px}
+.term-insurance-hightlights .highlight-with-bg .cmp-text{padding:20px 40px;border-radius:20px;background:#f2f7fb}
+.term-insurance-hightlights .highlight-with-bg .cmp-text ul li{color:#333;font-family:'Inter';font-size:18px;font-weight:400;line-height:27px;letter-spacing:-0.18px}
+.insurance-hightlights-header-tag .leadproxytext .cmp-text ul li h1,.insurance-hightlights-header-tag .leadproxytext .cmp-text ul li h2,.insurance-hightlights-header-tag .leadproxytext .cmp-text ul li h3,.insurance-hightlights-header-tag .leadproxytext .cmp-text ul li h4,.insurance-hightlights-header-tag .leadproxytext .cmp-text ul li h5,.insurance-hightlights-header-tag .leadproxytext .cmp-text ul li h6{color:#333;font-family:'Inter';font-size:1.125rem;font-weight:700;line-height:normal;letter-spacing:-0.18px;display:inline}
+.insurance-works-header-tag .leadproxytext .cmp-text ul{margin-left:unset;margin-top:20px}
+.insurance-works-header-tag .leadproxytext .cmp-text ul li{padding-bottom:20px}
+.insurance-works-header-tag .leadproxytext .cmp-text ul li h1,.insurance-works-header-tag .leadproxytext .cmp-text ul li h2,.insurance-works-header-tag .leadproxytext .cmp-text ul li h3,.insurance-works-header-tag .leadproxytext .cmp-text ul li h4,.insurance-works-header-tag .leadproxytext .cmp-text ul li h5,.insurance-works-header-tag .leadproxytext .cmp-text ul li h6{color:#333;font-family:'Inter';font-size:1.25rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.2px;list-style:disc;padding-bottom:2px}
+.insurance-works-header-tag .leadproxytext .cmp-text ul li>p{font-family:'Inter';color:#333;font-size:1rem;font-style:normal;font-weight:400;line-height:24px;letter-spacing:-0.16px}
+@media screen and (max-width:767px){.term-insurance-hightlights .leadproxytext .cmp-text .lead{letter-spacing:-0.18px;font-size:18px}
+.term-insurance-hightlights .leadproxytext .cmp-text .sub-Text{line-height:19.6px;letter-spacing:-0.14px;font-size:14px;padding-bottom:10px}
+.term-insurance-hightlights .leadproxytext .cmp-text .subblack-Text{line-height:22.4px;letter-spacing:-0.16px;font-size:16px}
+.term-insurance-hightlights .leadproxytext .cmp-text ul li{line-height:19.2px;letter-spacing:-0.16px;font-size:16px}
+.term-insurance-hightlights .highlight-with-bg .cmp-text{padding:20px}
+.term-insurance-hightlights .highlight-with-bg .cmp-text ul li{font-size:14px;line-height:21px;letter-spacing:-0.14px}
+.term-insurance-hightlights .leadproxytext .cmp-text .subblack-Text a{font-size:16px;letter-spacing:-0.16px}
+.insurance-hightlights-header-tag .leadproxytext .cmp-text ul li h1,.insurance-hightlights-header-tag .leadproxytext .cmp-text ul li h2,.insurance-hightlights-header-tag .leadproxytext .cmp-text ul li h3,.insurance-hightlights-header-tag .leadproxytext .cmp-text ul li h4,.insurance-hightlights-header-tag .leadproxytext .cmp-text ul li h5,.insurance-hightlights-header-tag .leadproxytext .cmp-text ul li h6{letter-spacing:-0.16px;font-size:16px}
+.insurance-works-header-tag .leadproxytext .cmp-text ul li{padding-bottom:10px}
+.insurance-works-header-tag .leadproxytext .cmp-text ul li h1,.insurance-works-header-tag .leadproxytext .cmp-text ul li h2,.insurance-works-header-tag .leadproxytext .cmp-text ul li h3,.insurance-works-header-tag .leadproxytext .cmp-text ul li h4,.insurance-works-header-tag .leadproxytext .cmp-text ul li h5,.insurance-works-header-tag .leadproxytext .cmp-text ul li h6{font-size:1.125rem;letter-spacing:-0.18px}
+.insurance-works-header-tag .leadproxytext .cmp-text ul li>p{font-size:.875rem;line-height:19px;letter-spacing:-0.14px}
+}

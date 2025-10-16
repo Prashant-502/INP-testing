@@ -1,0 +1,56 @@
+.new-header_nav {
+  display: flex;
+  align-items: center;
+}
+
+.main-header-click .experiencefragment {
+  position: absolute;
+  z-index: 100;
+  top: 60px;
+  left: 10%;
+}
+
+.New-header-sub_menu_sec span.roundedtitle {
+  border-radius: 20px;
+  border: 1.5px solid #D62049;
+  background: #FFF;
+  color: #D62049;
+  text-align: center;
+  font-family: 'Inter';
+  font-size: 0.5rem;
+  font-weight: 700;
+  line-height: 3;
+  text-transform: uppercase;
+  padding: 4px 8px;
+}
+
+@media screen and (max-width:768px) {
+  .new-header_nav {
+    display: none;
+  }
+}
+
+.container.nav-submenu-right_width {
+  width: 1000px;
+}
+
+.main-header-click.active .main-nav-teaser .cmp-teaser__content {
+  position: relative;
+}
+
+.main-header-click.active .main-nav-teaser .cmp-teaser__content::after {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  bottom: -5px;
+  z-index: 1000;
+  background-image: url("../../../../../content/dam/tataaialifeinsurancecompanylimited/navigations/new-navigation-icon/navigation-menu-pointer.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 25px;
+  width: 25px;
+}

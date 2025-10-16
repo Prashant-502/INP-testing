@@ -1,0 +1,137 @@
+.tr-border-top .tableResp table{border:0}
+.ta-fq-sec-w{padding:60px 0}
+.ta-fq-head{margin-bottom:30px}
+.ta-fq-head .ta-heading--lg{width:100%}
+.ta-fq-content-ul{margin-bottom:60px}
+.acc-spacing .ta-fq-section .ta-fq-content-ul{margin-bottom:0}
+.ta-fq-content-li{background:#fff;border-radius:20px;box-shadow:3px 6px 14px 0 rgba(0,115,187,0.1);background:#fff;margin-bottom:16px}
+.ta-fq-content-li:last-child{margin-bottom:0}
+.faq-accordian .ta-fq-content-li:last-child{margin-bottom:20px}
+.lastchild-mrbottom .ta-fq-section .ta-fq-content-li:last-child{margin-bottom:0}
+.txt-center{text-align:center}
+.faq-section .ec-text-center .ta-km-cta{cursor:pointer;display:inline-block;text-decoration:underline;font-family:"HelveticaNeueLTStd-Md",sans-serif;color:#0073bb;font-size:24px;letter-spacing:-1px}
+.ta-fq-content-li.active .ta-sp-down-arr{transform:rotate(-135deg);top:39px}
+.ta-fq-content-q{padding:30px 56px 30px 30px;position:relative;cursor:pointer;display:block}
+.ta-sp-down-arr{border:solid #58595b;border-width:0 2px 2px 0;display:inline-block;padding:5px;box-sizing:border-box;transform:rotate(45deg);position:absolute;top:32px;right:44px;transition:transform .3s linear}
+.ta-fq-content-qtext{display:block;font-family:"helveticaregular";font-size:20px;line-height:24px;color:#58595b}
+.faq-accordian .ta-fq-content-qtext{font-size:20px;color:#333;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.2px;font-family:"Inter"}
+.ta-fq-content-qtext p{display:block;font-family:"helveticaregular";font-size:20px;line-height:24px;color:#58595b}
+.ta-fq-ans-m{padding:0 56px 30px 30px}
+.ta-fq-ans-w{display:none}
+.ta-fq-ans-w ul li{margin-left:25px;margin-bottom:10px;list-style:disc;font-family:"Inter";font-size:14px;font-weight:300;font-stretch:normal;font-style:normal;line-height:normal;letter-spacing:-0.16px;color:#333}
+.ta-fq-ans-w ul li::marker{color:#4197d3}
+.ta-fq-section .ta-fq-head .ta-heading h2{font-size:36px;line-height:35px}
+.ta-para p{line-height:21px}
+.ta-para ol li{list-style:decimal}
+.faqsectiontabs .ta-tab-content{margin-top:20px}
+.faqsectiontabs .ta-fq-show-m{margin-top:30px}
+.faq-accordian .ta-fq-ans-w .ta-fq-ans-m .tableResp table tr{border-left:2px solid #4197d3}
+.faq-accordian .rm-borderBlue .ta-fq-ans-w .ta-fq-ans-m .tableResp table tr{border-left:solid 1px #e6e7e8}
+.faq-accordian .rm-borderBlue .ta-fq-ans-w td,.about-us-benefit-wrapper td{border:unset;border-top:1px solid #edf4fa;border-left:1px solid #edf4fa;border-right:1px solid #edf4fa}
+.faq-accordian .ta-fq-ans-w.table-td-full-wdth .ta-fq-ans-m .ta-para table tr td{width:auto}
+.faqbluetext{color:#0073bb}
+.faq-accordian .removefaqpadding{padding:0 50px}
+.faq-accordian .ta-fq-content-li .ta-fq-content-q .ta-fq-content-qtext p{margin-left:0}
+.hightlights .faq-accordian .ta-fq-section .ta-fq-content-li .ta-fq-content-q .ta-fq-content-qtext p{font-size:20px}
+.hightlights .faq-accordian .ta-fq-section .ta-fq-content-li .ta-fq-ans-w .ta-para p{margin-left:unset}
+.ta-fq-ans-w .ta-para.liremovemargin ul li{margin-left:0}
+.ta-fq-content-w .ta-fq-ans-w .addbullets::before{content:"\2022";color:#4197d3;font-weight:bold;display:inline-block;width:1.5em}
+.reduce-padding-lr .ta-fq-section .container{padding:0 33px}
+.ta-fq-m .ta-fq-content-li{margin-bottom:20px;border:1.5px solid #ebf4fa;box-shadow:0 8px 16px 0 rgba(0,115,187,0.10)}
+.ta-fq-section .ta-fq-content-li.active .ta-sp-down-arr{top:31px}
+.ta-fq-m .ta-fq-content-q{padding:24px 30px}
+.ta-fq-section .ta-fq-m .ta-sp-down-arr{border:solid #333;border-width:0 2px 2px 0;top:23px}
+.ta-fq-section .ta-fq-content-qtext p,.ta-fq-section .ta-fq-content-qtext h1,.ta-fq-section .ta-fq-content-qtext h2,.ta-fq-section .ta-fq-content-qtext h3,.ta-fq-section .ta-fq-content-qtext h4,.ta-fq-section .ta-fq-content-qtext h5,.ta-fq-section .ta-fq-content-qtext h6{color:#333;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.2px;font-family:"Inter";font-size:1.25rem}
+.ta-fq-section .ta-fq-ans-m{padding:0 30px 20px}
+.ta-para p{font-size:18px;font-family:"helveticaregular";line-height:150%;letter-spacing:-0.126px;color:#333}
+.ta-fq-ans-w ul li{color:#333;font-family:"helveticaregular";font-size:18px;line-height:150%;letter-spacing:-0.126px}
+.popular-searches-section{margin-top:60px}
+.popular-searches-section>.aem-Grid{max-width:1366px;margin:0 auto;padding:0 84px}
+.popular-searches-heading .cmp-text{font-size:36px;font-family:"Inter";font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.36px;color:#333;margin-bottom:20px}
+.popular-searches-btn-sec .aem-Grid{display:flex;flex-wrap:wrap}
+.popular-searches-btns{width:max-content !important;border:1px solid #58595b;padding:7px 12px 6px;margin:0 12px 12px 0;cursor:pointer}
+.popular-searches-btns .cmp-teaser .cmp-teaser__content .cmp-teaser__title{font-size:0;line-height:normal;letter-spacing:normal}
+.popular-searches-btns .cmp-teaser .cmp-teaser__content .cmp-teaser__description p{color:#58595b;font-size:16px;font-style:normal;font-weight:400;font-family:"Inter";line-height:normal;letter-spacing:-0.267px}
+.popular-searches-btns .cmp-teaser .cmp-teaser__content .cmp-teaser__description p a{color:#58595b}
+.faq-accordion-revamp .ta-fq-section .ta-fq-head .ta-heading h1,.faq-accordion-revamp .ta-fq-section .ta-fq-head .ta-heading h2,.faq-accordion-revamp .ta-fq-section .ta-fq-head .ta-heading h3,.faq-accordion-revamp .ta-fq-section .ta-fq-head .ta-heading h4,.faq-accordion-revamp .ta-fq-section .ta-fq-head .ta-heading h5,.faq-accordion-revamp .ta-fq-section .ta-fq-head .ta-heading h6{color:var(--neutral-black);font-family:'Inter';font-size:2.25rem;font-style:normal;font-weight:700;line-height:55px;letter-spacing:-0.4px}
+.faq-accordion-revamp .ta-fq-head{margin-bottom:20px}
+.faq-accordion-revamp .ta-fq-m .ta-fq-content-li{margin-bottom:20px;border:1px solid #ebf4fa;box-shadow:3px 6px 14px 0 rgba(0,115,187,0.10)}
+.faq-accordion-revamp .ta-fq-section .ta-fq-content-qtext p,.faq-accordion-revamp .ta-fq-section .ta-fq-content-qtext h1,.faq-accordion-revamp .ta-fq-section .ta-fq-content-qtext h2,.faq-accordion-revamp .ta-fq-section .ta-fq-content-qtext h3,.faq-accordion-revamp .ta-fq-section .ta-fq-content-qtext h4,.faq-accordion-revamp .ta-fq-section .ta-fq-content-qtext h5,.faq-accordion-revamp .ta-fq-section .ta-fq-content-qtext h6{color:var(--grey-dark);font-family:'Inter';font-size:1.25rem;font-style:normal;font-weight:500;line-height:normal;letter-spacing:-0.2px}
+.faq-accordion-revamp .ta-para p,.faq-accordion-revamp .ta-fq-ans-w ul li{font-family:"Inter";font-weight:400;color:var(--neutral-black)}
+.highlightfirstpoint .ta-fq-section .ta-fq-sec-w .ta-fq-content-w .ta-fq-content-ul .ta-fq-content-li .ta-fq-ans-w .ta-para ul li:first-child p{font-weight:700}
+.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h1,.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h2,.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h3,.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h4,.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h5,.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h6{text-align:center;font-family:Inter;font-size:1.75rem;font-weight:700;line-height:normal;letter-spacing:-0.28px;background:var(--Primary-Gradient,linear-gradient(90deg,#0073bb 22%,#d62049 62%));background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.faq_accordion_redesign .ta-fq-section .ta-heading p{color:var(--neutral-universal-omni-black,#000);font-family:Inter;font-size:1.125rem;font-style:normal;font-weight:400;line-height:150%;letter-spacing:-0.16px}
+.faq_accordion_redesign .ta-fq-section .ta-fq-m .ta-fq-content-li{border-radius:16px;border:2px solid rgba(0,115,187,0.10);background:var(--Secondary-Secondary-Blue-Light,#f2f7fb);box-shadow:unset}
+.faq_accordion_redesign .ta-fq-section .ta-fq-content-li.active{box-shadow:unset}
+.faq_accordion_redesign .ta-fq-section .ta-fq-content-w .ta-para p{color:var(--Secondary-Secondary-New-Black,#333);font-family:Inter;font-size:1rem;font-style:normal;font-weight:400;line-height:150%;letter-spacing:-0.16px}
+.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext p,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h1,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h2,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h3,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h4,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h5,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h6{font-family:Inter}
+.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext p,.ta-fq-section .ta-fq-content-qtext h1,.ta-fq-section .ta-fq-content-qtext h2,.ta-fq-section .ta-fq-content-qtext h3,.ta-fq-section .ta-fq-content-qtext h4,.ta-fq-section .ta-fq-content-qtext h5,.ta-fq-section .ta-fq-content-qtext h6{font-family:Inter}
+.faq_accordion_redesign .ta-fq-m .ta-fq-content-q{padding:24px 30px 12px 30px}
+.faq_accordion_redesign .ta-fq-m .ta-fq-content-li{margin-bottom:16px}
+.tataaiapage .faq_accordion_redesign .ta-fq-ans-w ul li{color:var(--Secondary-Secondary-New-Black,#333);font-family:Inter;font-size:1rem;font-style:normal;font-weight:400;line-height:150%;letter-spacing:-0.16px;margin-bottom:0}
+.ta-fq-section .ta-fq-ans-m .faq-btn-wrapper{margin-top:20px;display:flex;gap:20px;justify-content:flex-start}
+.ta-fq-section .ta-fq-ans-m .faq-btn-wrapper .calc-btn,.ta-fq-section .ta-fq-ans-m .faq-btn-wrapper .know-more-btn{min-width:150px;padding:14px 16px;border-radius:8px;min-height:unset;text-align:center;font-family:'Inter';font-size:1rem;align-content:center}
+.ta-fq-section .ta-fq-ans-m .faq-btn-wrapper .calc-btn{background:#d62049;border:unset;color:white}
+.ta-fq-section .ta-fq-ans-m .faq-btn-wrapper .know-more-btn{color:#d62049;border:1px solid #d62049;background:white}
+@media screen and (max-width:991.99px){.ta-fq-sec-w{padding:30px 0}
+.ta-fq-head{margin-bottom:20px}
+.ta-fq-content-ul{margin-bottom:30px}
+.ta-fq-content-li{margin-bottom:8px}
+.faq-section .ec-text-center .ta-km-cta{font-size:16px;line-height:1.38}
+.ta-fq-content-li.active .ta-sp-down-arr{top:27px}
+.ta-fq-content-q{padding:16px 26px 16px 16px}
+.ta-sp-down-arr{padding:4px;right:19px;top:20px}
+.ta-fq-content-qtext{color:#333;letter-spacing:-0.39px;font-size:14px;line-height:24px}
+.ta-fq-content-qtext p{color:#333;letter-spacing:-0.39px;font-size:14px;line-height:24px}
+.tataaiapage .ta-fq-ans-w ul li{font-family:"Helvetica";font-size:12px;font-weight:300;font-stretch:normal;font-style:normal;line-height:normal;letter-spacing:normal;color:#58595b}
+.ta-fq-m .ta-fq-content-q{padding:15px 20px}
+.ta-fq-content-qtext p{font-family:"HelveticaNeueLTStd-Bd";font-size:16px;line-height:150%;letter-spacing:normal}
+}
+.faq-accordian .beware-border-wh .ta-fq-ans-w td{width:100% !important}
+@media screen and (max-width:768px){.ta-fq-content-w .ta-fq-ans-m .ta-para a{word-wrap:break-word}
+.faq-accordian .ta-fq-ans-w .ta-fq-ans-m li a{word-break:break-word}
+.faq-accordian .ta-fq-ans-w tbody tr,.about-us-benefit-wrapper tbody tr{display:flex;width:100%;max-width:unset;margin-right:0 !important;overflow:hidden !important}
+.faq-accordian .ta-fq-ans-w td,.about-us-benefit-wrapper td{display:flex;flex-direction:column;flex-direction:column;align-items:center;justify-content:center;width:100px;border:1px solid #edf4fa}
+.ta-fq-m-buyOnline{margin-bottom:20px}
+.ta-fq-m-buyOnline::before{content:"";border-top:1px solid #d4d7db;display:block;padding-bottom:40px}
+.ta-fq-ans-w ul li{font-size:14px;line-height:24px}
+.ta-fq-head .ta-heading--lg{width:100%}
+.ta-fq-section .ta-fq-head .ta-heading h2{font-size:30px;line-height:30px}
+.faq-accordian .ta-para p{font-size:14px}
+.faq-accordian .ta-fq-ans-m{padding:unset}
+.ta-fq-section .ta-fq-ans-w{padding:0 20px 15px}
+.faq-accordian .ta-fq-ans-w.table-td-full-wdth .ta-fq-ans-m .ta-para table tr td{width:100px}
+.faq-accordian .ta-fq-ans-w.table-tr-td-align .ta-fq-ans-m .ta-para table tr{display:table-row}
+.faq-accordian .ta-fq-ans-w.table-tr-td-align .ta-fq-ans-m .ta-para table tr td{display:table-cell}
+.faq-accordian .ta-fq-content-qtext{width:90%}
+.faq-accordian .ta-sp-down-arr{right:30px}
+.faq-accordian .removefaqpadding{padding:0}
+.hightlights .faq-accordian .ta-fq-section .ta-fq-content-li .ta-fq-content-q .ta-fq-content-qtext p{font-size:14px}
+.reduce-padding-lr .ta-fq-section .container{padding:0 12px}
+.faq-accordian .ta-para p{letter-spacing:normal}
+.ta-fq-section .ta-fq-m .ta-sp-down-arr{right:25px;top:19px}
+.ta-fq-m .ta-fq-content-li{margin-bottom:10px;border-radius:12px}
+.ta-fq-m .ta-fq-content-q{padding:15px 20px}
+.ta-fq-section .ta-fq-content-qtext p,.ta-fq-section .ta-fq-content-qtext h1,.ta-fq-section .ta-fq-content-qtext h2,.ta-fq-section .ta-fq-content-qtext h3,.ta-fq-section .ta-fq-content-qtext h4,.ta-fq-section .ta-fq-content-qtext h5,.ta-fq-section .ta-fq-content-qtext h6{font-family:"HelveticaNeueLTStd-Bd";font-size:16px;line-height:150%;letter-spacing:normal}
+.ta-fq-section .ta-fq-content-li.active .ta-sp-down-arr{top:25px;right:25px}
+.popular-searches-section{margin-top:40px}
+.popular-searches-heading .cmp-text{font-size:24px;font-weight:800;letter-spacing:-0.625px}
+.popular-searches-section>.aem-Grid{padding:0 20px}
+.faq-accordian .ta-fq-content-qtext{font-family:"HelveticaNeueLTStd-Bd";font-size:16px;line-height:150%;letter-spacing:normal}
+.faq-que-header-tag span.ta-fq-content-qtext h3{font-size:16px}
+.faq-accordion-revamp .ta-fq-section .ta-fq-head .ta-heading h1,.faq-accordion-revamp .ta-fq-section .ta-fq-head .ta-heading h2,.faq-accordion-revamp .ta-fq-section .ta-fq-head .ta-heading h3,.faq-accordion-revamp .ta-fq-section .ta-fq-head .ta-heading h4,.faq-accordion-revamp .ta-fq-section .ta-fq-head .ta-heading h5,.faq-accordion-revamp .ta-fq-section .ta-fq-head .ta-heading h6{font-size:1.625rem;line-height:normal;letter-spacing:-0.26px}
+.faq-accordion-revamp .ta-fq-m .ta-fq-content-li{margin-bottom:15px;border:1.5px solid #ebf4fa;box-shadow:0 8px 16px 0 rgba(0,115,187,0.10)}
+.faq-accordion-revamp .ta-fq-section .ta-fq-content-qtext p,.faq-accordion-revamp .ta-fq-section .ta-fq-content-qtext h1,.faq-accordion-revamp .ta-fq-section .ta-fq-content-qtext h2,.faq-accordion-revamp .ta-fq-section .ta-fq-content-qtext h3,.faq-accordion-revamp .ta-fq-section .ta-fq-content-qtext h4,.faq-accordion-revamp .ta-fq-section .ta-fq-content-qtext h5,.faq-accordion-revamp .ta-fq-section .ta-fq-content-qtext h6{color:var(--neutral-black);font-size:1rem;letter-spacing:-0.16px}
+.tataaiapage .faq-accordion-revamp .ta-fq-ans-w ul li{font-family:"Inter";font-weight:400;color:var(--neutral-black)}
+.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h1,.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h2,.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h3,.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h4,.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h5,.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h6{font-size:1.25rem}
+.faq_accordion_redesign .ta-fq-section .ta-heading p{font-size:.875rem}
+.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h1,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h2,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h3,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h4,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h5,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h6{font-size:1.125rem}
+.faq_accordion_redesign .ta-fq-section .ta-fq-content-w .ta-para p{font-size:.875rem}
+.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h1,.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h2,.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h3,.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h4,.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h5,.faq_accordion_redesign .ta-fq-section .ta-fq-head .ta-heading h6{font-size:1.25rem}
+.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext p,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h1,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h2,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h3,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h4,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h5,.faq_accordion_redesign .ta-fq-section .ta-fq-content-qtext h6{font-size:1.125rem}
+.faq_accordion_redesign .ta-fq-m .ta-fq-content-q{padding:15px 20px 9px 20px}
+.tataaiapage .faq_accordion_redesign .ta-fq-ans-w ul li{font-size:.875rem}
+.ta-fq-section .ta-fq-ans-m .faq-btn-wrapper{gap:10px;justify-content:center}
+.ta-fq-section .ta-fq-ans-m .faq-btn-wrapper .calc-btn,.ta-fq-section .ta-fq-ans-m .faq-btn-wrapper .know-more-btn{min-width:120px;font-size:.875rem;padding:14px 12px}
+}
+.faq-que-header-tag .ta-fq-content-qtext h3{font-size:20px}

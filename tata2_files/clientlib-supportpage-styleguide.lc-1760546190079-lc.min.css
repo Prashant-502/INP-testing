@@ -1,0 +1,52 @@
+.supportpage_styleguide.termplancards-viewmore>.cmp-container{padding:32px 0 20px 0}
+.supportpage_styleguide>.cmp-container .leadproxytext h1,.supportpage_styleguide>.cmp-container .leadproxytext h2,.supportpage_styleguide>.cmp-container .leadproxytext h3,.supportpage_styleguide>.cmp-container .leadproxytext h4,.supportpage_styleguide>.cmp-container .leadproxytext h5,.supportpage_styleguide>.cmp-container .leadproxytext h6{font-size:2rem;font-family:Inter;font-weight:700;line-height:normal;letter-spacing:-0.32px}
+.supportpage_styleguide>.cmp-container .leadproxytext p{color:#333;font-family:Inter;font-size:1rem;font-style:normal;font-weight:400;line-height:150%;letter-spacing:-0.16px}
+.supportpage_styleguide>.cmp-container .leadproxytext p span{font-family:Inter;font-size:1rem;font-style:normal;font-weight:400;line-height:150%;letter-spacing:-0.16px;color:#333;display:block}
+.supportpage_styleguide>.cmp-container .leadproxytext p b{color:#333;font-family:Inter;font-size:1.25rem;font-style:normal;line-height:normal;letter-spacing:-0.2px}
+.supportpage_styleguide>.cmp-container .leadproxytext p b span{color:#333;font-family:Inter;font-size:1.25rem;font-style:normal;line-height:normal;letter-spacing:-0.2px;font-weight:700}
+.supportpage_styleguide>.cmp-container .leadproxytext p a{color:#0073bb;text-decoration:underline;text-underline-position:from-font}
+.supportpage_styleguide>.cmp-container .leadproxytext .cmp-text ul{margin-bottom:24px}
+.supportpage_styleguide>.cmp-container .leadproxytext .gradient-text{background:linear-gradient(90deg,#0073bb 28%,#d62049 72%);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;margin-bottom:20px;display:block}
+.opd-page>.cmp-container .leadproxytext .gradient-text{width:fit-content}
+.supportpage_styleguide>.cmp-container .leadproxytext .cmp-text li{color:var(--Secondary-Secondary-New-Black,#333);font-family:Inter;font-size:1rem;font-style:normal;font-weight:400;line-height:150%;letter-spacing:-0.16px;list-style:disc;margin-left:25px}
+.enhancecoveragecontainer.supportpage_styleguide .enhanceheading .cmp-text .gradient-text{background:linear-gradient(90deg,#0073bb 28%,#d62049 72%);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;width:100%}
+.enhancecoveragecontainer.supportpage_styleguide .enhanceheading{padding-right:0}
+.container.fg-termplan-cards.supportpage_styleguide{background-color:#f2f7fb}
+.container.fg-termplan-cards.supportpage_styleguide .cmp-container .container .cmp-container .proxyteaser{background-color:#FFF}
+.container.fg-termplan-cards.supportpage_styleguide.termplancards-viewmore>.cmp-container>.container:nth-child(2)>.cmp-container{margin-top:0}
+.accordion_styleguide>.cmp-container .accordion-first-section>.cmp-accordion .cmp-accordion__item{border-top:0}
+.supportpage_styleguide .mb-12{margin-bottom:12px}
+.supportpage_styleguide .mb-24{margin-bottom:24px}
+.supportpage_styleguide>.cmp-container .leadproxytext .cmp-text .subtitle_styling{font-family:Inter;font-size:20px;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.2px;margin-bottom:12px;display:inline-block}
+.supportpage_styleguide>.cmp-container .leadproxytext .cmp-text h1 span.subtitle_styling,.supportpage_styleguide>.cmp-container .leadproxytext .cmp-text h2 span.subtitle_styling,.supportpage_styleguide>.cmp-container .leadproxytext .cmp-text h3 span.subtitle_styling,.supportpage_styleguide>.cmp-container .leadproxytext .cmp-text h4 span.subtitle_styling,.supportpage_styleguide>.cmp-container .leadproxytext .cmp-text h5 span.subtitle_styling,.supportpage_styleguide>.cmp-container .leadproxytext .cmp-text h6 span.subtitle_styling{line-height:5px;margin-bottom:unset}
+.supportpage_styleguide>.cmp-container .leadproxytext .cmp-text p span.subtitle_styling{margin-bottom:unset}
+.tte-form-redesign.supportpage_styleguide .leadproxytext h1,.tte-form-redesign.supportpage_styleguide .leadproxytext h2,.tte-form-redesign.supportpage_styleguide .leadproxytext h3,.tte-form-redesign.supportpage_styleguide .leadproxytext h4,.tte-form-redesign.supportpage_styleguide .leadproxytext h5,.tte-form-redesign.supportpage_styleguide .leadproxytext h6{margin-bottom:unset;font-size:2rem;font-family:Inter;font-weight:700;line-height:normal;letter-spacing:-0.32px}
+.accordion_styleguide .accordion-first-section>.cmp-accordion .cmp-accordion__panel .text .cmp-text .faqWrapper .faqSubHeading a{color:#0073bb;font-family:Inter;font-weight:400;text-decoration:underline;text-underline-position:from-font}
+.supportpage_styleguide.tte-form-redesign>.cmp-container .leadproxytext .gradient-text{margin-bottom:unset;font-size:32px;background:linear-gradient(90deg,#0073bb 28%,#d62049 72%);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.supportpage_styleguide.homepage-revamp-blog-cards .leadproxytext .gradient-text{font-size:2rem}
+.cod-content-space .cmp-container .leadproxytext .cmp-text .subtitle_styling{margin-bottom:4px}
+.cod-content-space .cmp-container .leadproxytext .cmp-text p span{margin-bottom:20px}
+.saving-calc-info.supportpage_styleguide>.cmp-container .leadproxytext p span b{font-size:16px;font-weight:600;line-height:normal;letter-spacing:-0.16px}
+@media screen and (max-width:767px){.supportpage_styleguide>.cmp-container .leadproxytext h1,.supportpage_styleguide>.cmp-container .leadproxytext h2,.supportpage_styleguide>.cmp-container .leadproxytext h3,.supportpage_styleguide>.cmp-container .leadproxytext h4,.supportpage_styleguide>.cmp-container .leadproxytext h5,.supportpage_styleguide>.cmp-container .leadproxytext h6{font-size:1.25rem;padding:0;margin-bottom:20px}
+.supportpage_styleguide>.cmp-container .leadproxytext p b{font-size:1.125rem}
+.supportpage_styleguide>.cmp-container .leadproxytext p{font-size:.875rem}
+.supportpage_styleguide>.cmp-container .leadproxytext .cmp-text li{font-size:.875rem}
+.supportpage_styleguide .mb-24{margin-bottom:16px}
+.supportpage_styleguide>.cmp-container .leadproxytext .cmp-text ul{margin-bottom:16px}
+.supportpage_styleguide>.cmp-container .leadproxytext p span{font-size:.875rem}
+.supportpage_styleguide>.cmp-container .leadproxytext h1 span br,.supportpage_styleguide>.cmp-container .leadproxytext h2 span br,.supportpage_styleguide>.cmp-container .leadproxytext h3 span br,.supportpage_styleguide>.cmp-container .leadproxytext h4 span br,.supportpage_styleguide>.cmp-container .leadproxytext h5 span br,.supportpage_styleguide>.cmp-container .leadproxytext h6 span br{display:none}
+.supportpage_styleguide.termplancards-viewmore>.cmp-container .leadproxytext h1 span br,.supportpage_styleguide.termplancards-viewmore>.cmp-container .leadproxytext h2 span br,.supportpage_styleguide.termplancards-viewmore>.cmp-container .leadproxytext h3 span br,.supportpage_styleguide.termplancards-viewmore>.cmp-container .leadproxytext h4 span br,.supportpage_styleguide.termplancards-viewmore>.cmp-container .leadproxytext h5 span br,.supportpage_styleguide.termplancards-viewmore>.cmp-container .leadproxytext h6 span br{display:none}
+.supportpage_styleguide.termplancards-viewmore>.cmp-container{padding:20px 0 20px 0}
+.supportpage_styleguide>.cmp-container .leadproxytext .cmp-text .subtitle_styling{font-size:18px}
+.enhancecoveragecontainer.supportpage_styleguide>.cmp-container .coveragecardcontainer{padding-left:20px}
+.enhancecoveragecontainer.supportpage_styleguide .rider-pagination{margin-bottom:0}
+.supportpage_styleguide>.tte-form-redesign>.cmp-container .leadproxytext h1,.supportpage_styleguide>.tte-form-redesign>.cmp-container .leadproxytext h2,.supportpage_styleguide>.tte-form-redesign>.cmp-container .leadproxytext h3,.supportpage_styleguide>.tte-form-redesign>.cmp-container .leadproxytext h4,.supportpage_styleguide>.tte-form-redesign>.cmp-container .leadproxytext h5,.supportpage_styleguide>.tte-form-redesign>.cmp-container .leadproxytext h6{font-size:1.25rem}
+.supportpage_styleguide.tte-form-redesign>.cmp-container .leadproxytext .gradient-text{font-size:1.25rem}
+.supportpage_styleguide.ta-srp-banner-container.ta-srp-left-banner>.cmp-container{gap:0}
+.supportpage_styleguide.tte-form-redesign>.cmp-container .leadproxytext .cmp-text h4{margin-bottom:0}
+.mob-pb-0{padding-bottom:0}
+.supportpage_styleguide.homepage-revamp-blog-cards .leadproxytext .gradient-text{font-size:1.25rem}
+.supportpage_styleguide>.cmp-container .leadproxytext .gradient-text{margin-bottom:16px}
+.cod-content-space>.cmp-container .leadproxytext .cmp-text p span{margin-bottom:16px}
+.saving-calc-info.supportpage_styleguide>.cmp-container .leadproxytext p span b{font-size:14px;letter-spacing:-0.14px}
+}

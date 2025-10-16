@@ -1,0 +1,48 @@
+.termplan-cards .cmp-container .teaserv2{height:124px;border-radius:20px;box-shadow:0 0 16px 1px rgba(51,51,51,0.15);position:relative}
+.termplan-cards .cmp-teaser__image{width:100%;height:124px;border-radius:20px}
+.termplan-cards .cmp-image{width:100%;height:124px;border-radius:20px}
+.termplan-cards .cmp-image__image{width:100%;height:124px;border-radius:20px}
+.termplan-cards .cq-dd-image{width:100%;height:124px;border-radius:20px}
+.termplan-cards .cmp-teaser__content{position:absolute}
+.termplan-cards .cmp-teaser__content .cmp-teaser__description p{color:#000;font-family:Inter;font-size:1rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.16px;margin:unset}
+.termplan-cards .cmp-teaser__content .cmp-teaser__description p .red_text{color:#d62049;font-family:Inter;font-size:.875rem;font-style:normal;font-weight:700;line-height:normal;margin:31px 0 0 0;display:block}
+.termplan-cards .cmp-teaser__content{width:100%;height:100%}
+.termplan-cards .cmp-teaser__description{top:16px;position:absolute;left:16px;right:16px;text-align:center}
+.termplan-container>.cmp-container{padding:32px 80px}
+.termplan-cards{overflow:hidden}
+.termplan-arrow .extendedimage{width:32px;height:32px;cursor:pointer}
+.termplan-arrow .cmp-container{display:flex;gap:16px;justify-content:end}
+.termplan-container .leadproxytext .cmp-text .gradient-text{background:linear-gradient(90deg,#0073bb 0,#d62049 100%);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;text-align:center;font-family:Inter;font-size:2rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.32px;padding-bottom:32px}
+.termplan-cards .cmp-container{margin-bottom:32px}
+.termplan-pagination{margin:auto;padding:0 !important;height:6px;width:fit-content !important;background:#e6e7e8;border-radius:6px !important;display:flex;justify-content:center;align-items:center;position:relative;top:-15px;bottom:0;margin-top:0}
+.termplan-pagination .cmp-container{width:128px !important;height:6px;background:#e6e7e8;border-radius:6px !important;display:flex;justify-content:center;align-items:center;position:relative;top:0 !important;bottom:0 !important}
+.termplan-pagination .swiper-pagination-bullet{flex-grow:1;height:100%;background-color:#e6e7e8;opacity:1;border-radius:6px !important;margin:0 !important}
+.termplan-pagination .swiper-pagination-bullet-active{background:#58595b}
+.teaserv2:hover{border-radius:18.227px;border:unset;background:linear-gradient(90deg,#0073bb 0,#d62049 100%);box-shadow:0 0 14.581px .911px rgba(51,51,51,0.15);padding:2px}
+.termplan-cards .teaserv2:hover .cmp-teaser__image{height:120px}
+.termplan-cards .teaserv2:hover .cmp-image{height:120px}
+.termplan-cards .teaserv2:hover .cmp-image__image{height:120px}
+.termplan-cards .teaserv2:hover .cq-dd-image{height:120px}
+.termplan-cards{padding:unset;margin:0 62px}
+.termplan-container{padding:unset}
+@media screen and (max-width:767px){.termplan-container>.cmp-container{padding:20px}
+.termplan-container .leadproxytext .cmp-text .gradient-text{text-align:center;font-family:Inter;font-size:1.25rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.2px;padding-bottom:16px}
+.termplan-cards .cmp-container{margin-bottom:26px}
+.termplan-arrow{display:none}
+.termplan-pagination{margin-top:unset;top:0}
+.termplan-pagination .cmp-container{height:4px}
+.termplan-cards .cmp-teaser__content .cmp-teaser__description p{color:#000;text-align:center;font-family:Inter;font-size:.875rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.14px}
+.termplan-cards .cmp-teaser__content .cmp-teaser__description p .red_text{color:#d62049;text-align:center;font-family:Inter;font-size:.813rem;font-style:normal;font-weight:700;line-height:normal;margin:26px 0 0 0}
+.termplan-cards .cmp-container .teaserv2{height:112px}
+.termplan-cards .cmp-container .teaserv2:hover{padding:2px 2px 1px 2px}
+.termplan-cards .cmp-teaser__image{height:112px}
+.termplan-cards .cq-dd-image{height:112px}
+.termplan-cards .cmp-image{height:112px}
+.termplan-cards .cmp-image__image{height:112px}
+.termplan-cards .teaserv2:hover .cmp-teaser__image{height:108px}
+.termplan-cards .teaserv2:hover .cmp-image{height:108px}
+.termplan-cards .teaserv2:hover .cmp-image__image{height:108px}
+.termplan-cards .teaserv2:hover .cq-dd-image{height:108px}
+.termplan-container .leadproxytext .gradient-text{font-size:20px}
+.termplan-cards{margin:unset}
+}

@@ -1,0 +1,836 @@
+.ta-srp-banner-container.ta-srp-left-banner>.cmp-container{gap:30px;padding:24px 25px 22px}
+.ta-srp-banner-container.ta-srp-left-banner .termpagecalc .termpagecalc__wrapper{gap:12px}
+.ta-srp-banner-container.ta-srp-left-banner .termpagecalc{margin:16px 0 0}
+.srp-banner-left-container>.cmp-container{min-height:400px;height:100%;background-size:cover;padding-bottom:12px;border-radius:16px}
+.banner-star-container.container{max-width:unset;padding-right:unset;padding-left:unset;margin:unset}
+.srp-banner-left-container.container{max-width:540px;width:100%;height:100%;padding-right:unset;padding-left:unset;margin:unset;position:relative}
+.ta-srp-left-banner .banner-product-name{padding-top:24px;padding-left:16px}
+.ta-srp-left-banner .banner-product-name .cmp-text p span{font-family:'Inter';font-size:.75rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.12px}
+.ta-srp-left-banner .banner-product-name .cmp-text p{display:flex}
+.ta-srp-left-banner .banner-product-name .cmp-text p .blueTextWithBorder{margin-left:8px;border-radius:2px;border:.5px solid var(--primary-blue);padding:2px 4px;text-align:center;color:var(--primary-blue);font-family:"Inter";font-size:.438rem;font-weight:700;line-height:normal;letter-spacing:-0.07px;text-transform:uppercase}
+.ta-srp-left-banner .banner-product-name .cmp-text h1,.ta-srp-left-banner .banner-product-name .cmp-text h2,.ta-srp-left-banner .banner-product-name .cmp-text h3,.ta-srp-left-banner .banner-product-name .cmp-text h4,.ta-srp-left-banner .banner-product-name .cmp-text h5,.ta-srp-left-banner .banner-product-name .cmp-text h6{margin-top:1.5px;color:var(--neutral-black);font-family:"Inter";font-size:1rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.16px}
+.ta-srp-banner-container .banner-hero-image{position:absolute;right:0;bottom:1px;width:219px;height:278px}
+.banner-logo-image{padding-top:16px;margin-left:16px}
+.banner-logo-image .cmp-image{width:144px;height:60px}
+.banner-logo-image .cmp-image__image,.banner-hero-image .cmp-image,.banner-hero-image .cmp-image .cmp-image__image,.banner-star-container .cmp-container{width:100%;height:100%}
+.banner-hero-image .cmp-image{display:flex}
+.ta-srp-banner-container .banner-tagline-image .cmp-image{padding:44px 0 0 16px}
+.banner-tagline-image .cmp-image .cmp-image__image{object-fit:cover;width:130px;height:19px}
+.banner-star-container{width:192px;height:50px;position:absolute;top:21px;right:-8px}
+.banner-star-container .cmp-container{clip-path:polygon(0 0,20px 50%,0 100%,100% 100%,100% 0);-webkit-clip-path:polygon(0 0,20px 50%,0 100%,100% 100%,100% 0);border-bottom-right-radius:8px}
+.banner-star-container::after{content:"";display:block;height:8px;width:8px;border-top-right-radius:8px;background-color:#6b1026;position:absolute;right:0;top:-8px}
+.banner-star-text .lead{color:var(--secondary-tone-light-2);font-family:Inter;font-size:1.25rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.2px}
+.banner-star-text .sub-Text{color:var(--secondary-tone-light-2);font-family:Inter;font-size:.75rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.12px;display:block}
+.banner-star-text .sub-Text b{font-weight:700}
+.banner-star-container .leadproxytext{display:flex;justify-content:end;align-items:center;height:100%}
+.banner-star-container .leadproxytext .cmp-text{display:flex;flex-direction:column;justify-content:end;align-items:end;padding-right:9px}
+.banner-content-mobile-text{display:none}
+.ta-srp-banner-container .banner-content-desktop-text{max-width:60%;padding:30px 0 0 16px}
+.banner-content-desktop-text .cmp-text .lead,.banner-content-mobile-text .cmp-text .lead{color:var(--neutral-black);font-family:Inter;font-size:1.75rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.28px;display:block}
+.banner-content-desktop-text .cmp-text .lead .blueText,.banner-content-mobile-text .cmp-text .lead .blueText{color:var(--primary-blue);font-family:Inter;font-size:1.75rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.28px}
+.banner-content-desktop-text .cmp-text .lead .blueText sup,.banner-content-mobile-text .cmp-text .lead .blueText sup{top:12px;font-weight:400}
+.banner-content-desktop-text .cmp-text .sub-Text,.banner-content-mobile-text .cmp-text .sub-Text{display:block;margin-top:16px;color:var(--neutral-black);font-family:Inter;font-size:1rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.16px}
+.ta-srp-banner-container .banner-content-desktop-text .cmp-text ul,.ta-srp-banner-container .banner-content-mobile-text .cmp-text ul{padding-top:16px}
+.banner-content-desktop-text .cmp-text ul li,.banner-content-mobile-text .cmp-text ul li{margin-bottom:8px}
+.banner-content-desktop-text .cmp-text ul li,.banner-content-mobile-text .cmp-text ul li{color:var(--neutral-black);font-family:Inter;font-size:.875rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.144px}
+.banner-content-desktop-text .cmp-text ul li b,.banner-content-mobile-text .cmp-text ul li b{font-weight:700}
+.banner-content-desktop-text .cmp-text ul li:has(.eclipse-dots),.banner-content-mobile-text .cmp-text ul li:has(.eclipse-dots){padding-left:24px;position:relative}
+.ta-srp-banner-container .banner-content-desktop-text .cmp-text ul li .eclipse-dots::before,.ta-srp-banner-container .banner-content-mobile-text .cmp-text ul li .eclipse-dots::before{content:'';display:block;background:url("../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/srp-icon-check.svg");height:21px;width:21px;margin-right:7px;position:absolute;left:0;top:-2px}
+.ta-srp-left-banner .banner-content-desktop-text .smarttermplantxt{padding-top:16px;color:var(--neutral-black);font-family:"Inter";font-size:1rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.16px}
+.banner-content-desktop-text .cmp-text .subblack-Text,.banner-content-mobile-text .cmp-text .subblack-Text{color:var(--grey-dark);text-align:center;font-family:Inter;font-size:.5rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.08px;display:block}
+.ta-srp-left-banner .banner-terms-and-condition-txt{padding:21px 0 0 15px}
+.ta-srp-left-banner .banner-terms-and-condition-txt .cmp-text p{color:var(--grey-dark);font-family:"Inter";font-size:.5rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.08px}
+.srp-banner-left-container .banner-star-container-mob{display:none}
+.ta-ulp-category-banner-container .srp-banner-left-container.container{max-width:540px}
+.ta-ulp-category-banner-container .srp-banner-left-container>.cmp-container{display:flex;flex-direction:column}
+.ta-ulp-category-banner-container .banner-ulp-policy-holder .cmp-text{color:var(--grey-dark);font-family:"Inter";font-size:.5rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.08px;padding:20px 0 0 20px}
+.ta-ulp-category-banner-container .banner-content-desktop-text{max-width:100%;padding:24px 0 0 16px}
+.ta-ulp-category-banner-container .banner-content-desktop-text h1,.ta-ulp-category-banner-container .banner-content-desktop-text h2,.ta-ulp-category-banner-container .banner-content-desktop-text h3,.ta-ulp-category-banner-container .banner-content-desktop-text h4,.ta-ulp-category-banner-container .banner-content-desktop-text h5,.ta-ulp-category-banner-container .banner-content-desktop-text h6{margin:unset}
+.ta-ulp-category-banner-container .banner-content-desktop-text .cmp-text ul{padding:25px 0 0 0;display:flex;flex-direction:column;gap:19px;max-width:62%}
+.ta-ulp-category-banner-container .banner-content-desktop-text .cmp-text li{margin:unset;display:flex;align-items:center;flex-wrap:wrap}
+.ta-ulp-category-banner-container .banner-tagline-image .cmp-image{padding:0 0 0 16px}
+.ta-ulp-category-banner-container .banner-tagline-image{position:absolute;bottom:14%}
+.ta-ulp-category-banner-container .banner-terms-and-condition-txt{margin-top:auto;padding:0 0 18px 16px;max-width:362px}
+.ta-ulp-category-banner-container .banner-hero-image{width:221px;height:237px}
+.ta-ulp-category-banner-container .srp-banner-left-container>.cmp-container{padding-bottom:0}
+.ta-ulp-category-banner-container .banner-content-desktop-text .cmp-text ul li img{width:100px;height:24px}
+.ta-ulp-category-banner-container .banner-content-desktop-text .cmp-text ul li .eclipse-dots::before,.ta-ulp-category-banner-container .banner-content-mobile-text .cmp-text ul li .eclipse-dots::before{top:-1px}
+.ta-ulp-category-banner-container .banner-hero-image .cmp-image__image{display:block}
+.ta-ulp-category-banner-container .banner-hero-image .extended__mobileimage{display:none}
+.term-plan-banner-redesign>.cmp-container{background-size:100% 100%}
+.term-plan-banner-redesign .tableResp{border-radius:10px;border:1px solid #0073bb;width:270px;margin-top:16px}
+.term-plan-banner-redesign .tableResp table{border-collapse:separate;width:100%;border-radius:10px;border:unset}
+.term-plan-banner-redesign .tableResp table tr th{border-radius:8px 8px 0 0;background:#0073bb;box-shadow:0 1.585px 6px 0 rgba(0,0,0,0.30);padding:9px;color:#FFF;font-family:Inter;font-size:1.25rem;font-style:normal;font-weight:400;line-height:24px;letter-spacing:-0.2px;border-left:unset;border-right:unset;text-align:start}
+.term-plan-banner-redesign .tableResp table tr th b{color:#FFF;font-family:Inter;font-size:1.25rem;font-style:normal;font-weight:700;line-height:24px;letter-spacing:-0.2px}
+.term-plan-banner-redesign .tableResp table tr td{background-color:transparent;padding:6px}
+.term-plan-banner-redesign .banner-content-desktop-text .tableResp tr:nth-child(2){display:flex;flex-direction:row;justify-content:center;align-items:center}
+.term-plan-banner-redesign .tableResp table tr td .backgrey{color:#a7a9ac;font-weight:700}
+.term-plan-banner-redesign .tableResp table tr td .lead{color:#58595b;font-family:Inter;font-size:1rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.16px}
+.term-plan-banner-redesign .tableResp table tr td .sub-Text{color:#58595b;font-family:Inter;font-size:.75rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.12px;margin:unset}
+.term-plan-banner-redesign .banner-tagline-image .cmp-image{padding:39px 0 0 16px}
+.term-plan-banner-redesign .banner-hero-image{width:210px;height:276px}
+.term-plan-banner-redesign .banner-tagline-image{position:absolute;bottom:43px}
+.term-plan-banner-redesign .banner-terms-and-condition-txt{position:absolute;bottom:12px}
+.term-plan-banner-redesign .banner-content-desktop-text .cmp-text .lead .blueText sup{font-size:1.25rem;font-weight:400}
+.prp-lifepro-leftbanner-redesign .banner-terms-and-condition-txt{padding:16px 16px 0 15px;width:100%}
+.prp-lifepro-leftbanner-redesign .banner-terms-and-condition-txt.srp-bannerleft-disclaimer{position:absolute;bottom:16px}
+.prp-lifepro-leftbanner-redesign .banner-logo-image{padding-top:11px}
+.prp-lifepro-leftbanner-redesign .banner-logo-image .cmp-image{width:195px;height:70px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text{max-width:100%;padding:25px 0 0 16px;width:300px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .lead{color:#333;font-family:Inter;font-size:1.375rem;font-style:normal;font-weight:700;line-height:26px;letter-spacing:-0.22px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .lead .blueText{color:#0073bb;font-family:Inter;font-size:1.5rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.24px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .lead .sub-Text{color:#333;font-family:Inter;font-size:1rem;font-style:normal;font-weight:400;line-height:160%;letter-spacing:-0.16px;margin-top:unset}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .backgrey{color:#333;font-family:Inter;font-size:16px;font-style:normal;font-weight:400;line-height:22px;letter-spacing:-0.16px;margin-top:14px;display:block}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .backgrey br{display:none}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .backgrey b{color:#333;font-family:Inter;font-size:16px;font-style:normal;font-weight:700;line-height:22px;letter-spacing:-0.16px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .backgrey .subblack-Text{color:#333;text-align:center;font-family:Inter;font-size:12px;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.12px;display:unset}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li .eclipse-dots::before{width:24px;height:24px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li:has(.eclipse-dots){padding-left:32px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li{color:#333;font-family:Inter;font-size:.875rem;font-style:normal;font-weight:400;line-height:18px;letter-spacing:-0.14px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li .eclipse-dots{color:#333;font-family:Inter;font-size:.875rem;font-style:normal;font-weight:400;line-height:18px;letter-spacing:-0.14px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li .eclipse-dots img{margin-bottom:-8px;width:99px;height:24px}
+.prp-lifepro-leftbanner-redesign .banner-tagline-image .cmp-image{padding:unset}
+.prp-lifepro-leftbanner-redesign .banner-tagline-image{position:absolute;bottom:77px;left:16px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul{width:62%}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li b{font-weight:700}
+.prp-lifepro-leftbanner-redesign .banner-hero-image{width:192px;height:215px;bottom:39px}
+.prp-lifepro-leftbanner-redesign .banner-star-text .lead .whiteText{color:#f2f7fb}
+.prp-lifepro-leftbanner-redesign .banner-terms-and-condition-txt .cmp-text p b{font-weight:700}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li .eclipse-dots .backgrey{letter-spacing:-0.1px;font-size:.625rem}
+.fg-supreme-leftbanner-redesign .banner-logo-image .cmp-image{width:185px;height:70px}
+.fg-supreme-leftbanner-redesign .banner-content-desktop-text{max-width:49%;padding:23px 0 0 16px}
+.fg-supreme-leftbanner-redesign .banner-content-desktop-text .cmp-text .lead{color:#333;font-family:Inter;font-size:2rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.32px;margin-top:2px}
+.fg-supreme-leftbanner-redesign .banner-content-desktop-text .cmp-text .lead sup{color:#333;font-family:Inter;font-size:.625rem;font-style:normal;font-weight:700;line-height:0;letter-spacing:-0.16px;position:relative;top:-5px}
+.fg-supreme-leftbanner-redesign .banner-content-desktop-text .cmp-text .blueText{border-radius:0 8.092px;background:#0073bb;color:#FFF;font-family:Inter;font-size:2rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.32px;padding:2px 10px;width:fit-content;display:block}
+.fg-supreme-leftbanner-redesign .banner-content-desktop-text .cmp-text .blueText sup{color:#FFF;font-family:Inter;font-size:.625rem;font-style:normal;font-weight:700;line-height:0;letter-spacing:-0.16px}
+.fg-supreme-leftbanner-redesign .banner-hero-image{width:266px;height:326px}
+.fg-supreme-leftbanner-redesign .banner-terms-and-condition-txt{position:absolute;bottom:13px;left:16px;width:336px;padding:unset}
+.fg-supreme-leftbanner-redesign .banner-star-container.container{width:192px}
+.fg-supreme-leftbanner-redesign .banner-star-text .sub-Text b{font-weight:700;color:#fff;font-size:.75rem}
+.srp-leftbanner-redesign .banner-logo-image .cmp-image{width:190px;height:79px}
+.srp-leftbanner-redesign .banner-logo-image{padding-top:24px;margin-left:16px}
+.srp-leftbanner-redesign .banner-hero-image{width:243px;height:259px;position:absolute;right:0;bottom:0}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text .lead{color:#333;font-family:Inter;font-size:1.75rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.28px;padding-bottom:20px}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text .blueText{color:#0073bb;font-family:Inter;font-size:1.75rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.28px}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text .blueText sup{color:#0073bb;font-family:Inter;font-size:1rem;font-style:normal;font-weight:400;line-height:12px;letter-spacing:-0.16px}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text li sup{font-size:.688rem;position:relative;top:2px}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text .subtitle_styling{color:#0073bb;font-family:Inter;font-size:1.75rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.28px;text-decoration:line-through}
+.srp-leftbanner-redesign .banner-content-desktop-text{padding:13px 0 0 16px}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li:has(.eclipse-dots){padding-left:29px}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li .eclipse-dots::before{content:'';display:block;background:url(../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/srp-icon-check.svg);height:21px;width:21px;margin-right:7px;position:absolute;left:0;top:0}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li .eclipse-dots{color:#333;font-family:Inter;font-size:.875rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.144px}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li .eclipse-dots b{color:#333;font-family:Inter;font-size:.875rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.144px}
+.srp-leftbanner-redesign .banner-tagline-image{position:absolute;bottom:30px;left:18px}
+.srp-leftbanner-redesign .banner-tagline-image .cmp-image .cmp-image__image{width:153px;height:23px}
+.srp-leftbanner-redesign .banner-star-container{top:36px;width:192px;height:50px}
+.srp-leftbanner-redesign .banner-star-text .lead .whiteText{color:#f2f7fb;font-family:Inter;font-size:1.25rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.2px}
+.srp-leftbanner-redesign .banner-star-text .sub-Text{color:#f2f7fb;font-family:Inter;font-size:.75rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.12px}
+.srp-leftbanner-redesign .banner-star-text .sub-Text b{font-weight:700}
+.term-calculator-container .cmp-container .banner-logo-image.extendedimage{display:block !important}
+.srp-leftbanner-redesign .banner-star-container .banner-star-text{text-align:end}
+.fg-supreme-leftbanner-redesign .banner-star-container .banner-star-text{text-align:end}
+.prp-lifepro-leftbanner-redesign .banner-logo-image-mob{display:none}
+.term-plan-banner-redesign .banner-content-desktop-text .sub-Text{color:#333;font-family:Inter;font-size:1rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.16px;margin:16px 0;display:block}
+.ta-srp-banner-container .term-plan-banner-redesign .banner-content-desktop-text ul{padding-top:unset}
+.term-plan-banner-redesign .banner-content-desktop-text ul li{color:#333;font-family:Inter;font-size:.875rem;font-style:normal;font-weight:400;line-height:18px;letter-spacing:-0.14px;margin-bottom:8px;padding-left:25px;position:relative}
+.term-plan-banner-redesign .banner-content-desktop-text ul li b{font-weight:700}
+.term-plan-banner-redesign .banner-content-desktop-text ul li::before{content:'';display:block;background:url(../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/srp-icon-check.svg);height:21px;width:21px;margin-right:7px;position:absolute;left:0;top:-2px}
+.term-plan-banner-redesign .tableResp table tr th sup{color:#FFF;font-family:Inter;font-size:.75rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.12px;position:relative;top:1px}
+.term-plan-banner-redesign .banner-star-container sup{color:#FFF;font-family:Inter;font-size:.563rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.12px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .backgrey .subblack-Text sup{color:#333;font-family:Inter;font-size:.5rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.086px}
+.term-plan-banner-redesign .tableResp table tr td .sub-Text sup{color:#58595b;font-family:Inter;font-size:.625rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.12px;position:relative;top:1px}
+.term-plan-container .banner-hero-image{bottom:2px}
+.ta-srp-banner-container.ulip-calc-banner-align>.cmp-container{gap:10px}
+.ta-srp-banner-container.ulip-calc-banner-align>.cmp-container .prplife-premium-calc-wrapper .inp-wrapper{margin-bottom:16px}
+@media screen and (max-width:768px){.banner-content-mobile-text{display:block}
+.banner-content-desktop-text,.banner-hero-image,.banner-tagline-image,.srp-banner-left-container>.cmp-container::after{display:none}
+.ta-srp-banner-container.ta-srp-left-banner>.cmp-container{padding:0 20px 20px}
+.banner-logo-image{padding-top:8px;margin-left:8px}
+.banner-star-container{padding:6px 8px;top:0;right:0;left:50%;transform:translate(-50%,-50%)}
+.banner-star-container::after{display:none}
+.banner-star-text .lead{font-size:.625rem;letter-spacing:-0.12px}
+.banner-star-text img{width:10px;height:10px}
+.banner-star-text .sub-Text,.banner-star-text .sub-Text b{font-size:.5rem;letter-spacing:-0.08px;padding:1px 0 0 0;display:inline-block}
+.banner-content-mobile-text .cmp-text .lead .blueText{font-size:1rem;letter-spacing:-0.16px}
+.banner-content-mobile-text .cmp-text .lead{font-size:1rem;letter-spacing:-0.16px;text-align:center}
+.banner-content-mobile-text .cmp-text ul li:has(.eclipse-dots){padding-left:0;font-size:.75rem;letter-spacing:-0.12px}
+.banner-star-container .cmp-container{border-bottom-right-radius:0;clip-path:polygon(0 0,10px 50%,0 100%,100% 100%,100% 0);-webkit-clip-path:polygon(0 0,10px 50%,0 100%,100% 100%,100% 0)}
+.banner-star-container .leadproxytext .cmp-text{padding-right:6px}
+.banner-star-container .leadproxytext .cmp-text{display:flex}
+.banner-content-mobile-text{margin-top:17px;padding:unset}
+.banner-content-desktop-text .cmp-text ul,.banner-content-mobile-text .cmp-text ul{padding:17px 0 0 0}
+.banner-content-mobile-text .cmp-text ul li .eclipse-dots::before{height:13px;width:13px;background-size:cover;top:2px}
+.banner-content-desktop-text .cmp-text .subblack-Text,.banner-content-mobile-text .cmp-text .subblack-Text{text-align:center}
+.srp-banner-left-container>.cmp-container{padding-bottom:5px;min-height:max-content;background-size:100% 100% !important}
+.ta-srp-banner-container.ta-srp-left-banner>.cmp-container{gap:16px}
+.srp-banner-left-container.container{margin-top:8px;max-width:unset}
+.ta-srp-banner-container.ta-srp-left-banner .termpagecalc .termpagecalc__wrapper{gap:16px}
+.ta-srp-banner-container.ta-srp-left-banner .termpagecalc .termpagecalc__wrapper .newcalcform--btn__wrapper{margin-top:4px}
+.ta-srp-banner-container.ta-srp-left-banner .terminsurance-heading{margin:20px 0 16px}
+.srp-banner-left-container .banner-content-mobile-text>.cmp-text h4{margin:unset}
+.srp-banner-left-container .banner-star-container-mob{display:flex;justify-content:center;align-items:center;padding:0 0 12px 0}
+.srp-banner-left-container .banner-star-container-mob>.cmp-container{max-width:211px;width:100%;padding:4px 8px;border-radius:0 0 8px 8px;box-shadow:0 0 4px 0 rgba(0,0,0,0.25)}
+.srp-banner-left-container .banner-star-container-mob>.cmp-container .banner-star-text .cmp-text{display:flex;justify-content:center;align-items:center;gap:6px}
+.srp-banner-left-container .banner-star-container-mob>.cmp-container .banner-star-text .cmp-text .starverticalline{color:var(--moon-dust);font-family:"Inter";font-size:.5rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.08px;opacity:.5}
+.srp-banner-left-container .banner-star-container-mob>.cmp-container .banner-star-text .cmp-text .lead img{width:7.619px;height:7.619px}
+.srp-banner-left-container .banner-star-container-mob>.cmp-container .banner-star-text .cmp-text .lead img:nth-child(1){margin-left:4px}
+.ta-srp-banner-container .banner-content-mobile-text .cmp-text ul li .eclipse-dots::before{content:'';background:0}
+.banner-content-mobile-text .cmp-text ul li{margin:unset;padding:unset}
+.ta-srp-left-banner .banner-star-container{display:none}
+.ta-srp-left-banner .banner-product-name{padding:unset}
+.ta-srp-left-banner .banner-product-name .cmp-text p{text-align:center;display:flex;justify-content:center;align-items:center}
+.ta-srp-left-banner .banner-product-name .cmp-text p span{font-size:.5rem;letter-spacing:-0.08px}
+.ta-srp-left-banner .banner-product-name .cmp-text h1,.ta-srp-left-banner .banner-product-name .cmp-text h2,.ta-srp-left-banner .banner-product-name .cmp-text h3,.ta-srp-left-banner .banner-product-name .cmp-text h4,.ta-srp-left-banner .banner-product-name .cmp-text h5,.ta-srp-left-banner .banner-product-name .cmp-text h6{margin-top:2px;text-align:center;font-size:.75rem;letter-spacing:-0.12px}
+.ta-srp-left-banner .banner-product-name .cmp-text p .blueTextWithBorder{display:none}
+.ta-srp-left-banner .banner-terms-and-condition-txt{text-align:center;padding:20px 0 8px 0}
+.ta-srp-left-banner .banner-terms-and-condition-txt .cmp-text p{font-size:.438rem;letter-spacing:-0.07px}
+.ta-ulp-category-banner-container .banner-ulp-policy-holder .cmp-text{font-size:.375rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.06px;padding:8px 0 0 16px}
+.ta-ulp-category-banner-container .banner-content-mobile-text{margin-top:unset;padding:8px 0 0 16px}
+.ta-ulp-category-banner-container .banner-content-mobile-text .cmp-text .lead{text-align:left}
+.ta-ulp-category-banner-container .banner-content-mobile-text h1,.ta-ulp-category-banner-container .banner-content-mobile-text h2,.ta-ulp-category-banner-container .banner-content-mobile-text h3,.ta-ulp-category-banner-container .banner-content-mobile-text h4,.ta-ulp-category-banner-container .banner-content-mobile-text h5,.ta-ulp-category-banner-container .banner-content-mobile-text h6{margin:unset}
+.ta-ulp-category-banner-container .banner-content-mobile-text .cmp-text ul li:has(.eclipse-dots){font-size:.625rem;letter-spacing:-0.1px;padding-left:20px;color:var(--neutral-black)}
+.ta-ulp-category-banner-container .banner-content-mobile-text .cmp-text ul li .eclipse-dots::before{content:"";background:url("../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/srp-icon-check.svg");width:15px;height:16px;background-size:contain}
+.ta-ulp-category-banner-container .banner-content-mobile-text .cmp-text ul li img{width:49px;height:12px}
+.ta-ulp-category-banner-container .banner-content-mobile-text .cmp-text ul{display:flex;flex-direction:column;gap:7px;padding:8px 0 0 0}
+.ta-ulp-category-banner-container .banner-content-mobile-text .cmp-text li{margin:unset;display:flex;align-items:center}
+.ta-ulp-category-banner-container .banner-content-mobile-text .cmp-text li:has(sup) sup{top:2px;font-size:.313rem}
+.ta-ulp-category-banner-container .banner-content-mobile-text .cmp-text li:has(img) sup{top:-4px}
+.ta-ulp-category-banner-container .banner-hero-image{width:90px;height:108px}
+.ta-ulp-category-banner-container .banner-hero-image,.ta-ulp-category-banner-container .banner-tagline-image{display:block}
+.ta-ulp-category-banner-container .banner-tagline-image{position:unset}
+.ta-ulp-category-banner-container .banner-tagline-image .cmp-image{padding:11px 0 0 16px}
+.ta-ulp-category-banner-container .banner-tagline-image .cmp-image img{width:78px;height:12px;display:block}
+.ta-ulp-category-banner-container .banner-terms-and-condition-txt{text-align:left;padding:4px 0 8px 16px;max-width:255px}
+.ta-ulp-category-banner-container .banner-terms-and-condition-txt .cmp-text p{font-size:.375rem}
+.ta-ulp-category-banner-container .banner-tagline-image .cmp-image .extended__mobileimage{display:none}
+.ta-ulp-category-banner-container .banner-hero-image .cmp-image__image{display:none}
+.ta-ulp-category-banner-container .banner-hero-image .extended__mobileimage{display:block;border-bottom-right-radius:19%}
+.term-plan-banner-redesign .banner-star-container-mob>.cmp-container{background:linear-gradient(90deg,#0073bb 0,#d62049 100%);max-width:243px;width:100%;padding:2px 4px}
+.term-plan-banner-redesign .banner-star-text .sub-Text b{color:#FFF;font-family:Inter;font-size:10px;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.1px;margin-top:-1px}
+.term-plan-banner-redesign .banner-star-container-mob{padding:0 0 9px 0}
+.term-plan-banner-redesign .banner-terms-and-condition-txt{position:absolute;bottom:0;width:100%}
+.prp-lifepro-leftbanner-redesign .banner-star-container-mob{display:none}
+.prp-lifepro-leftbanner-redesign .banner-terms-and-condition-txt{width:95%;padding:6px 0 10px 16px;text-align:left}
+.prp-lifepro-leftbanner-redesign .banner-terms-and-condition-txt .cmp-text p{font-size:.375rem;letter-spacing:-0.06px}
+.prp-lifepro-leftbanner-redesign .banner-logo-image{padding-top:unset;position:absolute;right:9px;top:21px;display:none}
+.prp-lifepro-leftbanner-redesign .banner-logo-image-mob{display:block;width:70px;height:50px;position:absolute;right:12px;top:35px}
+.prp-lifepro-leftbanner-redesign .banner-logo-image-mob.extendedimage .cmp-image__image{display:block;width:70px;height:50px}
+.prp-lifepro-leftbanner-redesign .banner-logo-image .cmp-image__image{display:block}
+.prp-lifepro-leftbanner-redesign .banner-logo-image .cmp-image{width:71px;height:40px}
+.prp-lifepro-leftbanner-redesign .banner-content-mobile-text{display:none}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text{display:block;max-width:100%;padding:0 0 0 12px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .lead{font-size:.75rem;letter-spacing:-0.12px;width:65%;line-height:15px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .lead .blueText{font-size:14px;letter-spacing:-0.14px;line-height:15px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .lead .sub-Text{font-size:10px;font-weight:500;line-height:160%;letter-spacing:-0.1px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .backgrey{font-size:10px;font-style:normal;font-weight:400;line-height:14px;letter-spacing:-0.1px;margin-top:8px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .backgrey br{display:block}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .backgrey b{font-weight:700;font-size:10px;line-height:14px;letter-spacing:-0.1px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .backgrey .subblack-Text{font-size:8px;font-weight:400;line-height:normal;letter-spacing:-0.08px}
+.prp-lifepro-leftbanner-redesign .banner-tagline-image{width:92px;height:14px;display:block;bottom:44px;left:12px}
+.prp-lifepro-leftbanner-redesign .banner-tagline-image .cmp-image .cmp-image__image{width:92px;height:14px;display:block}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li:has(.eclipse-dots){padding-left:16px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul{padding-top:8px;width:70%}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li .eclipse-dots::before{width:14px;height:14px;top:0;background-size:100%;margin-right:2px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li .eclipse-dots{font-size:.625rem;line-height:14px;letter-spacing:-0.1px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li .eclipse-dots b{font-size:.625rem;line-height:14px;font-weight:700;letter-spacing:-0.1px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li:has(.eclipse-dots){font-size:.625rem;line-height:14px;letter-spacing:-0.1px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li .eclipse-dots img{margin-bottom:-3px;width:49px;height:12px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li:has(.eclipse-dots):last-child{margin-bottom:unset}
+.prp-lifepro-leftbanner-redesign .banner-star-container{display:block}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li .eclipse-dots .backgrey{font-size:.5rem;line-height:normal;letter-spacing:-0.08px}
+.prp-lifepro-leftbanner-redesign .banner-star-container{left:unset;transform:unset;top:94px;width:86px;padding:unset;height:18px}
+.prp-lifepro-leftbanner-redesign .banner-star-text .sub-Text,.banner-star-text .sub-Text b{font-size:4.8px;line-height:normal;letter-spacing:-0.048px}
+.prp-lifepro-leftbanner-redesign .banner-star-text .lead .whiteText{font-size:7.2px;line-height:normal;letter-spacing:-0.072px}
+.prp-lifepro-leftbanner-redesign .banner-star-text img{width:6px;height:6px}
+.prp-lifepro-leftbanner-redesign .banner-star-container .leadproxytext .cmp-text{height:0}
+.prp-lifepro-leftbanner-redesign .banner-star-container .leadproxytext .cmp-text p{height:7px}
+.prp-lifepro-leftbanner-redesign .banner-terms-and-condition-txt.srp-bannerleft-disclaimer{bottom:5px;padding:0 0 0 12px}
+.fg-supreme-leftbanner-redesign .banner-star-container-mob{display:none}
+.fg-supreme-leftbanner-redesign .banner-star-container{display:block}
+.fg-supreme-leftbanner-redesign .banner-star-container.container{width:124px;height:30px;padding:unset;left:unset;right:0;transform:unset;top:27px}
+.fg-supreme-leftbanner-redesign .banner-star-text .cmp-text p{line-height:0}
+.fg-supreme-leftbanner-redesign .extendedimage .cmp-image__image{display:block}
+.fg-supreme-leftbanner-redesign .banner-logo-image .cmp-image{width:148px;height:60px}
+.fg-supreme-leftbanner-redesign .banner-logo-image{padding-top:12px;margin-left:12px}
+.fg-supreme-leftbanner-redesign .banner-content-mobile-text{display:none}
+.fg-supreme-leftbanner-redesign .banner-content-desktop-text{display:block;max-width:100%;text-align:center;padding:15px 0}
+.fg-supreme-leftbanner-redesign .banner-content-desktop-text .cmp-text .lead{font-size:1rem;letter-spacing:-0.16px;width:80%;margin:0 auto;line-height:22px}
+.fg-supreme-leftbanner-redesign .banner-content-desktop-text .cmp-text .blueText{font-size:1rem;letter-spacing:-0.16px;margin:0 auto;display:inline-block}
+.fg-supreme-leftbanner-redesign .banner-terms-and-condition-txt{padding:0 12px 0 12px;width:100%;text-align:left;left:unset;bottom:8px}
+.fg-supreme-leftbanner-redesign .cmp-container{padding-bottom:unset}
+.fg-supreme-leftbanner-redesign .banner-star-text .lead .whiteText{font-size:.75rem;letter-spacing:-0.12px}
+.fg-supreme-leftbanner-redesign .banner-content-desktop-text .cmp-text .blueText sup{top:5px;font-size:.5rem}
+.fg-supreme-leftbanner-redesign .banner-content-desktop-text .cmp-text .lead sup{font-size:.5rem;position:relative;top:-1px;line-height:0;letter-spacing:-0.08px}
+.term-calculator-container .cmp-container .srp-leftbanner-redesign .extendedimage.banner-logo-image{padding:8px 0 0 11px;height:60px;margin-left:unset}
+.srp-leftbanner-redesign .banner-logo-image .cmp-image{width:144px;height:60px}
+.term-calculator-container .cmp-container .srp-leftbanner-redesign .banner-logo-image.extendedimage .cmp-image__image{height:60px}
+.srp-leftbanner-redesign .cmp-container{margin:0 20px}
+.srp-leftbanner-redesign .banner-content-desktop-text{display:block;padding:unset}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text .lead{font-size:1rem;line-height:normal;letter-spacing:-0.16px;padding-top:14px;width:55%;margin:0 auto;padding-bottom:8px}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text .blueText{font-size:1rem;line-height:normal;letter-spacing:-0.16px}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text .subtitle_styling{font-size:1rem;line-height:normal;letter-spacing:-0.16px}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text ul{padding-top:0}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li:has(.eclipse-dots){padding-left:46px;margin-bottom:2px}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li .eclipse-dots{font-size:.688rem;letter-spacing:-0.11px}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li .eclipse-dots b{font-size:.688rem;letter-spacing:-0.11px}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text ul li .eclipse-dots::before{width:16px;height:16px;left:27px;top:2px;background-size:100%}
+.srp-leftbanner-redesign .banner-star-container{display:block;width:124px;height:30px;padding:unset;right:11%;left:unset;transform:unset;top:16px}
+.srp-leftbanner-redesign .banner-star-text .lead .whiteText{font-size:.75rem;letter-spacing:-0.12px}
+.srp-leftbanner-redesign .banner-star-text .sub-Text{font-size:.5rem;letter-spacing:-0.08px}
+.srp-leftbanner-redesign .banner-star-text .sub-Text b{font-size:.5rem;letter-spacing:-0.08px}
+.srp-leftbanner-redesign .banner-star-text .cmp-text p{line-height:0}
+.srp-leftbanner-redesign .banner-star-container .banner-star-text{height:unset;text-align:end}
+.fg-supreme-leftbanner-redesign .banner-star-container .banner-star-text{text-align:end}
+.fg-supreme-leftbanner-redesign .banner-star-text .sub-Text b{font-size:.5rem;letter-spacing:-0.08px}
+.fg-supreme-leftbanner-redesign .banner-star-text .sub-Text{padding:0}
+.srp-leftbanner-redesign .banner-star-text .sub-Text{padding:0}
+.term-plan-banner-redesign .banner-content-mobile-text sup{position:relative;top:1px;font-size:.5rem}
+.term-plan-banner-redesign .banner-content-mobile-text .cmp-text .lead .blueText sup{top:-1px;font-weight:400;font-size:.563rem}
+.term-plan-banner-redesign .banner-star-container-mob sup{color:#FFF;font-family:Inter;font-size:.438rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.1px}
+.prp-lifepro-leftbanner-redesign .banner-content-desktop-text .cmp-text .backgrey .subblack-Text sup{font-size:.313rem;letter-spacing:-0.05px}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text li sup{font-size:.438rem;position:absolute;margin-top:2px}
+.srp-leftbanner-redesign .banner-content-desktop-text .cmp-text .blueText sup{font-size:.5rem;font-weight:400}
+.ta-ulp-category-banner-container .banner-content-mobile-text .cmp-text ul li span.eclipse-dots{display:flex;align-items:center}
+.term-plan-container .banner-content-mobile-text .cmp-text ul{width:70%}
+.term-plan-container .banner-content-mobile-text .cmp-text ul li span.eclipse-dots{display:unset}
+.ta-srp-banner-container.ulip-calc-banner-align>.cmp-container{gap:16px;border-radius:unset;padding:0 20px}
+.srp-banner-left-container.srp-calc-banner-mr .cmp-container{margin:unset;padding:unset}
+.srp-banner-left-container.srp-calc-banner-mr .cmp-container .banner-logo-image{padding-top:8px;margin-left:8px}
+.srp-banner-left-container.srp-calc-banner-mr .cmp-container .banner-content-desktop-text{max-width:100%}
+.srp-banner-left-container.srp-calc-banner-mr .cmp-container .banner-star-container{right:0}
+.srp-banner-left-container.srp-calc-banner-mr .cmp-container .banner-logo-image .extended__mobileimage{display:block}
+.srp-leftbanner-redesign.term-banner-text-align .banner-content-desktop-text .cmp-text .lead{width:61%}
+.term-plan-container .banner-content-mobile-text .cmp-text li:has(sup) sup{font-size:.5rem}
+.term-calculator-container .cmp-container .srp-leftbanner-redesign .extendedimage.terminsurance-banner-logo{width:144px;height:auto}
+.term-calculator-container .cmp-container .srp-leftbanner-redesign .terminsurance-banner-logo.extendedimage .cmp-image__image{display:block}
+}
+.srsbanner_variation_first{position:relative;padding:unset !important;margin:unset !important;width:97%}
+.srsbanner_variation_first>.cmp-container{border-radius:20px;border:1px solid rgba(0,115,187,1);padding:20px 0 10px 30px;background-size:100% 100%}
+.srsbanner_variation_first>.cmp-container .extendedimage.srs_banner_product_logo{margin-bottom:20px}
+.srsbanner_variation_first>.cmp-container .extendedimage.srs_banner_product_logo .cmp-image__image{width:237px;height:88px}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title{width:60%}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text .banner-title{color:var(--Secondary-Secondary-New-Black,#333);font-family:Inter;font-size:1.25rem;font-style:normal;font-weight:600;line-height:normal;letter-spacing:-0.2px}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text .gradient_banner_title{color:var(--neutral-universal-omni-white,#FFF);font-family:Inter;display:inline-block;margin-top:12px;font-size:2.625rem;font-style:normal;font-weight:700;line-height:32px;text-align:center;letter-spacing:-0.42px;padding:10px;border-radius:0 12px;width:322px;background-image:linear-gradient(92deg,#0073bb 0,#d62049 100%)}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text .banner_bold_title{display:inline-block;margin-top:6px;color:var(--Secondary-Secondary-New-Black,#333);font-family:Inter;font-size:1.5rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.24px;text-transform:capitalize}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text ul{margin-top:33px;display:flex;flex-direction:column;gap:10px}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text li p{color:var(--Secondary-Secondary-New-Black,#333);font-family:Inter;font-size:1.125rem;font-style:normal;font-weight:600;line-height:140%;letter-spacing:-0.18px}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text ul li{position:relative;display:flex;gap:8px}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text li::before{content:'';display:block;background-image:url(../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/Frame-4160.svg);height:24px;width:24px}
+.srsbanner_variation_first>.cmp-container .extendedimage.srsbanner_first_hashtag{margin:50px 0 10px 0}
+.srsbanner_variation_first>.cmp-container .extendedimage.srsbanner_first_hashtag .cmp-image__image{height:27px;width:208px}
+.srsbanner_variation_first>.cmp-container .extendedimage.srs_banner_personImg{position:absolute;bottom:0;right:6px;z-index:2;width:238px;height:366px;mask-image:linear-gradient(to top left,transparent 20%,black 80%);-webkit-mask-image:linear-gradient(to top,transparent 0,black 40%)}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_mini_text{margin-top:13px}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_mini_text .cmp-text p{color:var(--Secondary-Secondary-Grey-Dark,#58595b);font-family:Inter;font-size:.625rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.1px;width:432px}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text ul li sup{font-size:.7em;position:relative;line-height:0;vertical-align:text-top;top:8px}
+@media screen and (max-width:767.99px){.srsbanner_variation_first{width:100%}
+.srsbanner_variation_first>.cmp-container{padding:10px 10px 5px 10px;background-size:cover}
+.srsbanner_variation_first>.cmp-container .extendedimage.srs_banner_product_logo{display:flex;justify-content:center;margin-bottom:12px}
+.srsbanner_variation_first>.cmp-container .extendedimage.srs_banner_product_logo .cmp-image__image{display:block;width:146px;height:54px}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title{width:100%}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .title_wrapper{display:flex;align-items:center;justify-content:center;gap:6px}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text .banner-title{font-size:.75rem}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text .gradient_banner_title{width:138px;font-size:1.125rem;padding:6px;line-height:14px;margin-top:6px}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_mini_text{width:100%}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_mini_text .cmp-text p{font-size:.375rem;width:100%}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_mini_text .cmp-text p br{display:none}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text .banner_bold_title{font-size:.75rem}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text li p{font-size:.75rem;padding-left:0}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text ul{margin-top:8px;gap:5px}
+.srsbanner_variation_first>.cmp-container .extendedimage.srs_banner_personImg{display:none}
+.srsbanner_variation_first>.cmp-container .extendedimage.srsbanner_first_hashtag,.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text li::before{display:none}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text ul li{justify-content:center}
+.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text ul li sup{top:6px}
+}
+.container.srsbanner_variation_second{position:relative;padding:unset;margin:unset;width:97%}
+.srsbanner_variation_second>.cmp-container{position:relative;z-index:1;border-radius:20px;border:1px solid rgba(0,115,187,1);padding:20px 0 10px 30px;background-size:100% 100%}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_small_text .cmp-text .small_txt{color:#58595b;text-align:justify;font-family:Inter;font-size:.5rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.08px;display:block}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text{width:68%}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h1,.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h2,.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h3,.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h4,.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h5,.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h6,.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text p{font-family:Inter;display:inline-block;margin-top:25px;font-size:1.75rem;font-style:normal;font-weight:700;line-height:120%;letter-spacing:-0.28px;text-transform:capitalize;background:var(--Primary-Gradient,linear-gradient(90deg,#0073bb 0,#d62049 100%));background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;margin-bottom:unset;opacity:unset}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text .banner_second_mob_gradient{display:none}
+.srsbanner_variation_second>.cmp-container .srs_banner_product_logo .cmp-image__image{width:224px;height:80px}
+.srsbanner_variation_second>.cmp-container .srs_banner_product_logo{margin-top:16px}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul{width:407px;position:relative;display:flex;flex-direction:column;gap:20px;margin:30px 0}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul li p{color:var(--Secondary-Secondary-New-Black,#333);font-family:Inter;font-size:1rem;font-style:normal;font-weight:400;line-height:120%;letter-spacing:-0.16px;text-align:left}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul li{display:flex;align-items:center;gap:15px}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul li:first-child::before{content:'';display:block;background-image:url(../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/Group4007.svg);height:48px;width:48px;background-repeat:no-repeat;flex-shrink:0}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul li:nth-child(2)::before{content:'';display:block;background-image:url(../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/Group4008.svg);height:48px;width:48px;background-repeat:no-repeat;flex-shrink:0}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul li:last-child::before{content:'';display:block;background-image:url(../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/Group4009.svg);height:48px;width:48px;background-repeat:no-repeat;flex-shrink:0}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul :first-child li{width:210px}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_mini_text{width:417px}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_mini_text p{color:var(--Secondary-Secondary-Grey-Dark,#58595b);font-family:Inter;font-size:.625rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.1px}
+.srsbanner_variation_second>.cmp-container .srs_banner_personImg{position:absolute;top:12%;right:20px;z-index:2}
+.srsbanner_variation_second>.cmp-container .srs_banner_personImg .cmp-image__image{width:238px;height:367px}
+.srsbanner_variation_second>.cmp-container .extendedimage.srs_banner_product__mob_logo{display:none}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul li sup{font-size:.7em;position:relative;line-height:0;vertical-align:text-top;top:8px}
+.container.srsbanner_variation_second.smart-pension-left-banner{width:unset}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container{border-radius:16px;border:unset;padding:24px 0 16px 20px;display:flex;flex-direction:column}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container::before{content:"";position:absolute;pointer-events:none;inset:0;padding:1.6px;background:linear-gradient(90deg,rgba(0,115,187,0.5),rgba(214,32,73,0.5));border-radius:16px;mask:linear-gradient(#fff 0,#fff 0) content-box exclude,linear-gradient(#fff 0,#fff 0)}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text{width:100%}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h1,.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h2,.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h3,.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h4,.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h5,.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h6,.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text p{margin-top:16px;line-height:normal}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .srs_banner_personImg{bottom:16px;right:22px;top:unset}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .srs_banner_personImg .cmp-image__image{width:182px;height:283px}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_mini_text{margin-top:auto;width:60%}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_mini_text p{font-weight:600}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .extendedimage.srs_banner_product__mob_logo{display:block}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .extendedimage.srs_banner_product__mob_logo .cmp-image__image{width:223px;height:80px}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .banner_second_left_small_text{display:none}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_list_sec ul li p b{font-weight:400}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_list_sec ul{margin:14px 0}
+@media screen and (max-width:797.99px){.srsbanner_variation_second{width:100%}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text{width:100%}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h1,.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h2,.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h3,.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h4,.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h5,.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h6,.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text p{font-size:1rem;margin-top:6px;text-align:center;letter-spacing:-0.16px}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_section .cmp-text .banner_second_mob_gradient{display:block;text-align:center;margin-top:6px;font-family:Inter;font-size:1rem;font-style:normal;font-weight:700;line-height:140%;letter-spacing:-0.16px;background:var(--Primary-Gradient,linear-gradient(90deg,#0073bb 0,#d62049 100%));background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.srsbanner_variation_second>.cmp-container{padding:10px}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_left_small_text .cmp-text .small_txt{font-size:.375rem;text-align:center;letter-spacing:-0.06px}
+.srsbanner_variation_second>.cmp-container .extendedimage.srs_banner_product_logo{display:none}
+.srsbanner_variation_second>.cmp-container .extendedimage.srs_banner_product__mob_logo{display:flex;justify-content:center;margin-top:6px}
+.srsbanner_variation_second>.cmp-container .extendedimage.srs_banner_product__mob_logo .cmp-image__image{display:block;width:150.906px;height:54px}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul{width:100%;margin:6px auto;gap:5px;padding-left:20px;list-style-position:inside;align-items:flex-start}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul li p{font-size:.688rem;letter-spacing:-0.11px}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul :first-child li{width:232px}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul li{gap:5px}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul li p br{display:none}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul li:first-child::before{background-image:url(../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/Icon-Check.svg);height:20px;width:20px}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul li:nth-child(2)::before{background-image:url(../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/Icon-Check.svg);height:20px;width:20px}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul li:last-child::before{background-image:url(../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/Icon-Check.svg);height:20px;width:20px}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_mini_text{width:100%}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_mini_text p{font-size:.375rem;letter-spacing:-0.06px}
+.srsbanner_variation_second>.cmp-container .srs_banner_personImg{display:none}
+.srsbanner_variation_second>.cmp-container .leadproxytext.banner_second_list_sec ul li p sup{top:5px}
+.container.srsbanner_variation_second.smart-pension-left-banner{width:100%;margin:0 20px}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container{padding:6px 10px}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .extendedimage.srs_banner_product__mob_logo .cmp-image__image{width:150px;height:54px;margin:0 auto}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text{text-align:center}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h1,.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h2,.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h3,.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h4,.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h5,.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text h6,.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_left_section .cmp-text p{margin-top:6px}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_list_sec ul{padding-left:22px;margin:6px auto}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_list_sec ul li:first-child::before,.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_list_sec ul li:nth-child(2)::before,.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_list_sec ul li:last-child::before{height:16px;width:16px}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_second_list_sec ul li p b{font-weight:600}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .leadproxytext.banner_mini_text{width:100%}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .banner_second_left_small_text{display:block}
+.srsbanner_variation_second.smart-pension-left-banner>.cmp-container .extendedimage.srs_banner_product__mob_logo{margin-top:4px}
+}
+.srs_variation_third{position:relative;padding:unset !important;margin:unset !important;width:97%}
+.srs_variation_third>.cmp-container{position:relative;z-index:1;border-radius:20px;border:1px solid rgba(0,115,187,1);padding:20px 0 10px 30px;background-size:100% 100%}
+.srs_variation_third>.cmp-container .leadproxytext.banner_third_left_sec .cmp-text .small_txt{color:var(--Secondary-Secondary-Grey-Dark,#58595b);font-family:Inter;font-size:.5rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.08px;display:block}
+.srs_variation_third>.cmp-container .logo_graph_wrapper{padding:unset !important;margin:unset !important}
+.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container{display:flex;align-items:flex-start;padding:30px 0;gap:40px}
+.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser{display:flex;gap:15px}
+.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__description h1,.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__description h2,.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__description h3,.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__description h4,.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__description h5,.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__description h6{width:312px;color:var(--Primary-Blue,#0073bb);font-family:Inter;font-size:1.625rem;font-style:normal;font-weight:700;line-height:130%;letter-spacing:-0.26px;margin:unset}
+.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser__description .black_text{color:var(--Secondary-Secondary-New-Black,#333);font-family:Inter;font-size:1.5rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.24px;margin-left:-75px;margin-top:13px}
+.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser__content .cmp-teaser__description .mob_benchmark_text{display:none}
+.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser__image{height:58px;width:58px}
+.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser__image .cq-dd-image{height:100%;width:100%}
+.srs_variation_third>.cmp-container .leadproxytext.srsbanner_common_list{margin-bottom:65px}
+.srs_variation_third>.cmp-container .leadproxytext.srsbanner_common_list .cmp-text ul{display:flex;flex-direction:column;gap:15px;position:relative}
+.srs_variation_third>.cmp-container .leadproxytext.srsbanner_common_list .cmp-text ul li{display:flex;align-items:flex-start;gap:9px;color:var(--Secondary-Secondary-New-Black,#333);font-family:Inter;font-size:1.125rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.18px;width:58%}
+.srs_variation_third>.cmp-container .leadproxytext.srsbanner_common_list .cmp-text ul li p{display:inline;color:var(--Secondary-Secondary-New-Black,#333);font-family:Inter;font-size:1.125rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.18px;text-align:left;margin:0;flex:1;word-wrap:break-word}
+.srs_variation_third>.cmp-container .leadproxytext.srsbanner_common_list .cmp-text ul li::before{content:'';background-image:url(../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/Icon-Check.svg);height:25px;width:25px;display:inline-block;background-repeat:no-repeat;background-size:cover;flex-shrink:0}
+.srs_variation_third>.cmp-container .leadproxytext.banner_mini_text{width:360px}
+.srs_variation_third>.cmp-container .leadproxytext.banner_mini_text .cmp-text p{color:var(--Secondary-Secondary-Grey-Dark,#58595b);text-align:justify;font-family:Inter;font-size:.5rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.08px}
+.srs_variation_third>.cmp-container .extendedimage.srs_banner_personImg{width:306px;height:356px;position:absolute;bottom:0;right:20px;z-index:2}
+.srs_variation_third>.cmp-container .extendedimage.srs_banner_personImg .cmp-image__image{width:306px;height:356px}
+.srs_variation_third>.cmp-container .leadproxytext.srsbanner_common_list .cmp-text ul li sup{font-size:.7em;position:relative;line-height:0;vertical-align:text-top;top:8px}
+@media screen and (max-width:797.99px){.srs_variation_third{width:100%}
+.srs_variation_third>.cmp-container{padding:10px 10px 6px 10px}
+.srs_variation_third>.cmp-container .leadproxytext.banner_third_left_sec .cmp-text .small_txt{font-size:.375rem;text-align:center}
+.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container{padding:13px 0}
+.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser{gap:15px}
+.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__description h1,.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__description h2,.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__description h3,.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__description h4,.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__description h5,.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser .cmp-teaser__description h6{display:block;font-size:.75rem;width:210px}
+.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser__content .cmp-teaser__description .mob_benchmark_text{display:inline-block;color:var(--neutral-universal-omni-black,#000);font-family:Inter;font-size:.75rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.12px}
+.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser__description .black_text{display:none}
+.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser__content .cmp-teaser__pretitle{left:28px;font-size:.75rem;width:210px}
+.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser__image{height:26px;width:26px}
+.srs_variation_third>.cmp-container .logo_graph_wrapper>.cmp-container .leadproxyteaser .cmp-teaser__image .cq-dd-image{height:100%;width:100%}
+.srs_variation_third>.cmp-container .leadproxytext.srsbanner_common_list .cmp-text ul li{width:86%}
+.srs_variation_third>.cmp-container .leadproxytext.srsbanner_common_list .cmp-text ul li::before{height:16px;width:16px}
+.srs_variation_third>.cmp-container .leadproxytext.srsbanner_common_list .cmp-text ul li p{font-size:.625rem}
+.srs_variation_third>.cmp-container .leadproxytext.srsbanner_common_list{margin-bottom:13px}
+.srs_variation_third>.cmp-container .leadproxytext.banner_mini_text{width:300px}
+.srs_variation_third>.cmp-container .leadproxytext.banner_mini_text .cmp-text p{font-size:.375rem}
+.srs_variation_third>.cmp-container .leadproxytext.srsbanner_common_list .cmp-text ul{gap:12px}
+.srs_variation_third>.cmp-container .extendedimage.srs_banner_personImg{display:none}
+.srs_variation_third>.cmp-container .leadproxytext.srsbanner_common_list .cmp-text ul li sup{top:5px}
+}
+.container.investment_plan_banner_auth{padding-right:unset;padding-left:unset;padding-top:10px;margin:unset}
+.investment_plan_banner_auth>.cmp-container{width:540px;position:relative}
+.investment_plan_banner_auth>.cmp-container .banner_small_text .cmp-text .small_txt{color:var(--Secondary-Secondary-Grey-Dark,#58595b);font-family:Inter;font-size:8px;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.08px;display:block}
+.investment_plan_banner_auth>.cmp-container .banner_bold_text{margin-top:20px}
+.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h1,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h2,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h3,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h4,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h5,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h6{color:var(--Secondary-Secondary-New-Black,#333);font-family:Inter;font-size:22px;font-style:normal;font-weight:700;line-height:120%;letter-spacing:-0.22px}
+.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h1 span.heading_normal_text,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h2 span.heading_normal_text,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h3 span.heading_normal_text,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h4 span.heading_normal_text,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h5 span.heading_normal_text,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h6 span.heading_normal_text{color:var(--Secondary-Secondary-New-Black,#333);font-family:Inter;font-size:16px;font-style:normal;font-weight:400;line-height:160%;letter-spacing:-0.16px}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper{margin-top:30px;padding:unset}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper .cmp-container{display:flex;flex-direction:column;gap:12px;width:64%}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper .cmp-container .leadproxyteaser:last-child{width:94%}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper>.cmp-container .cmp-teaser{display:flex;align-items:center;gap:16px}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper .cmp-teaser .cmp-teaser__svgimage{flex-grow:0;flex-shrink:0;flex-basis:auto}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper .cmp-teaser .cmp-teaser__image{flex-grow:0;flex-shrink:0;flex-basis:auto}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper .cmp-teaser .cmp-teaser__svgimage img{height:40px;width:40px}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper .cmp-teaser .cmp-teaser__image img{height:40px;width:40px}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper>.cmp-container .cmp-teaser .cmp-teaser__description p{color:var(--Secondary-Secondary-New-Black,#333);font-family:Inter;font-size:16px;font-style:normal;font-weight:400;line-height:140%;letter-spacing:-0.16px}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper>.cmp-container .cmp-teaser .cmp-teaser__description p sup{font-size:11px}
+.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text .blueText{font-size:24px}
+.investment_plan_banner_auth>.cmp-container .banner_bottom_text .cmp-text{margin-top:30px}
+.investment_plan_banner_auth>.cmp-container .banner_bottom_text .cmp-text p{color:var(--Secondary-Secondary-Grey-Dark,#58595b);font-family:Inter;font-size:8px;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.08px}
+.investment_plan_banner_auth>.cmp-container .extendedimage .cmp-image__image{position:absolute;top:105px;right:0}
+.investment_plan_banner_auth>.cmp-container .extendedimage picture{display:block}
+.investment_plan_banner_auth>.cmp-container .extendedimage .extended__mobileanchorimage,.investment_plan_banner_auth>.cmp-container .extendedimage picture .extended__mobileanchorimage{display:none}
+.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text ul li sup{font-size:.7em;position:relative;line-height:0;vertical-align:text-top;top:5px}
+@media screen and (max-width:767px){.container.investment_plan_banner_auth>.cmp-container{width:100%}
+.investment_plan_banner_auth>.cmp-container .banner_small_text .cmp-text .small_txt{font-size:6px}
+.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h1,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h2,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h3,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h4,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h5,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h6{font-size:12px}
+.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text .blueText{font-size:14px}
+.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h1 span.heading_normal_text,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h2 span.heading_normal_text,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h3 span.heading_normal_text,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h4 span.heading_normal_text,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h5 span.heading_normal_text,.investment_plan_banner_auth>.cmp-container .banner_bold_text .cmp-text h6 span.heading_normal_text{font-size:10px}
+.investment_plan_banner_auth>.cmp-container .banner_bold_text{margin-top:8px}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper{margin-top:8px}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper .cmp-container{gap:6px;width:72%}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper>.cmp-container .cmp-teaser{gap:8px}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper .cmp-teaser .cmp-teaser__svgimage img{height:16px;width:16px}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper .cmp-teaser .cmp-teaser__image img{height:16px;width:16px}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper>.cmp-container .cmp-teaser .cmp-teaser__description p{font-size:10px}
+.investment_plan_banner_auth>.cmp-container .investment_plan_list_wrapper>.cmp-container .cmp-teaser .cmp-teaser__description p sup{font-size:8px}
+.investment_plan_banner_auth>.cmp-container .banner_bottom_text .cmp-text{margin-top:12px}
+.investment_plan_banner_auth>.cmp-container .extendedimage .extended__mobileanchorimage,.investment_plan_banner_auth>.cmp-container .extendedimage picture img.extended__mobileanchorimage{display:block;position:absolute;width:96px;height:88px;top:56px;right:0}
+.investment_plan_banner_auth>.cmp-container .banner_bottom_text .cmp-text p{font-size:7px}
+}
+.saving-cal-container>.cmp-container{max-width:1206px;margin:0 auto;padding:24px;display:flex;gap:24px;border-radius:16px}
+.back-blue-desk>.cmp-container{background:linear-gradient(0,#fbfbfc 0,#f2f7fb 100%)}
+.saving-cal-container .srsbanner_variation_first{max-width:540px;width:100%}
+.sc_small_banner .cmp-container{background-size:cover;padding:17px 0 23px 20px}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .extendedimage.srs_banner_product_logo .cmp-image__image{width:216px;height:80px}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .extendedimage.srs_banner_product_logo{margin-bottom:36px}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .extendedimage.srs_banner_personImg{width:unset;height:unset;right:0}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .extendedimage.srs_banner_personImg .cmp-image__image{width:fit-content;height:auto}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text li::before{background-image:url("../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/Icon-Check.svg");background-repeat:no-repeat;background-size:cover}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text ul li{align-items:center}
+.sc_small_banner.srsbanner_variation_first>.cmp-container{position:relative;border:unset}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title{width:85%}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text .banner-title{font-size:1.5rem;line-height:normal;letter-spacing:-0.24px;font-weight:700}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text .gradient_banner_title{font-size:2.25rem;text-align:start;padding:8px;width:fit-content}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text .banner_bold_title{margin-top:13px}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text ul{margin-top:21px}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text li p{color:#333;font-family:Inter;font-size:1rem;font-style:normal;font-weight:400;line-height:18px;letter-spacing:-0.16px}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text li p b{font-weight:700}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_mini_text{width:68%}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_mini_text .cmp-text p{color:#58595b;font-family:Inter;font-size:.5rem;font-style:normal;font-weight:600;line-height:normal;letter-spacing:-0.08px;width:100%}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .extendedimage.srsbanner_first_hashtag{margin:62px 0 27px 0}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .extendedimage.srsbanner_first_hashtag .cmp-image__image{height:auto;width:fit-content}
+@media screen and (max-width:768px){.saving-cal-container{padding:0}
+.saving-cal-container>.cmp-container{flex-direction:column;padding:0 20px;gap:20px}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .extendedimage.srs_banner_product_logo{display:none}
+.sc_small_banner .cmp-container{padding:18px 14px 7px}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text .banner-title{font-size:1rem;letter-spacing:-0.16px}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title{width:100%}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .title_wrapper{flex-direction:column;gap:5px}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text .banner_bold_title{margin-top:unset;font-size:1rem;letter-spacing:-0.16px}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text .gradient_banner_title{font-size:1.25rem;letter-spacing:-0.2px}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text li p{font-size:.75rem;line-height:18px;letter-spacing:-0.12px}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text li::before{display:block;height:16px;width:16px}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text ul li{gap:4px}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text ul{align-items:flex-start}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text{display:flex;flex-direction:column;align-items:center}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_left_title .cmp-text ul{margin-top:11px;align-items:start}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_mini_text{width:100%;text-align:center}
+.sc_small_banner.srsbanner_variation_first>.cmp-container .leadproxytext.banner_mini_text .cmp-text p{font-weight:700}
+}
+.term-insurance-left-banner .extendedimage.banner-logo-image{width:168px;height:auto}
+.term-insurance-left-banner .banner-logo-image .cmp-image{width:168px;height:66px}
+.term-insurance-left-banner .banner-logo-image .cmp-image .cmp-image__image{width:168px;height:66px}
+.term-insurance-left-banner .banner-content-desktop-text{padding:20px 0 0 16px}
+.term-insurance-left-banner .banner-content-desktop-text .cmp-text .lead{background:linear-gradient(90deg,#0073bb 0,#d62049 100%);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;padding-bottom:24px;width:75%}
+.term-insurance-left-banner .banner-content-desktop-text .cmp-text ul li .eclipse-dots::before{width:24px;height:24px;background-size:100% 100%;background-repeat:no-repeat;top:-3px}
+.term-insurance-left-banner .banner-content-desktop-text .cmp-text ul li:has(.eclipse-dots){padding-left:32px;margin-bottom:14px}
+.term-insurance-left-banner .banner-content-desktop-text .cmp-text ul li .eclipse-dots,.term-insurance-left-banner .banner-content-desktop-text .cmp-text ul li .eclipse-dots b{font-size:1rem;letter-spacing:-0.16px}
+.term-insurance-left-banner .banner-content-desktop-text .cmp-text li sup{color:#333;font-family:Inter;font-size:12px;font-style:normal;font-weight:400;line-height:1px;letter-spacing:-0.05px;top:0;position:unset}
+.term-insurance-left-banner .banner-hero-image{width:239px;height:294px;bottom:1px}
+.term-insurance-left-banner .banner-hero-image .cmp-image{width:239px;height:294px}
+.term-insurance-left-banner .banner-hero-image .cmp-image__image{width:239px;height:294px}
+.term-insurance-left-banner .banner-tagline-image{width:160px;height:24px;bottom:46px}
+.term-insurance-left-banner .banner-tagline-image .cmp-image{width:160px;height:24px}
+.term-insurance-left-banner .banner-tagline-image .cmp-image .cmp-image__image{width:160px;height:24px}
+.term-insurance-left-banner .term-and-condition-text .cmp-text p,.term-insurance-left-banner .term-and-condition-text .cmp-text h1,.term-insurance-left-banner .term-and-condition-text .cmp-text h2,.term-insurance-left-banner .term-and-condition-text .cmp-text h3,.term-insurance-left-banner .term-and-condition-text .cmp-text h4,.term-insurance-left-banner .term-and-condition-text .cmp-text h5,.term-insurance-left-banner .term-and-condition-text .cmp-text h6{color:#58595b;font-family:Inter;font-size:.5rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.08px}
+.term-insurance-left-banner .term-and-condition-text{position:absolute;left:16px;bottom:16px;width:65%}
+.term-insurance-left-banner .banner-star-container{right:0;top:24px}
+.term-insurance-left-banner .banner-star-container .cmp-container{border-bottom-right-radius:0}
+.term-insurance-left-banner .banner-star-container::after{display:none}
+.term-insurance-left-banner>.cmp-container{background-size:100% 100%}
+.term-insurance-left-banner .banner-content-desktop-text .cmp-text ul{width:70%}
+.term-insurance-left-banner>.cmp-container::before{content:'';position:absolute;inset:0;padding:1.6px;background:linear-gradient(90deg,rgba(0,115,187,0.5),rgba(214,32,73,0.5));border-radius:16px;-webkit-mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);-webkit-mask-composite:xor;mask-composite:exclude;pointer-events:none}
+@media screen and (max-width:767px){.term-leftbanner-container .cmp-container .term-insurance-left-banner .extendedimage.banner-logo-image{width:144px;height:auto;padding:12px 0 0 12px}
+.term-insurance-left-banner .banner-logo-image .cmp-image{width:144px;height:60px}
+.term-leftbanner-container .cmp-container .term-insurance-left-banner .banner-logo-image.extendedimage .cmp-image__image{width:144px;height:60px;display:block}
+.term-insurance-left-banner .cmp-container{margin:unset}
+.term-insurance-left-banner.container{padding-left:20px;padding-right:20px}
+.term-insurance-left-banner .banner-star-container{right:20px;top:15px}
+.term-insurance-left-banner .banner-content-desktop-text{padding:4px 12px 0 12px;width:100%}
+.term-insurance-left-banner .banner-content-desktop-text .cmp-text .lead{width:100%;font-size:.75rem;letter-spacing:-0.12px;font-weight:700;text-align:center;padding-top:12px;padding-bottom:5px}
+.term-insurance-left-banner .banner-content-desktop-text .cmp-text ul{width:fit-content;margin:0 auto}
+.term-insurance-left-banner .banner-content-desktop-text .cmp-text ul li .eclipse-dots{font-size:.625rem;letter-spacing:-0.1px;line-height:13px}
+.term-insurance-left-banner .banner-content-desktop-text .cmp-text ul li:has(.eclipse-dots){margin-bottom:6px;padding-left:18px}
+.term-insurance-left-banner .banner-content-desktop-text .cmp-text ul li .eclipse-dots::before{width:11px;height:11px;left:2px;top:0}
+.term-insurance-left-banner .banner-content-desktop-text .cmp-text ul li{line-height:10px}
+.term-insurance-left-banner .term-and-condition-text .cmp-text p,.term-insurance-left-banner .term-and-condition-text .cmp-text h1,.term-insurance-left-banner .term-and-condition-text .cmp-text h2,.term-insurance-left-banner .term-and-condition-text .cmp-text h3,.term-insurance-left-banner .term-and-condition-text .cmp-text h4,.term-insurance-left-banner .term-and-condition-text .cmp-text h5,.term-insurance-left-banner .term-and-condition-text .cmp-text h6{font-size:.375rem;letter-spacing:-0.06px}
+.term-insurance-left-banner .term-and-condition-text{position:unset;width:100%;text-align:center}
+.term-insurance-left-banner .banner-content-desktop-text .cmp-text ul li .eclipse-dots b{font-size:.625rem;letter-spacing:-0.01px}
+.term-insurance-left-banner .banner-content-desktop-text .cmp-text li sup{font-size:.5rem;top:1px}
+.term-insurance-left-banner>.cmp-container::before{margin:0 20px;background:linear-gradient(90deg,rgba(0,115,187,0.2),rgba(214,32,73,0.2))}
+}
+.termcrore-left-banner .banner-logo-image .cmp-image{width:173px;height:72px}
+.termcrore-left-banner .extendedimage.banner-logo-image{width:173px;height:auto}
+.termcrore-left-banner .banner-logo-image .cmp-image .cmp-image__image{width:173px;height:72px}
+.termcrore-left-banner .banner-content-desktop-text{padding:24px 16px 0 16px}
+.termcrore-left-banner .banner-content-desktop-text .cmp-text .lead{padding-bottom:26px;width:70%}
+.termcrore-left-banner .banner-content-desktop-text .cmp-text ul li .eclipse-dots,.termcrore-left-banner .banner-content-desktop-text .cmp-text ul li .eclipse-dots b{font-size:1rem;letter-spacing:-0.16px;line-height:24px}
+.termcrore-left-banner .banner-content-desktop-text .cmp-text ul li{margin-bottom:12px}
+.termcrore-left-banner .banner-content-desktop-text .cmp-text ul li .eclipse-dots::before{width:24px;height:24px;background-repeat:no-repeat;background-size:100% 100%;left:3px;top:-1px}
+.termcrore-left-banner .banner-content-desktop-text .cmp-text ul li:has(.eclipse-dots){padding-left:31px}
+.termcrore-left-banner .banner-content-desktop-text .cmp-text ul{width:66%}
+.termcrore-left-banner .banner-hero-image{height:298px;bottom:1px}
+.termcrore-left-banner .banner-tagline-image{width:160px;height:24px;bottom:48px;left:16px}
+.termcrore-left-banner .term-and-condition-text{position:absolute;bottom:18px;left:16px;width:65%}
+.termcrore-left-banner .term-and-condition-text .cmp-text p,.termcrore-left-banner .term-and-condition-text .cmp-text h1,.termcrore-left-banner .term-and-condition-text .cmp-text h2,.termcrore-left-banner .term-and-condition-text .cmp-text h3,.termcrore-left-banner .term-and-condition-text .cmp-text h4,.termcrore-left-banner .term-and-condition-text .cmp-text h5,.termcrore-left-banner .term-and-condition-text .cmp-text h6{color:#58595b;font-family:Inter;font-size:.5rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.08px}
+.termcrore-left-banner{position:relative}
+.termcrore-left-banner .banner-content-desktop-text .cmp-text li sup{position:unset;line-height:1px;font-size:12px}
+.termcrore-left-banner .cmp-container{background-size:100% 100%}
+.termcrore-left-banner>.cmp-container::before{content:'';position:absolute;inset:0;padding:1.6px;background:linear-gradient(90deg,rgba(0,115,187,0.5),rgba(214,32,73,0.5));border-radius:16px;-webkit-mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);-webkit-mask-composite:xor;mask-composite:exclude;pointer-events:none}
+@media screen and (max-width:767px){.termcrore-left-banner .cmp-container{margin:unset}
+.termcrore-left-banner.container{padding:0 20px}
+.termcrore-leftbanner-container .cmp-container .termcrore-left-banner .extendedimage.banner-logo-image{padding:10px 0 10px 11px;width:120px;height:auto}
+.termcrore-leftbanner-container .cmp-container .termcrore-left-banner .extendedimage.banner-logo-image .cmp-image{width:120px;height:50px}
+.termcrore-left-banner .banner-logo-image{padding:10px 0 0 12px}
+.termcrore-left-banner .banner-logo-image .cmp-image{width:120px;height:50px}
+.termcrore-leftbanner-container .cmp-container .termcrore-left-banner .banner-logo-image .cmp-image .cmp-image__image{width:120px;height:50px;display:block}
+.termcrore-left-banner .banner-logo-image .cmp-image .cmp-image__image{width:120px;height:50px}
+.termcrore-left-banner .banner-star-container{display:block;top:15px;right:20px;width:127px}
+.termcrore-left-banner .banner-content-desktop-text{padding:0 12px}
+.termcrore-left-banner .banner-content-desktop-text .cmp-text .lead{margin:unset;width:100%;padding-top:unset;padding-bottom:10px;text-align:center}
+.termcrore-left-banner .banner-content-desktop-text .cmp-text ul li:has(.eclipse-dots){padding-left:16px;margin-bottom:6px;line-height:10px}
+.termcrore-left-banner .banner-content-desktop-text .cmp-text ul li .eclipse-dots::before{width:14px;height:14px;top:-1px;left:0}
+.termcrore-left-banner .banner-content-desktop-text .cmp-text ul li .eclipse-dots,.termcrore-left-banner .banner-content-desktop-text .cmp-text ul li .eclipse-dots b{font-size:.688rem;letter-spacing:-0.11px;line-height:14px}
+.termcrore-left-banner .term-and-condition-text{position:unset;width:100%}
+.termcrore-left-banner .term-and-condition-text .cmp-text p,.termcrore-left-banner .term-and-condition-text .cmp-text h1,.termcrore-left-banner .term-and-condition-text .cmp-text h2,.termcrore-left-banner .term-and-condition-text .cmp-text h3,.termcrore-left-banner .term-and-condition-text .cmp-text h4,.termcrore-left-banner .term-and-condition-text .cmp-text h5,.termcrore-left-banner .term-and-condition-text .cmp-text h6{font-size:.375rem;letter-spacing:-0.06px;text-align:center}
+.termcrore-left-banner .banner-content-desktop-text .cmp-text ul{width:fit-content;margin:0 auto}
+.termcrore-left-banner .banner-content-desktop-text .cmp-text li sup{font-size:.5rem}
+.termcrore-left-banner>.cmp-container::before{margin:0 20px;background:linear-gradient(90deg,rgba(0,115,187,0.2),rgba(214,32,73,0.2))}
+}
+.termnri-left-banner .cmp-container{padding:28px 16px 18px 16px;background-size:100% 100%}
+.termnri-left-banner .banner-content-desktop-text .cmp-text .lead{color:#333;font-family:Inter;font-size:1.75rem;font-style:normal;font-weight:700;line-height:42px;letter-spacing:-0.28px;padding-bottom:6px}
+.termnri-left-banner .banner-content-desktop-text{padding:unset}
+.termnri-left-banner .banner-content-desktop-text .cmp-text .sub-Text{color:#333;font-family:Inter;font-size:1.125rem;font-style:normal;font-weight:500;line-height:27px;letter-spacing:-0.18px;margin-top:unset;margin-bottom:26px}
+.termnri-left-banner .banner-content-desktop-text .cmp-text .blueText{color:#0073bb;font-family:Inter;font-size:1.125rem;font-style:normal;font-weight:700;line-height:27px;letter-spacing:-0.18px}
+.termnri-left-banner .banner-content-desktop-text .cmp-text .redText{color:#d62049;font-family:Inter;font-size:1.125rem;font-style:normal;font-weight:700;line-height:27px;letter-spacing:-0.18px}
+.termnri-left-banner .banner-content-desktop-text .cmp-text ul li{color:#333;font-family:Inter;font-size:1rem;font-style:normal;font-weight:400;line-height:normal;align-items:center;margin-bottom:16px;padding-left:34px;position:relative}
+.termnri-left-banner .banner-content-desktop-text .cmp-text ul li b{font-weight:700;font-size:1rem}
+.termnri-left-banner .banner-content-desktop-text .cmp-text ul li img{width:24px;height:24px;margin-right:10px;position:absolute;left:0;top:-2px}
+.termnri-left-banner .banner-tagline-image{width:160px;height:24px;bottom:50px;left:16px}
+.termnri-left-banner .banner-tagline-image .cmp-image{width:160px;height:24px}
+.termnri-left-banner .banner-tagline-image .cmp-image__image{width:160px;height:24px}
+.termnri-left-banner .term-and-condition-text{position:absolute;bottom:18px;left:16px}
+.termnri-left-banner .term-and-condition-text .cmp-text p,.termnri-left-banner .term-and-condition-text .cmp-text h1,.termnri-left-banner .term-and-condition-text .cmp-text h2,.termnri-left-banner .term-and-condition-text .cmp-text h3,.termnri-left-banner .term-and-condition-text .cmp-text h4,.termnri-left-banner .term-and-condition-text .cmp-text h5,.termnri-left-banner .term-and-condition-text .cmp-text h6{color:#58595b;font-family:Inter;font-size:.5rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.08px}
+.termnri-leftbanner-container .cmp-container .termnri-left-banner .extendedimage:nth-child(2){display:unset}
+.termnri-leftbanner-container .cmp-container .termnri-left-banner .banner-hero-image.extendedimage{width:389px;height:339px;bottom:1px}
+.termnri-leftbanner-container .cmp-container .termnri-left-banner .banner-hero-image.extendedimage .cmp-image{width:389px;height:339px}
+.termnri-leftbanner-container .cmp-container .termnri-left-banner .banner-hero-image.extendedimage .cmp-image__image{width:389px;height:339px;border-bottom-right-radius:16px}
+.termnri-left-banner .banner-content-desktop-text .cmp-text ul{width:68%}
+.termnri-left-banner .banner-content-desktop-text .cmp-text li sup{top:0;font-size:12px;line-height:1px;position:unset}
+.termnri-left-banner>.cmp-container::before{content:'';position:absolute;inset:0;padding:1.6px;background:linear-gradient(90deg,rgba(0,115,187,0.5),rgba(214,32,73,0.5));border-radius:16px;-webkit-mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);-webkit-mask-composite:xor;mask-composite:exclude;pointer-events:none}
+@media screen and (max-width:767px){.termnri-leftbanner-container .cmp-container .termnri-left-banner .extendedimage:nth-child(2){display:none}
+.termnri-left-banner .banner-hero-image{display:none}
+.termnri-left-banner .banner-content-desktop-text .cmp-text .lead{width:100%;font-size:1rem;line-height:normal;letter-spacing:-0.16px;padding-top:unset;padding-bottom:4px;text-align:center}
+.termnri-left-banner .banner-content-desktop-text .cmp-text .sub-Text{font-size:.75rem;line-height:18px;letter-spacing:-0.12px;text-align:center;margin-bottom:8px}
+.termnri-left-banner .banner-content-desktop-text .cmp-text .blueText{font-size:.75rem;line-height:18px;letter-spacing:-0.12px}
+.termnri-left-banner .banner-content-desktop-text .cmp-text .redText{font-size:.75rem;line-height:18px;letter-spacing:-0.12px}
+.termnri-left-banner .banner-content-desktop-text .cmp-text ul li{font-size:.625rem;margin-bottom:6px;padding-left:16px;line-height:14px}
+.termnri-left-banner .banner-content-desktop-text .cmp-text ul li b{font-size:.625rem}
+.termnri-left-banner .banner-content-desktop-text .cmp-text ul li img{width:14px;height:14px;margin-right:5px;top:0}
+.termnri-leftbanner-container .cmp-container .termnri-left-banner .cmp-container{padding:20px 16px 12px 16px;margin:unset}
+.termnri-left-banner .banner-content-desktop-text .cmp-text ul{margin:0 auto;width:fit-content}
+.termnri-left-banner .term-and-condition-text{position:unset;text-align:center}
+.termnri-left-banner .term-and-condition-text .cmp-text p,.termnri-left-banner .term-and-condition-text .cmp-text h1,.termnri-left-banner .term-and-condition-text .cmp-text h2,.termnri-left-banner .term-and-condition-text .cmp-text h3,.termnri-left-banner .term-and-condition-text .cmp-text h4,.termnri-left-banner .term-and-condition-text .cmp-text h5,.termnri-left-banner .term-and-condition-text .cmp-text h6{font-size:.375rem;letter-spacing:-0.06px}
+.termnri-left-banner.container{padding:0 20px}
+.termnri-left-banner .banner-content-mobile-text h1,.termnri-left-banner .banner-content-mobile-text h2,.termnri-left-banner .banner-content-mobile-text h3,.termnri-left-banner .banner-content-mobile-text h4,.termnri-left-banner .banner-content-mobile-text h5,.termnri-left-banner .banner-content-mobile-text h6{text-align:center}
+.termnri-left-banner .banner-content-mobile-text .cmp-text ul li:has(.eclipse-dots){padding-left:16px}
+.termnri-left-banner .banner-content-mobile-text .cmp-text ul li .eclipse-dots::before{width:12px;height:12px}
+.termnri-left-banner .banner-tagline-image{margin:0 auto}
+.termnri-left-banner .banner-tagline-image .cmp-image{padding:8px 0 0 0}
+.termnri-left-banner .banner-terms-and-condition-txt{padding:8px 16px 8px 16px;max-width:100%;text-align:center}
+.termnri-left-banner .banner-content-mobile-text .cmp-text ul li img{width:59px;height:14px}
+.termnri-left-banner .banner-content-desktop-text .cmp-text li sup{margin-top:unset;top:1px;font-size:.5rem;position:unset}
+.termnri-left-banner>.cmp-container::before{margin:0 20px;background:linear-gradient(90deg,rgba(0,115,187,0.2),rgba(214,32,73,0.2))}
+}
+.termplan-mrl-leftbanner .cmp-container .banner-content-desktop-text{padding:20px 0 0 16px}
+.termplan-mrl-leftbanner .banner-content-desktop-text ul li{color:#333;font-family:Inter;font-size:1rem;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.16px;padding-left:32px}
+.termplan-mrl-leftbanner .banner-content-desktop-text .cmp-text ul li b{font-weight:700}
+.termplan-mrl-leftbanner .banner-content-desktop-text .cmp-text ul li .eclipse-dots::before{padding-left:25px;background-size:100% 100%;width:24px;height:24px;margin-right:unset;top:-2px}
+.termplan-mrl-leftbanner .banner-content-desktop-text .cmp-text ul li img{margin-bottom:-3px}
+.termplan-mrl-leftbanner .banner-content-desktop-text .cmp-text ul{gap:15px}
+.termplan-mrl-leftbanner .banner-content-desktop-text .cmp-text ul li .eclipse-dots img{width:74px;height:18px}
+.termplan-mrl-leftbanner .banner-hero-image{width:250px;height:297px;bottom:1px}
+.termplan-mrl-leftbanner .banner-tagline-image .cmp-image .cmp-image__image{width:160px;height:24px}
+.termplan-mrl-leftbanner .banner-tagline-image{bottom:13%}
+.termplan-mrl-leftbanner .banner-terms-and-condition-txt{padding:0 0 16px 16px}
+.termplan-mrl-leftbanner .banner-content-desktop-text .cmp-text ul li:has(.eclipse-dots){padding-left:32px}
+.termplan-mrl-leftbanner .banner-content-desktop-text .eclipse-dots sup{font-size:.75rem}
+.termmlr-leftbanner-container .termplan-mrl-leftbanner .banner-content-mobile-text .cmp-text li:has(sup) sup{line-height:1px}
+.termplan-mrl-leftbanner>.cmp-container::before{content:'';position:absolute;inset:0;padding:1.6px;background:linear-gradient(90deg,rgba(0,115,187,0.5),rgba(214,32,73,0.5));border-radius:16px;-webkit-mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);-webkit-mask-composite:xor;mask-composite:exclude;pointer-events:none}
+.mrl-pointers .banner-content-desktop-text ul li .eclipse-dots sup{line-height:1px}
+.mrl-pointers .banner-content-desktop-text ul li .eclipse-dots{line-height:24px}
+@media screen and (max-width:767px){.termplan-mrl-leftbanner .banner-hero-image{display:none}
+.termplan-mrl-leftbanner .banner-ulp-policy-holder{display:block}
+.termplan-mrl-leftbanner .banner-ulp-policy-holder .cmp-text{text-align:center;padding:8px 16px 0 16px}
+.termplan-mrl-leftbanner .banner-content-mobile-text .cmp-text ul{padding:12px 0 0 0;margin:0 auto;width:81%}
+.termplan-mrl-leftbanner .banner-content-mobile-text{padding:8px 16px 0 16px}
+.termplan-mrl-leftbanner .banner-content-mobile-text .cmp-text p,.termplan-mrl-leftbanner .banner-content-mobile-text .cmp-text h1,.termplan-mrl-leftbanner .banner-content-mobile-text .cmp-text h2,.termplan-mrl-leftbanner .banner-content-mobile-text .cmp-text h3,.termplan-mrl-leftbanner .banner-content-mobile-text .cmp-text h4,.termplan-mrl-leftbanner .banner-content-mobile-text .cmp-text h5,.termplan-mrl-leftbanner .banner-content-mobile-text .cmp-text h6{text-align:center}
+.termplan-mrl-leftbanner .banner-tagline-image{margin:0 auto}
+.termplan-mrl-leftbanner .banner-tagline-image .cmp-image{padding:8px 0 0 0}
+.termplan-mrl-leftbanner .banner-terms-and-condition-txt{max-width:100%;padding:8px 27px 8px 27px;text-align:center}
+.termplan-mrl-leftbanner .banner-content-mobile-text .cmp-text ul li .eclipse-dots::before{width:12px;height:12px;top:0}
+.termplan-mrl-leftbanner .banner-content-mobile-text .cmp-text ul li:has(.eclipse-dots){padding-left:16px}
+.termplan-mrl-leftbanner .banner-tagline-image .cmp-image .cmp-image__image{width:107px;height:16px}
+.termplan-mrl-leftbanner .banner-content-mobile-text .cmp-text ul li img{width:64px;height:10px;margin-bottom:-1px}
+.termplan-mrl-leftbanner .banner-content-desktop-text .eclipse-dots sup{font-size:7px}
+.termplan-mrl-leftbanner>.cmp-container::before{background:linear-gradient(90deg,rgba(0,115,187,0.2),rgba(214,32,73,0.2))}
+.termplan-mrl-leftbanner .banner-content-mobile-text .cmp-text .lead{text-align:center}
+.termplan-mrl-leftbanner .banner-tagline-image{display:none}
+.mrl-pointers .banner-content-mobile-text .cmp-text ul li .eclipse-dots sup{line-height:1px}
+.mrl-pointers .banner-content-mobile-text .cmp-text ul li .eclipse-dots{line-height:12px}
+}
+.termrop-leftbanner-container .cmp-container .termrop-left-banner .banner-logo-image.extendedimage{width:173px;height:72px;padding-top:unset;margin-left:unset}
+.termrop-leftbanner-container .cmp-container .termrop-left-banner .banner-logo-image.extendedimage .cmp-image__image{width:173px;height:72px}
+.termrop-left-banner .cmp-container{padding:24px 16px 16px 20px}
+.termrop-left-banner .banner-content-desktop-text{padding:27px 0 0 0}
+.termrop-left-banner .banner-content-desktop-text .cmp-text .lead img{width:18px;height:18px;margin:13px 0}
+.termrop-left-banner .banner-tagline-image{bottom:20px;left:16px}
+.termrop-left-banner .banner-tagline-image .cmp-image .cmp-image__image{width:160px;height:24px}
+.termrop-leftbanner-container .cmp-container .banner-hero-image.extendedimage:nth-child(2){width:233px;height:289px;display:block;bottom:1px}
+.termrop-left-banner .banner-content-desktop-text .cmp-text p:nth-child(2) .gradient-text{font-family:Inter;font-size:.75rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.12px;display:flex;justify-content:center;align-items:center;position:absolute;top:-8px;left:0;right:0}
+.termrop-left-banner .banner-content-mobile-text{display:none}
+.termrop-left-banner .banner-content-desktop-text .cmp-text p:nth-child(2){border-top:21px solid #fff;border-left:20px solid transparent;border-right:unset;border-bottom:20px solid #fff;background:#fff;height:37px;position:absolute;width:320px;top:41px;right:2px;background:transparent}
+.termrop-left-banner .banner-content-mobile-text .cmp-text p:nth-child(2){border-top:14px solid #fff;border-left:13px solid transparent;border-right:14px solid transparent;border-bottom:14px solid #fff;background:#fff;height:27px;background:transparent;position:relative;width:300px;margin:12px auto 0 auto}
+.termrop-left-banner .banner-content-mobile-text .cmp-text p:nth-child(2) .gradient-text{font-family:Inter;font-size:.688rem;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.114px;display:flex;justify-content:center;align-items:center;position:absolute;top:-6px;width:100%}
+.termrop-left-banner .banner-content-desktop-text .cmp-text .blueText sup{font-size:1rem;font-weight:700}
+.termrop-left-banner .banner-content-desktop-text .cmp-text sup{font-size:1rem;font-weight:700}
+.termrop-left-banner .banner-content-desktop-text .cmp-text .lead{width:65%}
+.termrop-left-banner .banner-content-desktop-text .cmp-text p:nth-child(2) .gradient-text sup{font-size:.5rem;line-height:1px;margin-bottom:6px}
+.termrop-left-banner>.cmp-container::before{content:'';position:absolute;inset:0;padding:1.6px;background:linear-gradient(90deg,rgba(0,115,187,0.5),rgba(214,32,73,0.5));border-radius:16px;-webkit-mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);-webkit-mask-composite:xor;mask-composite:exclude;pointer-events:none}
+@media screen and (max-width:767px){.termrop-leftbanner-container .cmp-container .banner-hero-image.extendedimage:nth-child(2){display:none}
+.termrop-left-banner .banner-tagline-image{display:block}
+.termrop-leftbanner-container .cmp-container .termrop-left-banner .banner-logo-image.extendedimage .cmp-image__image{display:block;width:144px;height:60px}
+.termrop-leftbanner-container .cmp-container .termrop-left-banner .banner-logo-image.extendedimage{width:144px;height:60px;margin:0 auto;padding:unset}
+.termrop-leftbanner-container .cmp-container .termrop-left-banner .banner-logo-image.extendedimage .cmp-image{width:144px;height:60px}
+.termrop-left-banner .banner-content-desktop-text{display:none}
+.termrop-left-banner .banner-content-mobile-text{display:block;margin-top:17px}
+.termrop-left-banner>.cmp-container{padding:15px;margin:unset}
+.termrop-left-banner.container{padding:0 20px}
+.termrop-left-banner .banner-content-mobile-text .cmp-text .lead .blueText sup{font-size:.75rem;font-weight:700}
+.termrop-left-banner .banner-content-mobile-text .cmp-text .lead sup{font-size:.75rem;font-weight:700}
+.termrop-left-banner .banner-content-mobile-text .cmp-text p:nth-child(2) .gradient-text sup{font-size:.5rem;line-height:1px;margin-bottom:6px}
+.termrop-left-banner>.cmp-container::before{margin:0 20px;background:linear-gradient(90deg,rgba(0,115,187,0.2),rgba(214,32,73,0.2))}
+}
+.container.term_insurance_banner{padding:unset;margin:unset}
+.container.term_insurance_banner>.cmp-container{background-size:cover;overflow:hidden}
+.term-calculator-container>.cmp-container .container.term_insurance_banner .extendedimage:nth-child(1) .cmp-image{width:unset;height:unset}
+.term-calculator-container>.cmp-container .container.term_insurance_banner .extendedimage:nth-child(1){width:unset;height:unset}
+.container.term_insurance_banner>.cmp-container .term_banner_title{padding-top:20px}
+.container.term_insurance_banner>.cmp-container{padding:16px;border-radius:16px;position:relative}
+.container.term_insurance_banner>.cmp-container .term_banner_title .cmp-text h1,.container.term_insurance_banner>.cmp-container .term_banner_title .cmp-text h2,.container.term_insurance_banner>.cmp-container .term_banner_title .cmp-text h3,.container.term_insurance_banner>.cmp-container .term_banner_title .cmp-text h4,.container.term_insurance_banner>.cmp-container .term_banner_title .cmp-text h5,.container.term_insurance_banner>.cmp-container .term_banner_title .cmp-text h6{font-family:Inter;font-size:28px;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.28px;background:var(--Primary-Gradient,linear-gradient(90deg,#0073bb 0,#d62049 100%));background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;margin-bottom:unset}
+.container.term_insurance_banner>.cmp-container .term_banner_title .cmp-text span{color:var(--Primary-Primary-Blue,#0073bb);font-size:18px;font-style:normal;font-weight:600;line-height:normal;letter-spacing:-0.18px;font-family:Inter;padding-top:8px;display:inline-block}
+.container.term_insurance_banner>.cmp-container .list_wrapper{padding:unset;margin-top:24px}
+.container.term_insurance_banner>.cmp-container .list_wrapper .cmp-container{display:flex;flex-direction:column;gap:15px;width:60%}
+.container.term_insurance_banner>.cmp-container .list_wrapper .text .cmp-text p{font-family:Inter;display:flex;gap:8px;align-items:flex-start;margin-bottom:unset}
+.container.term_insurance_banner>.cmp-container .list_wrapper .text .cmp-text p span{color:var(--Secondary-Secondary-New-Black,#333);font-family:Inter;font-size:16px;font-style:normal;font-weight:400;line-height:24px;letter-spacing:-0.16px}
+.container.term_insurance_banner>.cmp-container .list_wrapper .text .cmp-text p img{height:24px;width:24px;flex-shrink:0}
+.container.term_insurance_banner>.cmp-container .term_insurance_banner_hashtag{position:absolute;bottom:40px}
+.container.term_insurance_banner>.cmp-container .term_insurance_banner_hashtag .cmp-image__image{width:160px;height:24px}
+.container.term_insurance_banner>.cmp-container .term_condition_text{position:absolute;bottom:10px}
+.container.term_insurance_banner>.cmp-container .term_condition_text .cmp-text p{color:var(--Secondary-Secondary-Grey-Dark,#58595b);font-family:Inter;font-size:10px;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.1px}
+.container.term_insurance_banner>.cmp-container .person_image{position:absolute;right:0;bottom:0;width:230px;height:348px}
+.container.term_insurance_banner>.cmp-container .person_image .cmp-image__image{height:100%;width:100%}
+.container.term_insurance_banner>.cmp-container .list_wrapper .text .cmp-text p span sup{font-size:.7em;position:relative;line-height:0;vertical-align:text-top;top:5px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_banner_title .cmp-text h1,.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_banner_title .cmp-text h2,.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_banner_title .cmp-text h3,.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_banner_title .cmp-text h4,.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_banner_title .cmp-text h5,.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_banner_title .cmp-text h6{margin-bottom:unset}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container{padding:20px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .extendedimage.product_logo .cmp-image__image{width:240px;height:96px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_banner_title{width:90%;padding-top:30px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .list_wrapper .text .cmp-text p span{font-size:18px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .list_wrapper .text .cmp-text p img{flex-shrink:0;height:30px;width:30px;margin-top:-3px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_insurance_banner_hashtag .cmp-image__image{width:200px;height:30px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_insurance_banner_hashtag{bottom:20px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_condition_text{display:none}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .person_image{height:265px;width:388px;bottom:-2px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .person_image .cmp-image__image{height:100%;width:100%}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container::before,.container.term_insurance_banner>.cmp-container::before{content:'';position:absolute;inset:0;padding:1.6px;background:linear-gradient(90deg,rgba(0,115,187,0.5),rgba(214,32,73,0.5));border-radius:16px;-webkit-mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);-webkit-mask-composite:xor;mask-composite:exclude;pointer-events:none}
+.container.term_insurance_banner.term_insurance_variation_align>.cmp-container .person_image{height:214px;width:310px;bottom:-2px}
+@media screen and (max-width:767px){.container.term_insurance_banner{margin:unset;padding:0 20px}
+.container.term_insurance_banner.term_insurance_variation{padding:unset}
+.container.term_insurance_banner>.cmp-container{min-width:100%;width:100%;display:flex;flex-direction:column;gap:0;align-items:center}
+.container.term_insurance_banner>.cmp-container .term_banner_title{padding-top:16px}
+.container.term_insurance_banner>.cmp-container .term_banner_title .cmp-text h1,.container.term_insurance_banner>.cmp-container .term_banner_title .cmp-text h2,.container.term_insurance_banner>.cmp-container .term_banner_title .cmp-text h3,.container.term_insurance_banner>.cmp-container .term_banner_title .cmp-text h4,.container.term_insurance_banner>.cmp-container .term_banner_title .cmp-text h5,.container.term_insurance_banner>.cmp-container .term_banner_title .cmp-text h6{font-size:1rem;text-align:center}
+.container.term_insurance_banner>.cmp-container .term_banner_title .cmp-text span{font-size:12px;padding-top:5px}
+.container.term_insurance_banner>.cmp-container .list_wrapper .text .cmp-text p img{height:12px;width:12px}
+.container.term_insurance_banner>.cmp-container .list_wrapper{margin-top:16px}
+.container.term_insurance_banner>.cmp-container .list_wrapper .text .cmp-text p span{font-size:10px;line-height:12px}
+.container.term_insurance_banner>.cmp-container .list_wrapper .text .cmp-text p span br{display:none}
+.container.term_insurance_banner>.cmp-container .list_wrapper .cmp-container{width:100%;gap:6px}
+.container.term_insurance_banner>.cmp-container .term_insurance_banner_hashtag{display:none}
+.container.term_insurance_banner>.cmp-container .term_condition_text .cmp-text p{font-size:6px}
+.container.term_insurance_banner>.cmp-container .person_image{display:none}
+.term-calculator-container .cmp-container .extendedimage:nth-child(1){display:unset}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container{align-items:flex-start}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_banner_title{width:100%;padding-top:20px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_banner_title .cmp-text h1,.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_banner_title .cmp-text h2,.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_banner_title .cmp-text h3,.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_banner_title .cmp-text h4,.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_banner_title .cmp-text h5,.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_banner_title .cmp-text h6{font-size:18px;text-align:left}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .extendedimage.product_logo .cmp-image__image{display:block;width:180px;height:75px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .list_wrapper .cmp-container{align-items:flex-start;gap:8px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .list_wrapper .text .cmp-text p img{height:20px;width:20px;margin-top:-2px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .list_wrapper .text .cmp-text p span{font-size:13px;text-align:left}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .list_wrapper{padding-top:16px;margin:unset;width:85%}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_insurance_banner_hashtag .cmp-image__image{display:block;width:160px;height:24px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .term_insurance_banner_hashtag{display:block;position:unset;margin-top:20px;bottom:159px;left:14px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .person_image{display:block;height:205px;width:300px}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container .extendedimage.person_image .cmp-image__image{display:block;height:100%;width:100%}
+.container.term_insurance_banner.term_insurance_variation>.cmp-container::before,.container.term_insurance_banner>.cmp-container::before{background:linear-gradient(90deg,rgba(0,115,187,0.3),rgba(214,32,73,0.3))}
+.container.term_insurance_banner.term_insurance_variation_align>.cmp-container .person_image{height:175px;width:251px}
+.container.term_insurance_banner.term_insurance_variation_align.banner-padding-mob{padding:0 20px}
+}
+.container.term_variation_second{padding:unset;margin:unset}
+.container.term_variation_second>.cmp-container{background-size:cover;border-radius:16px;padding:20px;position:relative;overflow:hidden}
+.container.term_variation_second>.cmp-container .term_banner_title{padding-top:10px}
+.container.term_variation_second>.cmp-container .term_banner_title .cmp-text h1,.container.term_variation_second>.cmp-container .term_banner_title .cmp-text h2,.container.term_variation_second>.cmp-container .term_banner_title .cmp-text h3,.container.term_variation_second>.cmp-container .term_banner_title .cmp-text h4,.container.term_variation_second>.cmp-container .term_banner_title .cmp-text h5,.container.term_variation_second>.cmp-container .term_banner_title .cmp-text h6{margin-bottom:unset;color:#0073bb;font-size:36px;font-weight:700;line-height:normal;letter-spacing:-0.28px}
+.container.term_variation_second>.cmp-container .term_banner_title .cmp-text p{margin-top:20px;width:68%;font-size:22px;font-weight:700;letter-spacing:-0.24px;margin-bottom:unset}
+.container.term_variation_second>.cmp-container .list_wrapper{padding:22px;margin-top:16px;background:var(--Primary-Gradient,linear-gradient(90deg,#0073bb 0,#d62049 100%));position:absolute;left:0;width:55%;border-radius:0 16px 16px 0}
+.container.term_variation_second>.cmp-container .list_wrapper>.cmp-container{display:flex;flex-direction:column;gap:15px}
+.container.term_variation_second>.cmp-container .term_insurance_banner_hashtag{display:block;position:absolute;bottom:20px;height:24px;width:133px}
+.container.term_variation_second>.cmp-container .term_insurance_banner_hashtag .cmp-image__image{display:block;height:100%;width:100%}
+.container.term_variation_second>.cmp-container .list_wrapper>.cmp-container .text .cmp-text p{display:flex;gap:10px;align-items:flex-start;margin-bottom:unset}
+.container.term_variation_second>.cmp-container .list_wrapper>.cmp-container .text .cmp-text img{flex-shrink:0;height:24px;width:24px}
+.container.term_variation_second>.cmp-container .list_wrapper>.cmp-container .text .cmp-text p span{color:white;font-size:18px;letter-spacing:.5px;line-height:normal;opacity:.9;margin-bottom:unset;text-align:left}
+.container.term_variation_second>.cmp-container .list_wrapper>.cmp-container .text .cmp-text p span sup{font-size:.7em;position:relative;line-height:0;vertical-align:text-top;top:5px}
+.container.term_variation_second>.cmp-container .extendedimage.person_image{position:absolute;right:17px;bottom:0;width:317px;height:294px}
+.container.term_variation_second>.cmp-container .extendedimage.person_image .cmp-image__image{height:100%;width:100%}
+.container.term_variation_second>.cmp-container::before{content:'';position:absolute;inset:0;padding:1.6px;background:linear-gradient(90deg,rgba(0,115,187,0.5),rgba(214,32,73,0.5));border-radius:16px;-webkit-mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);-webkit-mask-composite:xor;mask-composite:exclude;pointer-events:none}
+@media screen and (max-width:767px){.container.term_variation_second>.cmp-container .term_banner_title .cmp-text h1,.container.term_variation_second>.cmp-container .term_banner_title .cmp-text h2,.container.term_variation_second>.cmp-container .term_banner_title .cmp-text h3,.container.term_variation_second>.cmp-container .term_banner_title .cmp-text h4,.container.term_variation_second>.cmp-container .term_banner_title .cmp-text h5,.container.term_variation_second>.cmp-container .term_banner_title .cmp-text h6{font-size:26px}
+.container.term_variation_second>.cmp-container .term_banner_title .cmp-text p{font-size:18px;width:100%;margin-top:16px}
+.container.term_variation_second>.cmp-container .list_wrapper{width:100%;border-radius:0}
+.container.term_variation_second>.cmp-container .list_wrapper>.cmp-container{text-align:left}
+.container.term_variation_second>.cmp-container .list_wrapper>.cmp-container .text .cmp-text p span{font-size:16px}
+.container.term_variation_second>.cmp-container .extendedimage.person_image{right:44px;width:281px;height:197px;z-index:9}
+.container.term_variation_second>.cmp-container .extendedimage.person_image .cmp-image__image{display:block;height:100%;width:100%}
+.container.term_variation_second>.cmp-container .term_insurance_banner_hashtag{display:block;z-index:10;position:absolute;bottom:9px;height:24px;left:110px;width:133px}
+.container.term_variation_second>.cmp-container .list_wrapper>.cmp-container .text .cmp-text img{height:20px;width:20px}
+.container.term_variation_second>.cmp-container::before{background:linear-gradient(90deg,rgba(0,115,187,0.3),rgba(214,32,73,0.3))}
+}
+.term-fiftylakh-left-banner .banner-content-desktop-text .cmp-text .lead{font-weight:400}
+.term-fiftylakh-left-banner .banner-content-desktop-text .cmp-text li sup{font-size:.75rem;top:unset;font-weight:400;line-height:1px;position:unset}
+.term-fiftylakh-left-banner .banner-content-desktop-text .cmp-text ul li{padding-left:31px;position:relative;line-height:24px;font-size:1rem;margin-bottom:15px}
+.term-fiftylakh-left-banner .banner-content-desktop-text .cmp-text ul li::before{content:'';position:absolute;background:url(../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/srp-icon-check.svg);margin-right:7px;width:24px;height:24px;background-repeat:no-repeat;background-size:100% 100%;left:3px;top:-1px}
+.term-fiftylakh-left-banner .banner-content-desktop-text .cmp-text .lead{width:75%}
+.term-fiftylakh-left-banner .banner-content-desktop-text ul{width:70%}
+.term-fiftylakh-left-banner .banner-content-desktop-text .cmp-text sup{font-size:.5rem;font-weight:700;margin-bottom:6px;line-height:1px}
+.termrop-leftbanner-container .cmp-container .term-fiftylakh-left-banner .banner-hero-image.extendedimage:nth-child(2){height:235px}
+@media screen and (max-width:767px){.term-fiftylakh-left-banner .banner-content-desktop-text{display:block;padding:unset}
+.term-fiftylakh-left-banner .banner-content-desktop-text .cmp-text .lead{width:90%;text-align:center}
+.term-fiftylakh-left-banner .banner-content-desktop-text .cmp-text ul li{padding-left:16px;line-height:11px;margin-bottom:8px;font-size:10px}
+.term-fiftylakh-left-banner .banner-content-desktop-text .cmp-text ul li::before{width:14px;height:14px;left:0;top:-2px}
+.term-fiftylakh-left-banner .banner-content-desktop-text .cmp-text ul{width:75%;margin:0 auto}
+.term-fiftylakh-left-banner>.cmp-container{padding:15px 15px 45px 15px}
+.term-fiftylakh-left-banner .banner-content-desktop-text .cmp-text p:nth-child(2){border-top:14px solid #fff;border-left:13px solid transparent;border-right:14px solid transparent;border-bottom:14px solid #fff;background:#fff;height:27px;background:transparent;position:absolute;width:300px;bottom:15px;margin:12px auto 0 auto;top:unset;right:0;left:0}
+.term-fiftylakh-left-banner .banner-content-desktop-text .cmp-text p:nth-child(2) .gradient-text{font-family:Inter;font-size:11px;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.114px;display:flex;justify-content:center;align-items:center;position:absolute;top:-6px;width:100%}
+.term-fiftylakh-left-banner .banner-content-desktop-text .cmp-text li sup{line-height:1px;font-size:.5rem}
+}

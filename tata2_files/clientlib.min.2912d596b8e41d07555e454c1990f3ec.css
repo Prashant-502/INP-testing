@@ -1,0 +1,187 @@
+.ta-srp-banner-container>.cmp-container{position:relative;padding:20px 24px;display:flex;gap:17px;justify-content:space-between;border-radius:16px}
+.blue-linear-gradient>.cmp-container{background:linear-gradient(0,#fbfbfc 0,#f2f7fb 100%)}
+.ta-srp-banner-container .ta-srp-left{width:48%}
+.ta-srp-banner-container .ta-srp-right{width:51%}
+.ta-srp-banner-container .ta-srp-left{display:block;max-width:540px;max-height:490px}
+.ta-srp-banner-container .ti-ta-whatsapp-btn{position:absolute;bottom:35px;left:41px}
+.ta-srp-banner-container .ti-ta-whatsapp-btn .cmp-button{display:flex;flex-direction:column;cursor:pointer;padding:8px;border-radius:8px;border:1.5px solid #0073bb;background:#FFF;box-shadow:0 0 8px 0 rgba(0,0,0,0.16)}
+.ta-srp-banner-container .ti-ta-whatsapp-btn .cmp-button .cmp-button__text{color:#0073bb;font-family:Helvetica;font-size:14px;font-weight:700;line-height:18px;letter-spacing:-0.14px;margin-left:34px;position:relative}
+.ta-srp-banner-container .ti-ta-whatsapp-btn .cmp-button .btnsubtext{color:#58595b;font-family:Helvetica;font-size:12px;margin-left:34px;font-weight:400;line-height:18px;letter-spacing:-0.12px}
+.ta-srp-banner-container .ti-ta-whatsapp-btn .cmp-button .cmp-button__text::before{content:" ";background-image:url("../../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/whatsapp-btn.svg");width:30px;height:30px;display:block;margin-right:4px;position:absolute;left:-34px;top:2px}
+.ta-srp-banner-container .ta-srp-left .cmp-image,.ta-srp-banner-container .ta-srp-left img{width:100%;height:100%}
+.ta-srp-banner-container .ta-srp-left img{object-fit:contain;height:auto}
+.ta-srp-banner-container .ta-srp-left .extended__mobileimage{display:none}
+.ta-srp-banner-container .terminsurance-heading p,.ta-srp-banner-container .terminsurance-heading h1,.ta-srp-banner-container .terminsurance-heading h2,.ta-srp-banner-container .terminsurance-heading h3,.ta-srp-banner-container .terminsurance-heading h4,.ta-srp-banner-container .terminsurance-heading h5{font-family:Inter;font-size:24px;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.24px;width:fit-content;background:linear-gradient(90deg,#0073bb 0,#d62049 100%);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.ta-srp-banner-container .terminsurance-heading p sup{position:unset;vertical-align:super;font-size:12px}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper{display:flex;flex-wrap:wrap;gap:16px}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_name,.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_dob,.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_email,.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_mobile{width:48.5%}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_dob .ti-ta-datepicker{background-image:url("../../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/newcalendar.svg");background-size:24px 24px;background-repeat:no-repeat;background-position:calc(100% - 16px) center}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .new-toggle-btn-wrap{margin-right:5px;width:30.8%}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .new-toggle-btn-wrap.inp--field_smoke{margin-right:0}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_mobile{display:flex;flex-direction:column}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_mobile .inp-wrapper__err{color:#d62049;font-family:Inter;font-size:12px;font-style:italic;font-weight:400;line-height:18px;letter-spacing:-0.12px;margin-top:8px}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .new-calc-inp{display:flex;flex-direction:column-reverse}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .new-calc-label{color:#58595b;font-family:Inter;font-size:14px;font-style:normal;font-weight:600;line-height:100%;letter-spacing:-0.14px}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .error-txt{color:#d62049;font-family:Inter;font-style:italic;font-weight:400;line-height:18px;font-size:.75rem;letter-spacing:-0.12px}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp-wrapper--invalid .error-txt{margin-top:8px}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .error-txt.srp_calc_dnone{display:none}
+.ta-srp-banner-container .termpagecalc{margin:16px 0}
+.ta-srp-banner-container .termpagecalc .new-calc-inp-field{margin-top:8px;border-radius:8px;border:1px solid #e6e7e8;background:#FFF;height:50px;padding:16px;color:#000;font-family:Inter;font-size:14px;font-style:normal;font-weight:500;line-height:18px;letter-spacing:-0.14px;outline:0}
+.ta-srp-banner-container .termpagecalc .new-calc-inp-field::placeholder{color:#a7a9ac;font-family:Inter;font-size:14px;font-style:normal;font-weight:500;line-height:18px;letter-spacing:-0.14px}
+.ta-srp-banner-container .inp-country-dropdown .inp-county-wrap .county-code-popup{left:0}
+.ta-srp-banner-container .inp-country-dropdown .inp-county-wrap .county-code-popup .inp-country-dropdown-search{font-size:15px}
+.ta-srp-banner-container .termpagecalc .srp-toggle-switch{height:50px;margin-top:8px;position:relative;background:unset;cursor:pointer;display:flex;border-radius:8px;border:1px solid #e6e7e8}
+.ta-srp-banner-container .termpagecalc .srp-toggle-switch .switch{width:55%;height:100%;transition:all .15s ease;position:absolute;left:0;top:0;z-index:1;border-radius:8px;border:2px solid #0073bb;display:flex;align-items:center;column-gap:8px;justify-content:center;background-color:white}
+.ta-srp-banner-container .termpagecalc .srp-toggle-switch.off .switch{left:46%}
+.ta-srp-banner-container .termpagecalc .srp-toggle-switch .switch .switch-txt{color:#0073bb;font-family:Inter;font-size:14px;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.14px}
+.ta-srp-banner-container .termpagecalc .srp-toggle-switch .srp-toggle-switch-label{width:50%;height:100%;text-align:center;padding:16px;color:#58595b;font-family:Inter;font-size:14px;font-weight:700;font-style:normal;letter-spacing:-0.14px}
+.ta-srp-banner-container .termpagecalc .srp-toggle-switch img{height:16px;width:16px}
+.ta-srp-banner-container .inp--field_mobile .inp-country-label{width:100%}
+.ta-srp-banner-container .inp-country-dropdown .inp-country-label--wrap{display:flex;margin-bottom:0}
+.ta-srp-banner-container .inp-wrapper{margin-bottom:0}
+.ta-srp-banner-container .inp-country-dropdown .county-code{padding:0;border-right:unset;position:relative;color:#58595b;font-family:Inter;font-size:14px;font-style:normal;font-weight:500;line-height:18px;letter-spacing:-0.14px}
+.ta-srp-banner-container .inp-country-dropdown .county-code.arrow-hide::after{background-image:unset}
+.ta-srp-banner-container .termpagecalc .countrycode-inp-wrapper{margin-top:8px;position:relative;width:100%;display:flex;height:50px;padding:16px;align-items:center;gap:8px;align-self:stretch;border-radius:8px;border:1px solid #e6e7e8;background:#FFF}
+.ta-srp-banner-container .termpagecalc .select-newcountry-code{height:unset;border-right:2px solid #e6e7e8;padding-right:24px;cursor:pointer}
+.ta-srp-banner-container .termpagecalc .select-newcountry-code .newcountry-code{color:#58595b;font-family:Inter;font-size:14px;font-style:normal;font-weight:500;line-height:18px;letter-spacing:-0.14px}
+.ta-srp-banner-container .termpagecalc .select-newcountry-code .newcountry-code::after{position:absolute;content:'';background-image:url("../../../../content/dam/tataaialifeinsurancecompanylimited/hard-code-icons/common-icons/dropdown-arrow.svg");width:16px;height:16px;background-size:100% 100%;top:12px;right:-23px}
+.ta-srp-banner-container .termpagecalc .newcountry-code-wrapper{width:100%;height:280px;position:absolute;top:49px;left:0;background:#fff;z-index:8;border-radius:20px;box-shadow:3px 6px 14px 0 rgba(0,115,187,0.1)}
+.srp_calc_dnone{display:none}
+.ta-srp-banner-container .termpagecalc .newcountry-code-wrapper.srp_calc_dnone{display:none}
+.ta-srp-banner-container .termpagecalc .newcountry-code-search{border-bottom:1px solid #58595b;padding:10px 20px;display:flex;align-items:center}
+.ta-srp-banner-container .termpagecalc .newcountry-code-search .new-calc-searchcode{border:0;font-family:'HelveticaNeueLTStd-Md';font-style:normal;width:80%;font-weight:500;font-size:14px;line-height:24px;margin-left:12px;outline:0}
+.ta-srp-banner-container .termpagecalc .newcountry-code-search img{vertical-align:middle;height:20px;width:20px}
+.ta-srp-banner-container .termpagecalc .newcountry-code-wrapper .newcountry-code-numbers{overflow-y:scroll;background:white;height:245px;z-index:9;border-radius:20px;box-shadow:3px 6px 14px 0 rgba(0,115,187,0.1);padding-left:20px}
+.srp_countryname{font-family:'Helvetica';font-style:normal;font-weight:400;font-size:18px;line-height:24px;color:#333;padding:12px 0 12px;cursor:pointer;display:flex;gap:12px}
+.ta-srp-banner-container .termpagecalc .newcountry-code-wrapper .newcountry-code-numbers .srp-calc-country-code-li.srp_calc_dnone{display:none}
+.ta-srp-banner-container .termpagecalc .newcountry-code-wrapper .newcountry-code-numbers .srp-calc-country-code-li .srp-country-codeele{min-width:50px;text-align:right}
+.ta-srp-banner-container .termpagecalc .countrycode-inp-wrapper .new-calc-mobile-input-wrp{margin-left:10px;width:82%}
+.ta-srp-banner-container .termpagecalc .countrycode-inp-wrapper .srp-calc-mobile-input-field{outline:0;border:0;margin-left:13px;border-left:1px solid gray;padding-left:8px;color:#000;font-family:Inter;font-size:14px;background:0;font-weight:500;line-height:18px;letter-spacing:-0.14px;width:100%}
+.ta-srp-banner-container .termpagecalc .countrycode-inp-wrapper .select-newcountry-code.hide-country-arrow{cursor:default}
+.ta-srp-banner-container .newcountry-code-wrapper .newcountry-code-numbers::-webkit-scrollbar{width:5px}
+.ta-srp-banner-container .newcountry-code-wrapper .newcountry-code-numbers::-webkit-scrollbar-thumb{background-color:#e6e7e8;border-radius:4px}
+.ta-srp-banner-container .newcountry-code-wrapper .newcountry-code-numbers::-webkit-scrollbar-track{background:transparent}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .newcalcform--btn{display:flex;height:50px;padding:16px 24px;justify-content:center;align-items:center;gap:8px;align-self:stretch;border-radius:8.5px;background:#d62049;cursor:pointer}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .newcalcform--btn .newcalcform--btn__txt{color:#fff;font-family:Inter;font-size:14px;font-weight:700;line-height:18px;letter-spacing:-0.14px}
+.ta-srp-banner-container .terminsurance-calc .description-text{color:#58595b;font-family:Inter;font-size:10px;font-weight:400;line-height:normal;letter-spacing:-0.1px}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp-wrapper--invalid .new-calc-inp-field{border:1px solid #eb9aa7}
+.ta-srp-banner-container .termpagecalc .newcountry-code-search .new-calc-searchcode::placeholder{color:#58595b;font-family:Inter;font-size:14px;font-weight:500}
+.srp-toggle-switch .srp-toggle-switch-label{display:flex;align-items:center;justify-content:center;width:55%;height:100%;color:#58595b;font-family:Inter;font-size:14px;font-style:normal;font-weight:700;letter-spacing:-0.14px}
+.srp_country_mainwrp{width:100%}
+.srp-pointer-evt{pointer-events:none}
+.srpcountry-code.arrow-hide::after{display:none}
+.datepicker{min-width:284px}
+.srpconsent{display:flex;align-items:start;gap:8px}
+.srpconsent .srpcheck{width:30px;margin:0;padding:0;height:16px;border:1px solid #d1d1d1;background:#FFF}
+.srpconsent .srpconsent-content .info-content-srpconsent{color:#58595b;font-family:Inter;font-size:10px;font-style:normal;font-weight:400;line-height:normal;letter-spacing:-0.1px}
+.srpconsent .srpconsent-content .info-content-srpconsent a{text-decoration-line:underline;color:#58595b}
+.srpconsent .srpconsent-validation{color:#d62049;font-family:Inter;font-size:.75rem;font-weight:400;font-style:italic;line-height:18px;display:block;margin-top:8px;letter-spacing:-0.12px}
+.ta-srp-banner-container .inp-country-dropdown .county-code::after{width:16px;height:16px;right:-20px}
+.srp-redirect-white-btn,.srp-redirect-red-btn{display:none}
+@media screen and (max-width:768px){.ta-srp-banner-container{padding:0 !important}
+.ta-srp-banner-container .ta-srp-left img{display:none}
+.ta-srp-banner-container .ta-srp-left .extended__mobileimage{display:block}
+.ta-srp-banner-container .ta-srp-left{margin-top:16px}
+.ta-srp-banner-container .ta-srp-left,.ta-srp-banner-container .ta-srp-right{width:100%}
+.ta-srp-banner-container>.cmp-container{flex-direction:column;padding:0 20px;gap:8px;border-radius:0}
+.ta-srp-banner-container .ta-srp-left{max-width:350px;max-height:100%;margin:16px auto 0}
+.ta-srp-banner-container .terminsurance-heading{margin:16px 0 16px}
+.ta-srp-banner-container .terminsurance-heading p{text-align:center;font-family:Inter;font-size:20px;font-style:normal;font-weight:700;line-height:normal;letter-spacing:-0.2px;margin:auto}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper{border-radius:16px;background:#FFF;box-shadow:0 0 10px 1px rgba(0,127,197,0.12);padding:16px}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_name,.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_mobile,.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_email{width:100%}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_dob{width:56%}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_isNRI,.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_smoke{width:38%;margin-right:0}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_gender{width:56%;margin-right:0}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .newcalcform--btn__wrapper{width:100%;margin-top:8px}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .newcalcform--btn{width:100%}
+.ta-srp-banner-container .terminsurance-calc .description-text{display:none}
+.ta-srp-banner-container .termpagecalc{margin:16px 0 0}
+.ta-srp-banner-container .ti-ta-whatsapp-btn{width:100%;position:unset;padding:0 16px;margin-bottom:20px}
+.ta-srp-banner-container .ti-ta-whatsapp-btn .cmp-button .cmp-button__text{margin-left:0;margin:auto}
+.ta-srp-banner-container .ti-ta-whatsapp-btn .cmp-button .cmp-button__text::before{position:absolute;left:-34px;top:-6px}
+.ta-srp-banner-container .ti-ta-whatsapp-btn .cmp-button .btnsubtext{display:none}
+.ta-srp-banner-container .ti-ta-whatsapp-btn .cmp-button{height:50px}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .new-calc-label{font-size:12px}
+.ta-srp-banner-container .termpagecalc .new-calc-inp-field,.ta-srp-banner-container .termpagecalc .countrycode-inp-wrapper{margin-top:4px;padding:12px}
+.ta-srp-banner-container .termpagecalc .srp-toggle-switch .srp-toggle-switch-label{color:#a7a9ac}
+.ta-srp-banner-container .termpagecalc .srp-toggle-switch{margin-top:4px}
+.ta-srp-banner-container .termpagecalc .countrycode-inp-wrapper{gap:4px}
+.ta-srp-banner-container .inp-country-dropdown .county-code::after{top:0}
+.ta-srp-banner-container .termpagecalc .srp-toggle-switch .switch{column-gap:4px}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_mobile .inp-wrapper__err{margin-top:4px}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp-wrapper--invalid .error-txt{margin-top:4px}
+.datepicker{min-width:162px}
+.srpconsent{margin-top:8px}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .error-txt{font-size:.688rem}
+.srpconsent .srpconsent-validation{margin-top:4px;font-size:.688rem}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_mobile .inp-wrapper__err{font-size:.688rem}
+.srpconsent .srpcheck{width:63px;height:20px;margin:0}
+.ta-srp-banner-container .terminsurance-heading p sup{font-size:10px}
+.srp-redirect-white-btn,.srp-redirect-red-btn{display:block;display:flex;justify-content:center}
+.srp-redirect-white-btn .cmp-button,.srp-redirect-red-btn .cmp-button{display:flex;height:40px;padding:8px 16px;justify-content:center;align-items:center;gap:8px;flex-shrink:0;align-self:stretch}
+.srp-redirect-red-btn .cmp-button{border-radius:8px;border:1px solid #d62049;background:#d62049}
+.srp-redirect-white-btn .cmp-button{border-radius:8px;border:1px solid #d62049;background:#FFF}
+.srp-redirect-red-btn .cmp-button .cmp-button__text{color:#FFF;text-align:center;font-family:Inter;font-size:.875rem;font-style:normal;font-weight:700;line-height:21px;letter-spacing:-0.14px}
+.srp-redirect-white-btn .cmp-button .cmp-button__text{color:#d62049;text-align:center;font-family:Inter;font-size:.875rem;font-style:normal;font-weight:700;line-height:21px;letter-spacing:-0.14px}
+.ta-srp-banner-container .termpagecalc .termpagecalc__wrapper .inp--field_dob .ti-ta-datepicker{background-position:calc(100% - 10px) center}
+}
+.srp-otp-popup-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.6);z-index:101;visibility:hidden;opacity:0;transition:opacity .1s linear}
+.srp-otp-popup-overlay.active{visibility:visible;opacity:1}
+.srp-otp-popup-maindiv .srp-otp-popup-bottomcontent{text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.srp-otp-popup-section .srp-otp-popup-bottomcontent .srp-otp-popup-submitbtn{border:1px solid #d62049;font-size:24px;font-family:"HelveticaNeueLTStd-Md",sans-serif;line-height:normal;letter-spacing:-1px;width:auto;height:auto;box-shadow:0 0 10px 0 rgba(214,32,73,0.1);background-color:#d62049;color:#fff;padding:10px 65px;width:100%}
+.srp-otp-popup-section .srp-otp-popup-bottomcontent .srp-otp-popup-submitbtn.disabled{opacity:.5;cursor:no-drop}
+.srp-otp-popup-resendbtn-wrapper{font-size:16px;text-align:center;margin-bottom:20px;color:#58595b;font-family:"helveticaregular",sans-serif}
+.srp-otp-popup-section .srp-otp-popup-maincontent{margin:26px 0 30px}
+.srp-otp-popup-resendbtn-wrappper{font-size:16px;text-align:center;margin-bottom:20px;font-family:"helveticaregular",sans-serif}
+.srp-otp-popup-section .srp-otp-popup-resendbtn-wrapper .srp-otp-popup-resendbtn{color:#0073bb;margin-left:5px;border:0;background-color:inherit;padding:0;margin:0 0 0 5px;font-size:inherit;font-family:"helveticaregular",sans-serif;cursor:pointer}
+.srp-otp-popup-section .srp-otp-popup-resendbtn-wrapper .srp-otp-popup-resendbtn[disabled]{cursor:no-drop;color:#58595b}
+.srp-otp-popup-wrapper{position:relative}
+.srp-otp-popup-wrapper .srp-otp-popup-closebtn{position:absolute;right:20px;top:20px;cursor:pointer;background:transparent}
+.srp-otp-popup-maindiv .sub-text{line-height:1.71;letter-spacing:normal}
+.srp-otp-popup-maindiv{border-radius:15px;background-color:#fff;padding:40px 30px;position:fixed;left:0;bottom:0;background:#fff;z-index:102;transform:translateY(120%);width:320px;height:auto;display:inline-table;padding:30px 20px}
+.srp-otp-popup-maindiv.active{transform:translate(-50%,-50%);top:50%;left:50%}
+.srp-otp-popup-maindiv h2{font-size:1.75rem;font-weight:700;text-align:center;margin-bottom:10px;font-family:Inter,sans-serif;line-height:1;letter-spacing:-0.4px;color:#333}
+.srp-otp-popup-maindiv .srp-otp-popup-maincontent .srp-otp-popup-subtext{font-family:"helveticaregular";font-size:16px;color:#a7a9ac;margin:0 0 0 5px;line-height:1.11;text-align:center}
+.srp-otp-popup-timerwrapper svg{height:16px;width:16px}
+.srp-otp-popup-maindiv .sub-text{line-height:1.71;letter-spacing:normal}
+.srp-otp-popup-topcontent{font-size:18px;font-family:Helvetica;display:flex;flex-direction:column;align-items:center}
+.srp-otp-popup-maindiv .srp-otp-popup-subtext b{font-weight:bold}
+.srp-otp-popup-maindiv .srp-otp-popup-maincontent .srp-otp-popup-subtext{line-height:1.11;text-align:center;margin-bottom:0}
+.srp-otp-popup-topcontent .srp-otp-popup-editbtn{font-size:18px;text-decoration:none;margin-left:5px;color:#0073bb;font-family:"helveticaregular",sans-serif !important;letter-spacing:-1px}
+.srp-otp-popup-maindiv .srp-otp-popup-maincontent .srp-otp-popup-subtext{line-height:1.11;text-align:center;margin-bottom:0}
+.srp-otp-popup-inputwrapper{display:flex;justify-content:center;margin-bottom:16px}
+.srp-otp-popup-input{border:1px solid #e6e7e8;box-shadow:0 4px 5px rgba(0,115,187,0.1);border-radius:4px;height:48px;width:48px;padding:9.5px;text-align:center;font-family:"Inter",sans-serif;font-weight:400;margin-right:15px;font-size:24px;line-height:1;letter-spacing:normal;color:#333}
+.srp-otp-popup-input.blueborder{border:1px solid #0073bb}
+.srp-otp-popup-input:focus{outline:0}
+.srp-otp-popup-errmsg{display:block;font-family:"Helvetica";font-size:16px;font-weight:300;line-height:normal;letter-spacing:normal;color:#d62049;text-align:center;font-style:normal;margin-top:7px}
+.srp-otp-popup-timerwrapper{display:flex;justify-content:center;align-items:center;margin-top:20px}
+.srp-otp-popup-maindiv .srp-otp-popup-subtext{margin:auto;margin-bottom:0;font-family:"helveticaregular",sans-serif;font-size:18px;text-align:center;color:#58595b;font-weight:normal;line-height:1.67;font-weight:normal;letter-spacing:normal}
+.srp-otp-popup-contatwrapper{display:flex;justify-content:center;align-items:center;margin:5px 0 40px 0}
+.srp-otp-popup-contactno{font-size:18px;text-align:center;color:#58595b;font-family:"helveticaregular",sans-serif;font-weight:normal;word-break:break-all}
+.srp-otp-popup-maindiv .srp-otp-popup-maincontent .srp-otp-popup-subtext{line-height:1.11;text-align:center;margin-bottom:0}
+.srp-br-10{border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;-ms-border-radius:10px;-o-border-radius:10px}
+.srp-btn{padding:10px 35px;cursor:pointer;background:#d62049;font-size:24px;display:inline-block}
+.srp-btn :hover{color:#fff}
+a:hover,a:focus,.srp-btn:hover,.srp-btn:focus,button:focus{text-decoration:none;outline:0;box-shadow:none}
+.srp-otp-popup-section .d-none{display:none}
+.srp-otp-popup-input.srs-redBorder{border:1px solid #d62049}
+.srp-otp-popup-title-wrap{font-size:1.75rem;font-weight:700;text-align:center;margin-bottom:10px;font-family:Inter,sans-serif;line-height:1;letter-spacing:-0.4px;color:#333}
+@media screen and (max-width:767.98px){.srp-otp-popup-section .srp-otp-popup-wrapper .srp-otp-popup-maindiv h2{font-size:20px}
+.srp-otp-popup-section .srp-otp-popup-bottomcontent{margin-top:0}
+.srp-otp-popup-section .srp-otp-popup-bottomcontent .srp-otp-popup-primarybtn{padding:12px 20px;font-size:16px;font-family:"HelveticaNeueLTStd-Md",sans-serif;line-height:normal;letter-spacing:-0.67px}
+.srp-otp-popup-section .srp-otp-popup-bottomcontent .srp-otp-popup-submitbtn{padding:10px 40px}
+.srp-otp-popup-section .srp-otp-popup-maincontent{margin:0}
+.srp-otp-popup-maindiv{width:320px}
+.srp-otp-popup-maindiv h2{font-size:28px;font-family:"Inter",sans-serif;line-height:normal;font-weight:800;letter-spacing:-0.78px;margin-bottom:7px}
+.srp-otp-popup-maindiv .srp-otp-popup-bottomcontent{margin-top:40px;padding:0}
+.srp-otp-popup-maindiv .srp-otp-popup-subtext{font-size:1rem}
+.srs-otp-popup-contactno{font-size:1rem}
+.srp-otp-popup-resendbtn-wrapper{font-size:14px}
+.srp-otp-popup-topcontent{font-size:14px}
+.srp-otp-popup-topcontent .srp-otp-popup-editbtn{font-size:1rem;font-family:"HelveticaNeueLTStd-Bd",sans-serif;letter-spacing:-0.67px;line-height:normal}
+.srp-otp-popup-editbtn{font-size:16px;line-height:1.38}
+.srp-otp-popup-inputwrapper{margin-bottom:5px}
+.srp-otp-popup-input{font-size:20px;line-height:.8;height:40px;width:40px;padding:0 6px;margin-right:8px}
+.srp-otp-popup-errmsg{font-size:12px}
+.srs-btn{font-size:14px;width:100%}
+}
